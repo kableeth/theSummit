@@ -278,6 +278,11 @@
           </a>
         </li>
         {%- endif -%}
+
+        {%- comment -%}SOCIAL MEDIA LINKS{%- endcomment -%}
+        {%- if section.settings.show_social_media -%}
+          {%- render 'social-media', layout: 'list' -%}
+        {%- endif -%}
       </ul>
     </nav>
 
@@ -498,6 +503,12 @@
       "id": "show_cart_icon",
       "label": "Show cart icon",
       "default": true
+    },
+    {
+      "type": "checkbox",
+      "id": "show_social_media",
+      "label": "Show social media links",
+      "default": false
     },
     {
       "type": "header",
