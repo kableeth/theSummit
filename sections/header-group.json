@@ -73,6 +73,7 @@
         "sidebar_open_second_level_menus": false,
         "layout": "logo_left_navigation_inline",
         "show_icons": true,
+        "show_cart_icon": false,
         "show_country_selector": true,
         "show_country_name": false,
         "show_country_flag": true,
