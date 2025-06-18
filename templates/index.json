@@ -16,7 +16,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/header-summer_f0e2728d-ae23-42e9-96fd-d72f032903d7.jpg",
-            "subheading": "BRINGING THE BEST OF VERY SEASON SINCE 1978",
+            "subheading": "BRINGING THE BEST OF VERY SEASON <strong>SINCE 1978</strong>",
             "title": "Welcome to Summer at The Summit",
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
