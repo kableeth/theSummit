@@ -245,10 +245,28 @@
         "default": "helvetica_n4"
       },
       {
-        "type": "text",
+        "type": "select",
         "id": "custom_heading_font",
         "label": "Custom heading font",
-        "info": "Enter the name of your custom font (e.g., '5th Avenue'). This will override the font picker above.",
+        "info": "Select from your custom fonts. This will override the font picker above.",
+        "options": [
+          {
+            "value": "",
+            "label": "Use default font picker"
+          },
+          {
+            "value": "5th Avenue",
+            "label": "5th Avenue"
+          },
+          {
+            "value": "Visby CF",
+            "label": "Visby CF"
+          },
+          {
+            "value": "LouiseWalker",
+            "label": "LouiseWalker"
+          }
+        ],
         "default": ""
       },
       {
@@ -301,6 +319,31 @@
         "label": "t:theme_settings.typography.body_font",
         "info": "t:theme_settings.typography.font_info",
         "default": "helvetica_n4"
+      },
+      {
+        "type": "select",
+        "id": "custom_text_font",
+        "label": "Custom body font",
+        "info": "Select from your custom fonts. This will override the font picker above.",
+        "options": [
+          {
+            "value": "",
+            "label": "Use default font picker"
+          },
+          {
+            "value": "5th Avenue",
+            "label": "5th Avenue"
+          },
+          {
+            "value": "Visby CF",
+            "label": "Visby CF"
+          },
+          {
+            "value": "LouiseWalker",
+            "label": "LouiseWalker"
+          }
+        ],
+        "default": ""
       },
       {
         "type": "range",

@@ -6,6 +6,39 @@ note that this may have impact on different places.
 {%- assign language_code = localization.language.iso_code | split: '-' | first -%}
 
 <style>
+  /* Custom font declarations */
+  @font-face {
+    font-family: '5th Avenue';
+    src: url('{{ "5thAvenue.woff2" | asset_url }}') format('woff2');
+    font-display: swap;
+    font-weight: normal;
+    font-style: normal;
+  }
+
+  @font-face {
+    font-family: 'Visby CF';
+    src: url('{{ "VisbyCF-Bold.woff2" | asset_url }}') format('woff2');
+    font-display: swap;
+    font-weight: bold;
+    font-style: normal;
+  }
+
+  @font-face {
+    font-family: 'Visby CF';
+    src: url('{{ "VisbyCF-Medium.woff2" | asset_url }}') format('woff2');
+    font-display: swap;
+    font-weight: 500;
+    font-style: normal;
+  }
+
+  @font-face {
+    font-family: 'LouiseWalker';
+    src: url('{{ "LouiseWalker-Serif.woff2" | asset_url }}') format('woff2');
+    font-display: swap;
+    font-weight: normal;
+    font-style: normal;
+  }
+
   {%- assign heading_font_italic = settings.heading_font | font_modify: 'style', 'italic' -%}
   {%- assign text_font_italic = settings.text_font | font_modify: 'style', 'italic' -%}
   {%- assign text_font_bold = settings.text_font | font_modify: 'weight', 'bolder' -%}
@@ -79,7 +112,7 @@ note that this may have impact on different places.
     --heading-font-style: {{ settings.heading_font.style }};
     --heading-text-transform: {{ settings.heading_text_transform }};
     --heading-letter-spacing: {% if language_code == 'ar' %}0{% else %}{{ settings.heading_letter_spacing | divided_by: 100.0 }}{% endif %}em;
-    --text-font-family: {{ settings.text_font.family }}, {{ settings.text_font.fallback_families }};
+    --text-font-family: {% if settings.custom_text_font != blank %}'{{ settings.custom_text_font }}'{% else %}{{ settings.text_font.family }}, {{ settings.text_font.fallback_families }}{% endif %};
     --text-font-weight: {{ settings.text_font.weight }};
     --text-font-style: {{ settings.text_font.style }};
     --text-letter-spacing: {% if language_code == 'ar' %}0{% else %}{{ settings.text_font_letter_spacing | divided_by: 100.0 }}{% endif %}em;
