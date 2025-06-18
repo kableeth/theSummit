@@ -24,6 +24,7 @@
       "block_order": [
         "message-1"
       ],
+      "disabled": true,
       "settings": {
         "color_scheme": "",
         "enable_sticky": false,
@@ -74,6 +75,7 @@
         "layout": "logo_left_navigation_inline",
         "show_icons": true,
         "show_cart_icon": false,
+        "show_social_media": true,
         "show_country_selector": false,
         "show_country_name": false,
         "show_country_flag": false,
