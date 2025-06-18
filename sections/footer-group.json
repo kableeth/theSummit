@@ -17,8 +17,8 @@
         "newsletter": {
           "type": "newsletter",
           "settings": {
-            "title": "Newsletter",
-            "content": "<p>Sign up to our newsletter to receive exclusive offers.</p>",
+            "title": "Signup for our Newsletter!",
+            "content": "<p>Get all the latest on our store hours, special deals and Events!</p>",
             "button_background": "#e32c2b",
             "button_text_color": "#ffffff"
           }
@@ -28,7 +28,7 @@
           "settings": {
             "menu": "new-footer-menu",
             "show_menu_title": true,
-            "menu_title": ""
+            "menu_title": "Links"
           }
         },
         "text": {
