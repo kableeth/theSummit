@@ -29,15 +29,50 @@
         "question-2": {
           "type": "question",
           "settings": {
-            "question": "How long will it take to get my orders?",
-            "answer": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+            "question": "What are hours of operation?",
+            "answer": "<p>The Summit is open seven days a week, nearly year round, with hours varying depending on the season. The Summit is closed for all national holidays, as well as seasonal rebuilds. Please check our seasonal hours for more details.</p>"
           }
         },
         "question-3": {
           "type": "question",
           "settings": {
-            "question": "Any question?",
-            "answer": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "question": "What is The Summits specialty?",
+            "answer": "<p>The Summit specializes in offering top of the line local & other produce as well as a huge seasonal selection of plants, pumpkins & christmas trees with all the trimmings and trappings of each Midwest season. The Summit partners with dozens of small and medium sized businesses, not only locally, but throughout the US to bring only the best to their customers.</p>"
+          }
+        },
+        "question_DDDYT7": {
+          "type": "question",
+          "settings": {
+            "question": "Do you sell gift-certificates?",
+            "answer": "<p>Yes we do. They are available in $5 to $50 increments. Gift Certificates must be used in full at time of redemption.</p>"
+          }
+        },
+        "question_mkqWKd": {
+          "type": "question",
+          "settings": {
+            "question": "When is Homegrown / Local Produce Season?",
+            "answer": "<p>The Summit offers a wide selection of homegrown/ local produce from mid April thru the end of October, with peak homegrown season mid June - end of August.</p>"
+          }
+        },
+        "question_FGeNFc": {
+          "type": "question",
+          "settings": {
+            "question": "When is Homegrown/ Local Peach Season?",
+            "answer": "<p>Peach season starts in Mid May, with homegrown / local peaches available late June thru day.</p>"
+          }
+        },
+        "question_CLwQnd": {
+          "type": "question",
+          "settings": {
+            "question": "When is homegrown/ local tomato season?",
+            "answer": "<p>With the advancements in hoop house growing, local tomatoes are now available earlier than in previous decades. The Summit offers delicious local tomatoes often beginning as early as mid May and lasting thru mid October, with peak season being mid June - late September.</p>"
+          }
+        },
+        "question_4nnEUe": {
+          "type": "question",
+          "settings": {
+            "question": "Where do your baked goods come from?",
+            "answer": "<p>The Summit partners with many wonderful local producers including bakers. cash & carry, call ahead holds, and special orders accepted.<br/><br/>a. Odelehr’s Bakery located in Brussels, Illinois. Delivers pies, cookies, breads. ( 3 x’s weekly)<br/><br/>b. Gregory’s Goodies located in Troy, Illinois delivers gooey butter cakes & breads. ( 2 times weekly)<br/><br/>c. Golden Boy Pies located in Overland Park, KS.<br/>Delivers both cream & meringue pies. (2-3 x’s weekly)<br/><br/>d. Fazios Bakery located in St. Louis on The Hill, MO.<br/>Delivers just baked classic bakery bread options.<br/> (5 x’s weekly)</p>"
           }
         }
       },
@@ -45,7 +80,12 @@
         "question-1",
         "question_UKaxUX",
         "question-2",
-        "question-3"
+        "question-3",
+        "question_DDDYT7",
+        "question_mkqWKd",
+        "question_FGeNFc",
+        "question_CLwQnd",
+        "question_4nnEUe"
       ],
       "settings": {
         "color_scheme": "",
