@@ -31,24 +31,24 @@
     "color_schemes": {
       "scheme-1": {
         "settings": {
-          "background": "#efefef",
+          "background": "#f6f8f8",
           "background_gradient": "",
           "text_color": "#275b7a",
           "primary_button_background": "#d24a4f",
-          "primary_button_text_color": "#ffffff",
+          "primary_button_text_color": "#f6f8f8",
           "circle_button_background": "#d24a4f",
-          "circle_button_icon": "#ffffff"
+          "circle_button_icon": "#f6f8f8"
         }
       },
       "scheme-2": {
         "settings": {
-          "background": "#ffffff",
+          "background": "#275b7a",
           "background_gradient": "",
-          "text_color": "#1c1c1c",
-          "primary_button_background": "#1c1c1c",
+          "text_color": "#f6f8f8",
+          "primary_button_background": "#e53544",
           "primary_button_text_color": "#ffffff",
-          "circle_button_background": "#ffffff",
-          "circle_button_icon": "#1c1c1c"
+          "circle_button_background": "#e53544",
+          "circle_button_icon": "#f6f8f8"
         }
       },
       "scheme-3": {
