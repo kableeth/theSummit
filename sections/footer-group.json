@@ -26,7 +26,7 @@
         "links": {
           "type": "links",
           "settings": {
-            "menu": "footer",
+            "menu": "new-footer-menu",
             "show_menu_title": true,
             "menu_title": ""
           }
@@ -34,8 +34,8 @@
         "text": {
           "type": "text",
           "settings": {
-            "title": "About",
-            "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme editor.</p>",
+            "title": "The Summit All Seasons Market @ Kirkwood Farmers' Market",
+            "content": "<p>Bringing the best of every season since 1978. The Summit is your one-stop shop in Kirkwood Missouri for a unique seasonal shopping experience.</p>",
             "enable_follow_on_shop": true
           }
         }
