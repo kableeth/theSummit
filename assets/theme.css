@@ -29,9 +29,7 @@
   font-weight: normal;
   font-style: normal;
 }
-:root {
-  --heading-font-family: '5th Avenue';
-}
+
 *, :before, :after {
   box-sizing: border-box;
   border-style: solid;
@@ -7979,3 +7977,4 @@ ul {
   display: -webkit-box;
   overflow: hidden;
 }
+

@@ -245,6 +245,13 @@
         "default": "helvetica_n4"
       },
       {
+        "type": "text",
+        "id": "custom_heading_font",
+        "label": "Custom heading font",
+        "info": "Enter the name of your custom font (e.g., '5th Avenue'). This will override the font picker above.",
+        "default": ""
+      },
+      {
         "type": "select",
         "id": "heading_text_transform",
         "label": "t:theme_settings.typography.heading_casing",
