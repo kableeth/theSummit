@@ -262,6 +262,7 @@
           </li>
         {%- endif -%}
 
+        {%- if section.settings.show_cart_icon -%}
         <li class="relative header__cart-link">
           <a href="{{ routes.cart_url }}" {% if settings.cart_type != 'page' and request.page_type != 'cart' %}aria-controls="cart-drawer"{% endif %} data-no-instant>
             <span class="sr-only">{{ 'header.general.cart' | t }}</span>
@@ -276,6 +277,7 @@
             <cart-dot class="header__cart-dot {% unless cart.empty? %}is-visible{% endunless %} {% unless section.settings.show_icons %}md:hidden{% endunless %}"></cart-dot>
           </a>
         </li>
+        {%- endif -%}
       </ul>
     </nav>
 
@@ -489,6 +491,12 @@
       "type": "checkbox",
       "id": "show_icons",
       "label": "t:sections.header.show_icons",
+      "default": true
+    },
+    {
+      "type": "checkbox",
+      "id": "show_cart_icon",
+      "label": "Show cart icon",
       "default": true
     },
     {
