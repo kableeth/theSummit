@@ -66,7 +66,7 @@
         "sidebar_menu": "",
         "menu_open_trigger": "hover",
         "menu_text_font": "heading",
-        "enable_search": true,
+        "enable_search": false,
         "sidebar_color_scheme": "",
         "sidebar_text_font": "heading",
         "sidebar_show_dividers": true,
@@ -74,9 +74,9 @@
         "layout": "logo_left_navigation_inline",
         "show_icons": true,
         "show_cart_icon": false,
-        "show_country_selector": true,
+        "show_country_selector": false,
         "show_country_name": false,
-        "show_country_flag": true,
+        "show_country_flag": false,
         "show_locale_selector": false,
         "transparent_header_text_color": "#ffffff"
       }
