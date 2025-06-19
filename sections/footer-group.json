@@ -270,13 +270,12 @@
         "separate_section_with_border": true
       }
     },
-    "timeline_cPXtPk": {
+    "timeline_RfHTKY": {
       "type": "timeline",
       "blocks": {
-        "item_Pwwj33": {
+        "item_nFzUTN": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/OPTION_1_Collection_Tile_image_for_SPRING_PLANTS_FLOWERS.jpg",
             "label": "1978",
             "subheading": "Early 1978",
             "title": "<strong>The Dream</strong>",
@@ -287,7 +286,33 @@
             "mobile_text_color": "#ffffff"
           }
         },
-        "item_jFdUJR": {
+        "item_Ark9Dz": {
+          "type": "item",
+          "settings": {
+            "label": "1978",
+            "subheading": "Spring, 1978",
+            "title": "<strong>Brave First Steps </strong>",
+            "content": "<p>Once the idea was in her head, Carol was determined to make it happen. One big blessing was that her crafty husband had a flair for building. With a personal carpenter on hand, she began to design and build her first stand. </p><p>The next blessing was that her “big” brother, Mick Moore was a buyer for Moon Produce, one of the most successful produce houses in Saint Louis. He guided her, making sure that she was well taken care of in a male-dominated business.</p><p>Carol decided that her little stand should be called ‘Summit Produce’ since it was in the Gray Summit area of town. She also liked the slogan, “Peak of Perfection” which complimented the company name and gave her customers the reassurance of the quality that her produce would have. </p><p>In the spring of 1978 Carol’s first stand opened to the public.</p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "mobile_text_color": "#ffffff"
+          }
+        },
+        "item_A4phRY": {
+          "type": "item",
+          "settings": {
+            "label": "1978-1984",
+            "subheading": "1978-1984",
+            "title": "<strong>The peak of perfection</strong>",
+            "content": "<p>In the next few years, Carol found success due to her hard work, dedication, and range of outstanding products which had her customers returning week after week. </p><p>She began cultivating relationships with some of the local farmers in the area, and began partnering with them to sell the fresh, seasonal produce they were growing. </p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "mobile_text_color": "#ffffff"
+          }
+        },
+        "item_awGdmF": {
           "type": "item",
           "settings": {
             "label": "2020",
@@ -300,13 +325,78 @@
             "mobile_text_color": "#ffffff"
           }
         },
-        "item_nDcdR4": {
+        "item_gwXGWe": {
           "type": "item",
           "settings": {
-            "label": "1978",
-            "subheading": "Spring, 1978",
-            "title": "<strong>Brave First Steps</strong>",
-            "content": "<p>Once the idea was in her head, Carol was determined to make it happen. One big blessing was that her crafty husband had a flair for building. With a personal carpenter on hand, she began to design and build her first stand. </p><p>The next blessing was that her “big” brother, Mick Moore was a buyer for Moon Produce, one of the most successful produce houses in Saint Louis. He guided her, making sure that she was well taken care of in a male-dominated business.</p><p>Carol decided that her little stand should be called ‘Summit Produce’ since it was in the Gray Summit area of town. She also liked the slogan, “Peak of Perfection” which complimented the company name and gave her customers the reassurance of the quality that her produce would have. </p><p>In the spring of 1978 Carol’s first stand opened to the public.</p>",
+            "label": "2020",
+            "subheading": "Subheading",
+            "title": "Heading",
+            "content": "<p>Use this text to share information about what happened to your brand at a specific time.</p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "mobile_text_color": "#ffffff"
+          }
+        },
+        "item_FU9XxR": {
+          "type": "item",
+          "settings": {
+            "label": "2020",
+            "subheading": "Subheading",
+            "title": "Heading",
+            "content": "<p>Use this text to share information about what happened to your brand at a specific time.</p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "mobile_text_color": "#ffffff"
+          }
+        },
+        "item_X3hDtR": {
+          "type": "item",
+          "settings": {
+            "label": "2020",
+            "subheading": "Subheading",
+            "title": "Heading",
+            "content": "<p>Use this text to share information about what happened to your brand at a specific time.</p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "mobile_text_color": "#ffffff"
+          }
+        },
+        "item_x4eTqN": {
+          "type": "item",
+          "settings": {
+            "label": "2020",
+            "subheading": "Subheading",
+            "title": "Heading",
+            "content": "<p>Use this text to share information about what happened to your brand at a specific time.</p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "mobile_text_color": "#ffffff"
+          }
+        },
+        "item_wRNKzX": {
+          "type": "item",
+          "settings": {
+            "label": "2020",
+            "subheading": "Subheading",
+            "title": "Heading",
+            "content": "<p>Use this text to share information about what happened to your brand at a specific time.</p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "mobile_text_color": "#ffffff"
+          }
+        },
+        "item_W46PEk": {
+          "type": "item",
+          "settings": {
+            "label": "2020",
+            "subheading": "Subheading",
+            "title": "Heading",
+            "content": "<p>Use this text to share information about what happened to your brand at a specific time.</p>",
             "link_text": "",
             "link_url": "",
             "link_style": "link",
@@ -315,9 +405,16 @@
         }
       },
       "block_order": [
-        "item_Pwwj33",
-        "item_jFdUJR",
-        "item_nDcdR4"
+        "item_nFzUTN",
+        "item_Ark9Dz",
+        "item_A4phRY",
+        "item_awGdmF",
+        "item_gwXGWe",
+        "item_FU9XxR",
+        "item_X3hDtR",
+        "item_x4eTqN",
+        "item_wRNKzX",
+        "item_W46PEk"
       ],
       "name": "t:sections.timeline.presets.timeline.name",
       "settings": {
@@ -497,7 +594,7 @@
     "image_with_text_RcCqRK",
     "rich_text_3nnUQg",
     "timeline_Xg9pAA",
-    "timeline_cPXtPk",
+    "timeline_RfHTKY",
     "image_with_text_ArdcAj",
     "media_grid_4pbAx4",
     "footer"
