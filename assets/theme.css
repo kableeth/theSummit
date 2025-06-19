@@ -6856,7 +6856,7 @@ product-rerender {
   }
 
   .timeline__item-content {
-    align-self: end;
+    align-self: center;
   }
 }
 
