@@ -1,1 +1,153 @@
-{"sections":{"main":{"type":"main-page","disabled":true,"settings":{}},"contact-form":{"type":"contact","settings":{}}},"order":["main","contact-form"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "color_scheme": "",
+        "show_title": true,
+        "page_width": "xs"
+      }
+    },
+    "image_with_text_mhB7LL": {
+      "type": "image-with-text",
+      "blocks": {
+        "subheading_exFrHh": {
+          "type": "subheading",
+          "settings": {
+            "text": "Open March 29"
+          }
+        },
+        "heading_wgEPUg": {
+          "type": "heading",
+          "settings": {
+            "text": "Spring & Summer Hours",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_GgAxxE": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p><strong>Weekdays:</strong> 9:30am - 5:30pm<br/><strong>Saturdays: </strong>8am - 5pm<br/><strong>Sundays: </strong>10am - 5pm</p><h5>*The Summit Is Closed Easter, Memorial Day, Independence Day, Labor Day & Thanksgiving</h5>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_exFrHh",
+        "heading_wgEPUg",
+        "richtext_GgAxxE"
+      ],
+      "name": "t:sections.image_with_text.presets.image_with_text.name",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "reveal_on_scroll": true,
+        "image_position": "start",
+        "content_width": "sm",
+        "remove_vertical_spacing": true
+      }
+    },
+    "image_with_text_mhabyD": {
+      "type": "image-with-text",
+      "blocks": {
+        "subheading_KQ8Uqx": {
+          "type": "subheading",
+          "settings": {
+            "text": "Open LATE SEPTEMBER (TBA)"
+          }
+        },
+        "heading_Te6ydq": {
+          "type": "heading",
+          "settings": {
+            "text": "Fall Season & Pumpkin Patch",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_ibY7fK": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p><strong>Sunday - Thursday: </strong>9am - 6pm</p><p><strong>Friday: </strong>9am - 8pm</p><p><strong>Saturday: </strong>8am - 6pm</p><p><strong>Fun Zone Grand Opening</strong> on Sep 28th!</p><h5>*The Summit Is Closed Easter, Memorial Day, Independence Day, Labor Day & Thanksgiving</h5>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_KQ8Uqx",
+        "heading_Te6ydq",
+        "richtext_ibY7fK"
+      ],
+      "name": "t:sections.image_with_text.presets.image_with_text.name",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "reveal_on_scroll": true,
+        "image_position": "end",
+        "content_width": "sm",
+        "remove_vertical_spacing": true
+      }
+    },
+    "image_with_text_zYXCTn": {
+      "type": "image-with-text",
+      "blocks": {
+        "subheading_hdttYh": {
+          "type": "subheading",
+          "settings": {
+            "text": "Open Mid-Nov"
+          }
+        },
+        "heading_xkEPrY": {
+          "type": "heading",
+          "settings": {
+            "text": "Holiday Season",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_aYijCw": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p><strong>GINGERBREAD SHOPPE OPENS MID-NOV</strong></p><p><strong>TREE LOT OPENS Mid-NOV</strong></p><p><strong>Hours: Everyday</strong>: 9am- 9pm</p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_hdttYh",
+        "heading_xkEPrY",
+        "richtext_aYijCw"
+      ],
+      "name": "t:sections.image_with_text.presets.image_with_text.name",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "reveal_on_scroll": true,
+        "image_position": "start",
+        "content_width": "sm",
+        "remove_vertical_spacing": true
+      }
+    },
+    "contact-form": {
+      "type": "contact",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "subheading": "",
+        "title": "Contact",
+        "content": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image_with_text_mhB7LL",
+    "image_with_text_mhabyD",
+    "image_with_text_zYXCTn",
+    "contact-form"
+  ]
+}
