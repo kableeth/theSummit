@@ -190,7 +190,7 @@
           "settings": {
             "label": "1988",
             "subheading": "1988",
-            "title": "Expanding Family",
+            "title": "<strong>Expanding Family</strong>",
             "content": "<p>As the business grew, so did the need to expand on her team. In a bid to make sure the people she hired care about \"Summit Produce\" as much as she did, Carol only took on her family and close friends as her fellow team members. </p><p>It was incredibly important to her that the customer’s needs came first. And to her, honesty and integrity were the key to success. Carol trained her team in her knowledge, and her infectious enthusiasm made it a great place to work. </p><p>In turn, the employees made Carol’s stand a fun place to shop and the business grew.</p>",
             "link_text": "",
             "link_url": "",
@@ -201,10 +201,10 @@
         "item_jbR4zD": {
           "type": "item",
           "settings": {
-            "label": "2020",
-            "subheading": "Subheading",
-            "title": "Heading",
-            "content": "<p>Use this text to share information about what happened to your brand at a specific time.</p>",
+            "label": "1989",
+            "subheading": "1989",
+            "title": "<strong>Growth</strong>",
+            "content": "<p>Over the years ‘Summit Produce’ grew from a small produce stand, which was only open three days per week, into a full-service, four-season store, open seven days a week from April until Christmas. This achievement is with thanks to the support of the wonderful employees and loyal customers.</p>",
             "link_text": "",
             "link_url": "",
             "link_style": "link",
@@ -214,10 +214,10 @@
         "item_AtPjWr": {
           "type": "item",
           "settings": {
-            "label": "2020",
-            "subheading": "Subheading",
-            "title": "Heading",
-            "content": "<p>Use this text to share information about what happened to your brand at a specific time.</p>",
+            "label": "1998",
+            "subheading": "1998",
+            "title": "<strong>Fresh Direction</strong>",
+            "content": "<p>In 1998, Carol's son Dan, a longtime employee, came on board as business partner and took \"Summit Produce\" at the market to a new level with his creative ideas and enthusiasm for fun.</p>",
             "link_text": "",
             "link_url": "",
             "link_style": "link",
@@ -227,10 +227,10 @@
         "item_6EhKW8": {
           "type": "item",
           "settings": {
-            "label": "2020",
-            "subheading": "Subheading",
-            "title": "Heading",
-            "content": "<p>Use this text to share information about what happened to your brand at a specific time.</p>",
+            "label": "2009",
+            "subheading": "2009",
+            "title": "<strong>Retirement</strong>",
+            "content": "<p>In 2009, when Carol decided to retire, her daughter Kristine, also a long-time employee came on as Dan’s business partner.  </p><p>Although enjoying her retirement, Carol still stops in from time to time, helping out and advising on produce and suppliers. </p>",
             "link_text": "",
             "link_url": "",
             "link_style": "link",
@@ -240,10 +240,23 @@
         "item_9gLGHe": {
           "type": "item",
           "settings": {
-            "label": "2020",
-            "subheading": "Subheading",
-            "title": "Heading",
-            "content": "<p>Use this text to share information about what happened to your brand at a specific time.</p>",
+            "label": "2021",
+            "subheading": "2021",
+            "title": "Presenting \"The Summit\"",
+            "content": "<p>In line with a new era, \"Summit Produce\" is rebranding as The Summit All Seasons Market and adding a 'fifth season' in our all new Winter Market.</p><p>As we have grown and expanded our products over the years, from produce only back in the day, to today's vast selection of plants, pumpkins, Christmas trees, seasonal décor, local foods, baked goods, and seasonal experiences for the family, the new name, \"The Summit All Seasons Market\" and our new logo, seek to reflect and better represent our growth and transformation over the years!</p><p>As The Summit continues to grow and evolve, our heart will always strictly hold to the standards of excellence in product selections that Carol envisioned when she first built it.  </p><p>Working hard to never take success or a customer for granted and holding on to the business practices of honesty and integrity in all things.</p><p>And most importantly, old-fashioned service with a smile.  </p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "mobile_text_color": "#ffffff"
+          }
+        },
+        "item_etjEAK": {
+          "type": "item",
+          "settings": {
+            "label": "2022",
+            "subheading": "2022 - Onwards",
+            "title": "<strong>The Future</strong>",
+            "content": "<p>Our wonderful team is the biggest part of what makes The Summit so great. </p><p>We are friendly, knowledgeable experts to help you find exactly what you're looking for (Ok, and admittedly we're a little crazy and fun-loving too!) </p><p>Come by and say 'Hi!'</p>",
             "link_text": "",
             "link_url": "",
             "link_style": "link",
@@ -261,7 +274,8 @@
         "item_jbR4zD",
         "item_AtPjWr",
         "item_6EhKW8",
-        "item_9gLGHe"
+        "item_9gLGHe",
+        "item_etjEAK"
       ],
       "name": "t:sections.timeline.presets.timeline.name",
       "settings": {
