@@ -162,10 +162,10 @@
         "item_rcQ6LQ": {
           "type": "item",
           "settings": {
-            "label": "2020",
-            "subheading": "Subheading",
-            "title": "Heading",
-            "content": "<p>Use this text to share information about what happened to your brand at a specific time.</p>",
+            "label": "1984",
+            "subheading": "1984",
+            "title": "<strong>The Kirkwood opportunity</strong>",
+            "content": "<p>Carol received a phone call from her brother Johnny who advised her that a spot had become available in the Kirkwood Farmers Market.  Although taking it on would be a risk, she decided to be brave and took the plunge! She kept the Gray Summit stand, opening ‘Summit Produce’ in Kirkwood as a second location.</p>",
             "link_text": "",
             "link_url": "",
             "link_style": "link",
@@ -175,10 +175,10 @@
         "item_GWnzrR": {
           "type": "item",
           "settings": {
-            "label": "2020",
-            "subheading": "Subheading",
-            "title": "Heading",
-            "content": "<p>Use this text to share information about what happened to your brand at a specific time.</p>",
+            "label": "1984",
+            "subheading": "1984",
+            "title": "<strong>\"Show me\" tomato</strong>",
+            "content": "<p>Carol set up shop close to the east end of the market. Back in those days, there were many large produce stands for shoppers to choose from. She knew she needed an iconic item to get the customers to stop and shop at her stall. </p><p>A Gray Summit farmer, Joe Marquardt, had supplied her in the past with the ‘Show Me’ tomato. Large, vibrant red, and delicious. It became one of the cornerstone products of Carol’s business, with people coming from far and wide to get their hands on the local delicacy. </p><p>She also worked hard to bring new and unusual items to her stall that no one else offered.</p>",
             "link_text": "",
             "link_url": "",
             "link_style": "link",
@@ -188,10 +188,10 @@
         "item_MNmR3n": {
           "type": "item",
           "settings": {
-            "label": "2020",
-            "subheading": "Subheading",
-            "title": "Heading",
-            "content": "<p>Use this text to share information about what happened to your brand at a specific time.</p>",
+            "label": "1988",
+            "subheading": "1988",
+            "title": "Expanding Family",
+            "content": "<p>As the business grew, so did the need to expand on her team. In a bid to make sure the people she hired care about \"Summit Produce\" as much as she did, Carol only took on her family and close friends as her fellow team members. </p><p>It was incredibly important to her that the customer’s needs came first. And to her, honesty and integrity were the key to success. Carol trained her team in her knowledge, and her infectious enthusiasm made it a great place to work. </p><p>In turn, the employees made Carol’s stand a fun place to shop and the business grew.</p>",
             "link_text": "",
             "link_url": "",
             "link_style": "link",
@@ -262,159 +262,6 @@
         "item_AtPjWr",
         "item_6EhKW8",
         "item_9gLGHe"
-      ],
-      "name": "t:sections.timeline.presets.timeline.name",
-      "settings": {
-        "color_scheme": "",
-        "item_color_scheme": "",
-        "separate_section_with_border": true
-      }
-    },
-    "timeline_RfHTKY": {
-      "type": "timeline",
-      "blocks": {
-        "item_nFzUTN": {
-          "type": "item",
-          "settings": {
-            "label": "1978",
-            "subheading": "Early 1978",
-            "title": "<strong>The Dream</strong>",
-            "content": "<p>In early 1978, Carol Mitchell, a stay-at-home wife and mom of three tweens decided her family could use a second income.</p><p>Carol had a dream that she could build a small produce stand to bring fresh, local crops to the people of her hometown of Gray Summit, Missouri. Having worked in the past for her brothers Mike, Denny, and Johnny, who were in the produce business, she decided to go for it. </p>",
-            "link_text": "",
-            "link_url": "",
-            "link_style": "link",
-            "mobile_text_color": "#ffffff"
-          }
-        },
-        "item_Ark9Dz": {
-          "type": "item",
-          "settings": {
-            "label": "1978",
-            "subheading": "Spring, 1978",
-            "title": "<strong>Brave First Steps </strong>",
-            "content": "<p>Once the idea was in her head, Carol was determined to make it happen. One big blessing was that her crafty husband had a flair for building. With a personal carpenter on hand, she began to design and build her first stand. </p><p>The next blessing was that her “big” brother, Mick Moore was a buyer for Moon Produce, one of the most successful produce houses in Saint Louis. He guided her, making sure that she was well taken care of in a male-dominated business.</p><p>Carol decided that her little stand should be called ‘Summit Produce’ since it was in the Gray Summit area of town. She also liked the slogan, “Peak of Perfection” which complimented the company name and gave her customers the reassurance of the quality that her produce would have. </p><p>In the spring of 1978 Carol’s first stand opened to the public.</p>",
-            "link_text": "",
-            "link_url": "",
-            "link_style": "link",
-            "mobile_text_color": "#ffffff"
-          }
-        },
-        "item_A4phRY": {
-          "type": "item",
-          "settings": {
-            "label": "1978-1984",
-            "subheading": "1978-1984",
-            "title": "<strong>The peak of perfection</strong>",
-            "content": "<p>In the next few years, Carol found success due to her hard work, dedication, and range of outstanding products which had her customers returning week after week. </p><p>She began cultivating relationships with some of the local farmers in the area, and began partnering with them to sell the fresh, seasonal produce they were growing. </p>",
-            "link_text": "",
-            "link_url": "",
-            "link_style": "link",
-            "mobile_text_color": "#ffffff"
-          }
-        },
-        "item_awGdmF": {
-          "type": "item",
-          "settings": {
-            "label": "2020",
-            "subheading": "Subheading",
-            "title": "Heading",
-            "content": "<p>Use this text to share information about what happened to your brand at a specific time.</p>",
-            "link_text": "",
-            "link_url": "",
-            "link_style": "link",
-            "mobile_text_color": "#ffffff"
-          }
-        },
-        "item_gwXGWe": {
-          "type": "item",
-          "settings": {
-            "label": "2020",
-            "subheading": "Subheading",
-            "title": "Heading",
-            "content": "<p>Use this text to share information about what happened to your brand at a specific time.</p>",
-            "link_text": "",
-            "link_url": "",
-            "link_style": "link",
-            "mobile_text_color": "#ffffff"
-          }
-        },
-        "item_FU9XxR": {
-          "type": "item",
-          "settings": {
-            "label": "2020",
-            "subheading": "Subheading",
-            "title": "Heading",
-            "content": "<p>Use this text to share information about what happened to your brand at a specific time.</p>",
-            "link_text": "",
-            "link_url": "",
-            "link_style": "link",
-            "mobile_text_color": "#ffffff"
-          }
-        },
-        "item_X3hDtR": {
-          "type": "item",
-          "settings": {
-            "label": "2020",
-            "subheading": "Subheading",
-            "title": "Heading",
-            "content": "<p>Use this text to share information about what happened to your brand at a specific time.</p>",
-            "link_text": "",
-            "link_url": "",
-            "link_style": "link",
-            "mobile_text_color": "#ffffff"
-          }
-        },
-        "item_x4eTqN": {
-          "type": "item",
-          "settings": {
-            "label": "2020",
-            "subheading": "Subheading",
-            "title": "Heading",
-            "content": "<p>Use this text to share information about what happened to your brand at a specific time.</p>",
-            "link_text": "",
-            "link_url": "",
-            "link_style": "link",
-            "mobile_text_color": "#ffffff"
-          }
-        },
-        "item_wRNKzX": {
-          "type": "item",
-          "settings": {
-            "label": "2020",
-            "subheading": "Subheading",
-            "title": "Heading",
-            "content": "<p>Use this text to share information about what happened to your brand at a specific time.</p>",
-            "link_text": "",
-            "link_url": "",
-            "link_style": "link",
-            "mobile_text_color": "#ffffff"
-          }
-        },
-        "item_W46PEk": {
-          "type": "item",
-          "settings": {
-            "label": "2020",
-            "subheading": "Subheading",
-            "title": "Heading",
-            "content": "<p>Use this text to share information about what happened to your brand at a specific time.</p>",
-            "link_text": "",
-            "link_url": "",
-            "link_style": "link",
-            "mobile_text_color": "#ffffff"
-          }
-        }
-      },
-      "block_order": [
-        "item_nFzUTN",
-        "item_Ark9Dz",
-        "item_A4phRY",
-        "item_awGdmF",
-        "item_gwXGWe",
-        "item_FU9XxR",
-        "item_X3hDtR",
-        "item_x4eTqN",
-        "item_wRNKzX",
-        "item_W46PEk"
       ],
       "name": "t:sections.timeline.presets.timeline.name",
       "settings": {
@@ -594,7 +441,6 @@
     "image_with_text_RcCqRK",
     "rich_text_3nnUQg",
     "timeline_Xg9pAA",
-    "timeline_RfHTKY",
     "image_with_text_ArdcAj",
     "media_grid_4pbAx4",
     "footer"
