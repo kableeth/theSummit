@@ -18,40 +18,47 @@
         "page_width": "xs"
       }
     },
-    "video_YngqpY": {
-      "type": "video",
+    "image_with_text_j3j4H4": {
+      "type": "image-with-text",
       "blocks": {
-        "play_cXBYUr": {
-          "type": "play",
+        "subheading_pDdejU": {
+          "type": "subheading",
           "settings": {
-            "icon_color": "#ffffff"
+            "text": "Subheading"
           }
         },
-        "heading_499MgF": {
+        "heading_PL4yji": {
           "type": "heading",
           "settings": {
-            "text": "Video",
-            "heading_tag": "h2"
+            "text": "Image with text",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_8fA836": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
           }
         }
       },
       "block_order": [
-        "play_cXBYUr",
-        "heading_499MgF"
+        "subheading_pDdejU",
+        "heading_PL4yji",
+        "richtext_8fA836"
       ],
-      "name": "t:sections.video.presets.video.name",
+      "name": "t:sections.image_with_text.presets.image_with_text.name",
       "settings": {
-        "autoplay": false,
-        "show_controls": true,
-        "video_size": "md",
-        "video": "shopify://files/videos/Farmers Market Fall Video.mp4",
-        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-        "text_color": "#ffffff"
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "reveal_on_scroll": true,
+        "image_position": "start",
+        "content_width": "sm",
+        "remove_vertical_spacing": true
       }
     }
   },
   "order": [
     "main",
-    "video_YngqpY"
+    "image_with_text_j3j4H4"
   ]
 }
