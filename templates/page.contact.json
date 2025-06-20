@@ -112,7 +112,7 @@
         "richtext_ibY7fK": {
           "type": "richtext",
           "settings": {
-            "content": "<p><strong>Sunday - Thursday: </strong>9am - 6pm</p><p><strong>Friday: </strong>9am - 8pm</p><p><strong>Saturday: </strong>8am - 6pm</p><p><strong>Fun Zone Grand Opening</strong> on Sep 28th!</p><h5>*The Summit Is Closed Easter, Memorial Day, Independence Day, Labor Day & Thanksgiving</h5>"
+            "content": "<p><strong>Sunday - Thursday: </strong>9am - 6pm</p><p><strong>Friday: </strong>9am - 8pm</p><p><strong>Saturday: </strong>8am - 6pm</p><p><strong>Fun Zone Grand Opening</strong> on Sep 28th!</p><h6><strong>*The Summit Is Closed Easter, Memorial Day, Independence Day, Labor Day & Thanksgiving</strong></h6>"
           }
         }
       },
