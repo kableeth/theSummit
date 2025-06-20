@@ -124,6 +124,7 @@
         "item_TPzLCf": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/1646003751238.jpg",
             "label": "1978",
             "subheading": "Early 1978",
             "title": "<strong>The Dream</strong>",
@@ -137,6 +138,7 @@
         "item_wXD8fG": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/1646002066426.jpg",
             "label": "1978",
             "subheading": "Spring, 1978",
             "title": "<strong>Brave First Steps </strong>",
@@ -150,6 +152,7 @@
         "item_DpcxD4": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/20240905-103634.jpg",
             "label": "1978-1984",
             "subheading": "1978-1984",
             "title": "<strong>The peak of perfection</strong>",
@@ -163,6 +166,7 @@
         "item_rcQ6LQ": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/6_tinted_black.png",
             "label": "1984",
             "subheading": "1984",
             "title": "<strong>The Kirkwood opportunity</strong>",
@@ -254,6 +258,7 @@
         "item_etjEAK": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/1505465F-46AD-4F3E-89B1-03D9E1E8EF60.jpg",
             "label": "2022",
             "subheading": "2022 - Onwards",
             "title": "The Future",
