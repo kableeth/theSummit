@@ -27,7 +27,6 @@
             "icon_color": "#ffffff"
           }
         },
-
         "heading_499MgF": {
           "type": "heading",
           "settings": {
@@ -36,7 +35,10 @@
           }
         }
       },
-      "block_order": ["play_cXBYUr", "heading_499MgF"],
+      "block_order": [
+        "play_cXBYUr",
+        "heading_499MgF"
+      ],
       "name": "t:sections.video.presets.video.name",
       "settings": {
         "autoplay": false,
@@ -70,13 +72,17 @@
           }
         }
       },
-      "block_order": ["heading_UFMxaf", "subheading_wJzAka", "richtext_8pacwa"],
+      "block_order": [
+        "heading_UFMxaf",
+        "subheading_wJzAka",
+        "richtext_8pacwa"
+      ],
       "name": "t:sections.image_with_text.presets.image_with_text.name",
       "settings": {
         "color_scheme": "",
         "separate_section_with_border": true,
         "image": "shopify://shop_images/Stamp_AllSeasonsTheSummit.png",
-        "reveal_on_scroll": false,
+        "reveal_on_scroll": true,
         "image_position": "start",
         "content_width": "sm",
         "remove_vertical_spacing": true
@@ -105,7 +111,11 @@
           }
         }
       },
-      "block_order": ["heading_GgrKtf", "subheading_iBC6BJ", "richtext_8ULXUV"],
+      "block_order": [
+        "heading_GgrKtf",
+        "subheading_iBC6BJ",
+        "richtext_8ULXUV"
+      ],
       "name": "t:sections.rich_text.presets.rich_text.name",
       "settings": {
         "color_scheme": "",
@@ -310,7 +320,10 @@
           }
         }
       },
-      "block_order": ["heading_ACHakn", "richtext_R6ikm4"],
+      "block_order": [
+        "heading_ACHakn",
+        "richtext_R6ikm4"
+      ],
       "name": "t:sections.image_with_text.presets.image_with_text.name",
       "settings": {
         "color_scheme": "",
