@@ -206,6 +206,7 @@
         "item_jbR4zD": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Collection_Tile_Image_for_FALL_PLANTS.jpg",
             "label": "1989",
             "subheading": "1989",
             "title": "<strong>Growth</strong>",
@@ -219,6 +220,7 @@
         "item_AtPjWr": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/20241017-104103.jpg",
             "label": "1998",
             "subheading": "1998",
             "title": "<strong>Fresh Direction</strong>",
@@ -232,6 +234,7 @@
         "item_6EhKW8": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/20240905-103518.jpg",
             "label": "2009",
             "subheading": "2009",
             "title": "<strong>Retirement</strong>",
@@ -245,6 +248,7 @@
         "item_9gLGHe": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/header-christmas.png",
             "label": "2021",
             "subheading": "2021",
             "title": "Presenting \"The Summit\"",
