@@ -36,7 +36,7 @@
         "show_only_once": false,
         "show_newsletter_form": true,
         "title": "<strong>Fresh Updates All Year Round</strong>",
-        "content": "<strong>Sign up, stay informed, and save - Get all the latest on store hours and special deals.</strong>",
+        "content": "<p>Get all the latest on store hours and special deals.</p><p>Sign up, stay informed, and save!</p>",
         "button_text": "Subscribe"
       }
     },
