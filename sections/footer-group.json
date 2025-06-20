@@ -37,6 +37,7 @@
         "autoplay": false,
         "show_controls": true,
         "video_size": "md",
+        "video": "shopify://files/videos/Farmers Market Fall Video.mp4",
         "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "text_color": "#ffffff"
       }
@@ -319,10 +320,11 @@
     "media_grid_4pbAx4": {
       "type": "media-grid",
       "blocks": {
-        "image_DMA9wE": {
+        "image_J8GQqw": {
           "type": "image",
           "settings": {
             "color_scheme": "",
+            "image": "shopify://shop_images/header_summer_with_black_opacity.png",
             "column_count": "8",
             "row_count": 2,
             "title": "",
@@ -336,10 +338,47 @@
             "overlay_opacity": 0
           }
         },
-        "image_VCXwVc": {
+        "image_c9XkU8": {
+          "type": "image",
+          "settings": {
+            "color_scheme": "scheme-4",
+            "image": "shopify://shop_images/20240905-100408.jpg",
+            "column_count": "3",
+            "row_count": 2,
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "place-self-center text-center",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "image_P8983B": {
+          "type": "image",
+          "settings": {
+            "color_scheme": "scheme-4",
+            "image": "shopify://shop_images/header-fall.jpg",
+            "column_count": "3",
+            "row_count": 2,
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "place-self-center text-center",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "image_mYfrKt": {
           "type": "image",
           "settings": {
             "color_scheme": "",
+            "image": "shopify://shop_images/20241017-103757.jpg",
             "column_count": "4",
             "row_count": 1,
             "title": "",
@@ -353,11 +392,30 @@
             "overlay_opacity": 0
           }
         },
-        "image_t4f4Qr": {
+        "image_ryGYzA": {
           "type": "image",
           "settings": {
             "color_scheme": "",
+            "image": "shopify://shop_images/Collection_Tile_Image_for_WINTER_PLANTS_tinted.png",
             "column_count": "4",
+            "row_count": 1,
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "place-self-center text-center",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "image_XKxQUY": {
+          "type": "image",
+          "settings": {
+            "color_scheme": "",
+            "image": "shopify://shop_images/20240905-103501.jpg",
+            "column_count": "8",
             "row_count": 1,
             "title": "",
             "heading_tag": "h4",
@@ -372,9 +430,12 @@
         }
       },
       "block_order": [
-        "image_DMA9wE",
-        "image_VCXwVc",
-        "image_t4f4Qr"
+        "image_J8GQqw",
+        "image_c9XkU8",
+        "image_P8983B",
+        "image_mYfrKt",
+        "image_ryGYzA",
+        "image_XKxQUY"
       ],
       "name": "t:sections.media_grid.presets.media_grid.name",
       "settings": {
@@ -385,7 +446,7 @@
         "section_width": "lg",
         "spacing": "md",
         "subheading": "",
-        "title": "Media grid",
+        "title": "",
         "content": ""
       }
     },
