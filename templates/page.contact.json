@@ -186,7 +186,7 @@
       "type": "newsletter",
       "name": "t:sections.newsletter.presets.newsletter.name",
       "settings": {
-        "color_scheme": "",
+        "color_scheme": "scheme-3",
         "separate_section_with_border": true,
         "image_size": "auto",
         "subheading": "Keep me updated",
