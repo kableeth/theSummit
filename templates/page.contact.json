@@ -66,14 +66,14 @@
         "heading_wgEPUg": {
           "type": "heading",
           "settings": {
-            "text": "Spring & Summer Hours",
+            "text": "<strong>Spring & Summer Hours</strong>",
             "heading_tag": "h1"
           }
         },
         "richtext_GgAxxE": {
           "type": "richtext",
           "settings": {
-            "content": "<p><strong>Weekdays:</strong> 9:30am - 5:30pm<br/><strong>Saturdays: </strong>8am - 5pm<br/><strong>Sundays: </strong>10am - 5pm</p><h5>*The Summit Is Closed Easter, Memorial Day, Independence Day</h5>"
+            "content": "<p><strong>Weekdays:</strong> 9:30am - 5:30pm<br/><strong>Saturdays: </strong>8am - 5pm<br/><strong>Sundays: </strong>10am - 5pm</p><h6>*The Summit Is Closed Easter, Memorial Day, Independence Day</h6>"
           }
         }
       },
@@ -105,14 +105,14 @@
         "heading_Te6ydq": {
           "type": "heading",
           "settings": {
-            "text": "Fall Season & Pumpkin Patch",
+            "text": "<strong>Fall Season & Pumpkin Patch</strong>",
             "heading_tag": "h1"
           }
         },
         "richtext_ibY7fK": {
           "type": "richtext",
           "settings": {
-            "content": "<p><strong>Sunday - Thursday:</strong> 9am - 6pm<br/><strong>Fridays: 9</strong>am - 8pm<br/><strong>Saturdays: 8</strong>am - 6pm</p><p><strong>Fun Zone Grand Opening </strong>on Sept 28th!</p><h6><strong>*The Summit Is Closed Memorial Day, Independence Day, Labor Day & Thanksgiving</strong></h6>"
+            "content": "<p><strong>Sunday - Thursday:</strong> 9am - 6pm<br/><strong>Fridays: 9</strong>am - 8pm<br/><strong>Saturdays: 8</strong>am - 6pm</p><p><strong>Fun Zone Grand Opening </strong>on Sept 28th!</p><h6>*The Summit Is Closed Thanksgiving</h6>"
           }
         }
       },
@@ -144,7 +144,7 @@
         "heading_xkEPrY": {
           "type": "heading",
           "settings": {
-            "text": "Holiday Season",
+            "text": "<strong>Holiday Season</strong>",
             "heading_tag": "h1"
           }
         },
