@@ -19,17 +19,10 @@
           "settings": {
             "text": "<a href=\"/pages/now-hiring-at-the-summit-all-seasons-market\" title=\"Now Hiring at The Summit All Seasons Market\"><strong>We are Hiring, click here to learn more!</strong></a>"
           }
-        },
-        "message_YdTWba": {
-          "type": "message",
-          "settings": {
-            "text": "Announce something here"
-          }
         }
       },
       "block_order": [
-        "message-1",
-        "message_YdTWba"
+        "message-1"
       ],
       "settings": {
         "color_scheme": "scheme-2",
