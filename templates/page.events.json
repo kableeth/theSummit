@@ -18,40 +18,29 @@
         "page_width": "xs"
       }
     },
-    "video_YngqpY": {
-      "type": "video",
-      "blocks": {
-        "play_cXBYUr": {
-          "type": "play",
-          "settings": {
-            "icon_color": "#ffffff"
-          }
-        },
-        "heading_499MgF": {
-          "type": "heading",
-          "settings": {
-            "text": "Video",
-            "heading_tag": "h2"
-          }
-        }
-      },
-      "block_order": [
-        "play_cXBYUr",
-        "heading_499MgF"
-      ],
-      "name": "t:sections.video.presets.video.name",
+    "blog_posts_MiUza9": {
+      "type": "blog-posts",
+      "name": "t:sections.blog_posts.presets.blog_posts.name",
       "settings": {
-        "autoplay": false,
-        "show_controls": true,
-        "video_size": "md",
-        "video": "shopify://files/videos/Farmers Market Fall Video.mp4",
-        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-        "text_color": "#ffffff"
+        "color_scheme": "scheme-2",
+        "separate_section_with_border": true,
+        "blog": "past-events",
+        "posts_count": 3,
+        "stack_on_mobile": false,
+        "show_category": true,
+        "show_date": false,
+        "show_excerpt": true,
+        "show_read_more": true,
+        "subheading": "",
+        "title": "Blog posts",
+        "content": "",
+        "button_link": "",
+        "button_text": "View all"
       }
     }
   },
   "order": [
     "main",
-    "video_YngqpY"
+    "blog_posts_MiUza9"
   ]
 }
