@@ -180,6 +180,7 @@
         "item_GWnzrR": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/20240905-103541.jpg",
             "label": "1984",
             "subheading": "1984",
             "title": "<strong>\"Show me\" tomato</strong>",
@@ -193,6 +194,7 @@
         "item_MNmR3n": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/iScreen_Shoter_-_Microsoft_Edge_-_250421235655_1200x_2332271e-d500-45c7-bd0f-cd8e1d4d5de3.webp",
             "label": "1988",
             "subheading": "1988",
             "title": "<strong>Expanding Family</strong>",
@@ -319,7 +321,7 @@
       "settings": {
         "color_scheme": "",
         "separate_section_with_border": true,
-        "image": "shopify://shop_images/iScreen_Shoter_-_Microsoft_Edge_-_250421235655_1200x_2332271e-d500-45c7-bd0f-cd8e1d4d5de3.webp",
+        "image": "shopify://shop_images/1251A036-8FB2-4003-B42A-77880D477F86.jpg",
         "reveal_on_scroll": true,
         "image_position": "start",
         "content_width": "sm",
