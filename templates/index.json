@@ -17,7 +17,7 @@
           "settings": {
             "image": "shopify://shop_images/header-summer_f0e2728d-ae23-42e9-96fd-d72f032903d7.jpg",
             "subheading": "BRINGING THE BEST OF EVERY SEASON <strong>SINCE 1978</strong>",
-            "title": "Welcome to Summer at The Summit",
+            "title": "<strong>Welcome to Summer at The Summit</strong>",
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
             "content_max_width": 400,
