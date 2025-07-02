@@ -106,7 +106,7 @@
         "item-3": {
           "type": "image_with_text",
           "settings": {
-            "image": "shopify://shop_images/header-christmas.png",
+            "image": "shopify://shop_images/thesummitallseasonsmarket_1703193240_3262943852800573240_4788839409.jpg",
             "subheading": "",
             "title": "Christmas",
             "content": "<p>Share information about your product with your customers. Describe a product, and share info about your production process...</p>",
@@ -276,8 +276,27 @@
           "type": "image",
           "settings": {
             "color_scheme": "",
+            "image": "shopify://shop_images/thesummitallseasonsmarket_1654830262_2857245789314113242_4788839409.jpg",
             "column_count": "3",
             "row_count": 2,
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "place-self-center text-center",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "image_xVaYhB": {
+          "type": "image",
+          "settings": {
+            "color_scheme": "",
+            "image": "shopify://shop_images/thesummitallseasonsmarket_1654830262_2857245789314113242_4788839409.jpg",
+            "column_count": "3",
+            "row_count": 1,
             "title": "",
             "heading_tag": "h4",
             "content": "",
@@ -293,23 +312,7 @@
           "type": "image",
           "settings": {
             "color_scheme": "",
-            "column_count": "3",
-            "row_count": 1,
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_text": "",
-            "link_url": "",
-            "link_style": "link",
-            "text_position": "place-self-center text-center",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "image_hG9U3T": {
-          "type": "image",
-          "settings": {
-            "color_scheme": "",
+            "image": "shopify://shop_images/thesummitallseasonsmarket_1494094271_1508894573283025141_4788839409_60f637d7-34f0-4d0b-aeaf-ea102ced23d7.jpg",
             "column_count": "3",
             "row_count": 1,
             "title": "",
@@ -327,8 +330,153 @@
           "type": "image",
           "settings": {
             "color_scheme": "scheme-4",
+            "image": "shopify://shop_images/thesummitallseasonsmarket_1684356521_3104929997025433379_4788839409.jpg",
             "column_count": "3",
             "row_count": 2,
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "place-self-center text-center",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "image_hG9U3T": {
+          "type": "image",
+          "settings": {
+            "color_scheme": "",
+            "image": "shopify://shop_images/thesummitallseasonsmarket_1743785166_3603453595129384061_4788839409.jpg",
+            "column_count": "3",
+            "row_count": 1,
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "place-self-center text-center",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "image_KFHJab": {
+          "type": "image",
+          "settings": {
+            "color_scheme": "",
+            "image": "shopify://shop_images/thesummitallseasonsmarket_1743785166_3603453595129384061_4788839409.jpg",
+            "column_count": "3",
+            "row_count": 2,
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "place-self-center text-center",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "image_Q7UEpE": {
+          "type": "image",
+          "settings": {
+            "color_scheme": "",
+            "image": "shopify://shop_images/thesummitallseasonsmarket_1743785166_3603453595129384061_4788839409.jpg",
+            "column_count": "3",
+            "row_count": 1,
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "place-self-center text-center",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "image_yrbcf4": {
+          "type": "image",
+          "settings": {
+            "color_scheme": "",
+            "image": "shopify://shop_images/thesummitallseasonsmarket_1743785166_3603453595129384061_4788839409.jpg",
+            "column_count": "3",
+            "row_count": 2,
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "place-self-center text-center",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "image_kqh3MR": {
+          "type": "image",
+          "settings": {
+            "color_scheme": "",
+            "image": "shopify://shop_images/thesummitallseasonsmarket_1743785166_3603453595129384061_4788839409.jpg",
+            "column_count": "3",
+            "row_count": 1,
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "place-self-center text-center",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "image_9bnNmJ": {
+          "type": "image",
+          "settings": {
+            "color_scheme": "",
+            "image": "shopify://shop_images/thesummitallseasonsmarket_1743785166_3603453595129384061_4788839409.jpg",
+            "column_count": "3",
+            "row_count": 1,
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "place-self-center text-center",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "image_cfbpWi": {
+          "type": "image",
+          "settings": {
+            "color_scheme": "",
+            "image": "shopify://shop_images/thesummitallseasonsmarket_1743785166_3603453595129384061_4788839409.jpg",
+            "column_count": "3",
+            "row_count": 1,
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "place-self-center text-center",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "image_EGyJm8": {
+          "type": "image",
+          "settings": {
+            "color_scheme": "",
+            "image": "shopify://shop_images/thesummitallseasonsmarket_1681840540_3083824421072859085_4788839409.jpg",
+            "column_count": "3",
+            "row_count": 3,
             "title": "",
             "heading_tag": "h4",
             "content": "",
@@ -343,9 +491,17 @@
       },
       "block_order": [
         "image_WF4cTC",
+        "image_xVaYhB",
         "image_aeQyNw",
+        "image_3CyKG7",
         "image_hG9U3T",
-        "image_3CyKG7"
+        "image_KFHJab",
+        "image_Q7UEpE",
+        "image_yrbcf4",
+        "image_kqh3MR",
+        "image_9bnNmJ",
+        "image_cfbpWi",
+        "image_EGyJm8"
       ],
       "name": "t:sections.media_grid.presets.media_grid.name",
       "settings": {
