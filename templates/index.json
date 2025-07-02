@@ -94,7 +94,7 @@
         "item-2": {
           "type": "image_with_text",
           "settings": {
-            "image": "shopify://shop_images/header-fall.jpg",
+            "image": "shopify://shop_images/thesummitallseasonsmarket_1729637856_3484777363618377804_4788839409.jpg",
             "subheading": "",
             "title": "Fall",
             "content": "<p>Create trust with your customers by explaining the story of your brand. Share your values or what is important to you.</p>",
@@ -114,12 +114,25 @@
             "link_url": "",
             "link_style": "solid"
           }
+        },
+        "image_with_text_GqnChV": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify://shop_images/thesummitallseasonsmarket_1743785166_3603453595129384061_4788839409.jpg",
+            "subheading": "",
+            "title": "Spring",
+            "content": "<p>Share information about your product with your customers. Describe a product, and share info about your production process...</p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "solid"
+          }
         }
       },
       "block_order": [
         "item-1",
         "item-2",
-        "item-3"
+        "item-3",
+        "image_with_text_GqnChV"
       ],
       "settings": {
         "color_scheme": "",
@@ -436,7 +449,7 @@
         "section_width": "sm",
         "spacing": "xs",
         "subheading": "",
-        "title": "Media grid",
+        "title": "",
         "content": ""
       }
     },
