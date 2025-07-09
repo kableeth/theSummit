@@ -31,7 +31,7 @@
         "richtext_rceW86": {
           "type": "richtext",
           "settings": {
-            "content": "<h4>314-984-9496</h4><p>contact@thesummitkirkwood.com</p>"
+            "content": "<h5>We’d love to hear from you! Whether you have a question, feedback, or just want to say hello — feel free to reach out.</h5><h4><strong>314-984-9496</strong></h4><h4><strong>contact@thesummitkirkwood.com</strong></h4>"
           }
         }
       },
@@ -43,7 +43,7 @@
       "settings": {
         "color_scheme": "",
         "image_size": "xs",
-        "image": "shopify://shop_images/header-spring_2.png",
+        "image": "shopify://shop_images/header_summer_with_black_opacity.png",
         "allow_transparent_header": false,
         "reveal_on_scroll": true,
         "remove_vertical_spacing": true,
@@ -57,17 +57,17 @@
     "image_with_text_mhB7LL": {
       "type": "image-with-text",
       "blocks": {
-        "subheading_exFrHh": {
-          "type": "subheading",
-          "settings": {
-            "text": "Open March 29"
-          }
-        },
         "heading_wgEPUg": {
           "type": "heading",
           "settings": {
             "text": "<strong>Spring & Summer Hours</strong>",
             "heading_tag": "h1"
+          }
+        },
+        "subheading_exFrHh": {
+          "type": "subheading",
+          "settings": {
+            "text": "OPEN MARCH 29"
           }
         },
         "richtext_GgAxxE": {
@@ -78,8 +78,8 @@
         }
       },
       "block_order": [
-        "subheading_exFrHh",
         "heading_wgEPUg",
+        "subheading_exFrHh",
         "richtext_GgAxxE"
       ],
       "name": "t:sections.image_with_text.presets.image_with_text.name",
@@ -96,17 +96,17 @@
     "image_with_text_mhabyD": {
       "type": "image-with-text",
       "blocks": {
-        "subheading_KQ8Uqx": {
-          "type": "subheading",
-          "settings": {
-            "text": "Open LATE SEPTEMBER (TBA)"
-          }
-        },
         "heading_Te6ydq": {
           "type": "heading",
           "settings": {
             "text": "<strong>Fall Season & Pumpkin Patch</strong>",
             "heading_tag": "h1"
+          }
+        },
+        "subheading_KQ8Uqx": {
+          "type": "subheading",
+          "settings": {
+            "text": "OPEN LATE SEPTEMBER (TBA)"
           }
         },
         "richtext_ibY7fK": {
@@ -117,8 +117,8 @@
         }
       },
       "block_order": [
-        "subheading_KQ8Uqx",
         "heading_Te6ydq",
+        "subheading_KQ8Uqx",
         "richtext_ibY7fK"
       ],
       "name": "t:sections.image_with_text.presets.image_with_text.name",
@@ -135,17 +135,17 @@
     "image_with_text_zYXCTn": {
       "type": "image-with-text",
       "blocks": {
-        "subheading_hdttYh": {
-          "type": "subheading",
-          "settings": {
-            "text": "Open Mid-Nov"
-          }
-        },
         "heading_xkEPrY": {
           "type": "heading",
           "settings": {
             "text": "<strong>Holiday Season</strong>",
             "heading_tag": "h1"
+          }
+        },
+        "subheading_hdttYh": {
+          "type": "subheading",
+          "settings": {
+            "text": "OPEN MID-NOV"
           }
         },
         "richtext_aYijCw": {
@@ -156,8 +156,8 @@
         }
       },
       "block_order": [
-        "subheading_hdttYh",
         "heading_xkEPrY",
+        "subheading_hdttYh",
         "richtext_aYijCw"
       ],
       "name": "t:sections.image_with_text.presets.image_with_text.name",
