@@ -15,7 +15,7 @@
         "slide-1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/header-summer_f0e2728d-ae23-42e9-96fd-d72f032903d7.jpg",
+            "image": "shopify://shop_images/header_summer_with_black_opacity.png",
             "subheading": "BRINGING THE BEST OF EVERY SEASON <strong>SINCE 1978</strong>",
             "title": "<strong>Welcome to Summer at The Summit</strong>",
             "mobile_text_position": "place-self-center text-center",
@@ -321,24 +321,6 @@
             "overlay_opacity": 0
           }
         },
-        "image_3CyKG7": {
-          "type": "image",
-          "settings": {
-            "color_scheme": "scheme-4",
-            "image": "shopify://shop_images/header-summer_f0e2728d-ae23-42e9-96fd-d72f032903d7.jpg",
-            "column_count": "12",
-            "row_count": 1,
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_text": "",
-            "link_url": "",
-            "link_style": "link",
-            "text_position": "place-self-center text-center",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
         "image_xamyQT": {
           "type": "image",
           "settings": {
@@ -433,7 +415,6 @@
       "block_order": [
         "image_aeQyNw",
         "image_WF4cTC",
-        "image_3CyKG7",
         "image_xamyQT",
         "image_JU3afc",
         "image_yrbcf4",
