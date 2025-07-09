@@ -568,7 +568,8 @@
       "settings": {
         "color_scheme": "scheme-2",
         "separate_section_with_border": true,
-        "image_size": "auto",
+        "image_size": "sm",
+        "image": "shopify://shop_images/header_summer_with_black_opacity.png",
         "subheading": "Keep me updated!",
         "title": "<strong>Newsletter</strong>",
         "content": "<h4>Subscribe to receive updates, access to exclusive deals, and events!</h4>",
