@@ -61,7 +61,7 @@
         "text"
       ],
       "settings": {
-        "color_scheme": "",
+        "color_scheme": "scheme-1",
         "separate_section_with_border": false,
         "show_social_media": true,
         "show_payment_icons": false,
@@ -72,5 +72,7 @@
       }
     }
   },
-  "order": ["footer"]
+  "order": [
+    "footer"
+  ]
 }

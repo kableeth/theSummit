@@ -22,7 +22,7 @@
       "type": "blog-posts",
       "name": "t:sections.blog_posts.presets.blog_posts.name",
       "settings": {
-        "color_scheme": "scheme-2",
+        "color_scheme": "scheme-1",
         "separate_section_with_border": true,
         "blog": "past-events",
         "posts_count": 3,
@@ -32,7 +32,27 @@
         "show_excerpt": true,
         "show_read_more": true,
         "subheading": "",
-        "title": "Blog posts",
+        "title": "Upcoming Events!",
+        "content": "",
+        "button_link": "",
+        "button_text": "View all"
+      }
+    },
+    "blog_posts_xhqzkP": {
+      "type": "blog-posts",
+      "name": "t:sections.blog_posts.presets.blog_posts.name",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "blog": "",
+        "posts_count": 3,
+        "stack_on_mobile": false,
+        "show_category": true,
+        "show_date": false,
+        "show_excerpt": true,
+        "show_read_more": true,
+        "subheading": "",
+        "title": "Past Events!",
         "content": "",
         "button_link": "",
         "button_text": "View all"
@@ -41,6 +61,7 @@
   },
   "order": [
     "main",
-    "blog_posts_MiUza9"
+    "blog_posts_MiUza9",
+    "blog_posts_xhqzkP"
   ]
 }
