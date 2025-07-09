@@ -472,12 +472,12 @@
       "type": "newsletter",
       "name": "t:sections.newsletter.presets.newsletter.name",
       "settings": {
-        "color_scheme": "",
+        "color_scheme": "scheme-2",
         "separate_section_with_border": true,
         "image_size": "auto",
         "subheading": "Keep me updated",
-        "title": "Newsletter",
-        "content": "<p>A short sentence describing what someone will receive by subscribing.</p>",
+        "title": "<strong>Newsletter</strong>",
+        "content": "<h4>Subscribe to receive updates, access to exclusive deals, and events!</h4>",
         "button_text": "Subscribe",
         "overlay_color": "#000000",
         "overlay_opacity": 0

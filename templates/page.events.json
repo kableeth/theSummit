@@ -57,11 +57,27 @@
         "button_link": "",
         "button_text": "View all"
       }
+    },
+    "newsletter_99MUHa": {
+      "type": "newsletter",
+      "name": "t:sections.newsletter.presets.newsletter.name",
+      "settings": {
+        "color_scheme": "scheme-2",
+        "separate_section_with_border": true,
+        "image_size": "auto",
+        "subheading": "Keep me updated",
+        "title": "<strong>Newsletter</strong>",
+        "content": "<h4>Subscribe to receive updates, access to exclusive deals, and events!</h4>",
+        "button_text": "Subscribe",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
     }
   },
   "order": [
     "main",
     "blog_posts_MiUza9",
-    "blog_posts_xhqzkP"
+    "blog_posts_xhqzkP",
+    "newsletter_99MUHa"
   ]
 }
