@@ -460,13 +460,20 @@
           "settings": {
             "image": "shopify://shop_images/2AD8D87A-B81F-4EC1-935C-6031EC308CDD.png"
           }
+        },
+        "image_FLXLht": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/image_aeae083b-f21d-4468-b3f0-f2d6da1c03f2.jpg"
+          }
         }
       },
       "block_order": [
         "image_JkPLje",
         "image_ByanVj",
         "image_UwU3Ab",
-        "image_XxntjQ"
+        "image_XxntjQ",
+        "image_FLXLht"
       ],
       "settings": {
         "separate_section_with_border": true,
