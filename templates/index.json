@@ -151,7 +151,8 @@
           "type": "before",
           "settings": {
             "color_scheme": "",
-            "text": "Before",
+            "image": "shopify://shop_images/SPRING-3.png",
+            "text": "Spring",
             "link_text": "",
             "link_url": "",
             "link_style": "link"
@@ -161,7 +162,8 @@
           "type": "after",
           "settings": {
             "color_scheme": "",
-            "text": "After",
+            "image": "shopify://shop_images/FALL.png",
+            "text": "Fall",
             "link_text": "",
             "link_url": "",
             "link_style": "link"
