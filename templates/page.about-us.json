@@ -71,46 +71,23 @@
         "remove_vertical_spacing": false
       }
     },
-    "rich_text_3nnUQg": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_GgrKtf": {
-          "type": "heading",
-          "settings": {
-            "text": "<strong>The Story</strong>",
-            "heading_tag": "h1"
-          }
-        },
-        "subheading_iBC6BJ": {
-          "type": "subheading",
-          "settings": {
-            "text": "FOUNDED IN 1978"
-          }
-        },
-        "richtext_8ULXUV": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>The Summit All Seasons Market located in Kirkwood Farmers Market, is a family run business started in 1978 by Carol Mitchell. Today The Summit is owned and operated by Carols kids Dan Mitchell & Kris Clark, who are mentoring the 3rd generation, Carols grandson., Zach Clark.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "heading_GgrKtf",
-        "subheading_iBC6BJ",
-        "richtext_8ULXUV"
-      ],
-      "name": "t:sections.rich_text.presets.rich_text.name",
-      "settings": {
-        "color_scheme": "",
-        "separate_section_with_border": true,
-        "content_width": "sm",
-        "text_position": "center",
-        "remove_vertical_spacing": false
-      }
-    },
     "timeline_Xg9pAA": {
       "type": "timeline",
       "blocks": {
+        "item_p3iE4R": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/summit1.jpg",
+            "label": "2020",
+            "subheading": "FOUNDED IN 1978",
+            "title": "The Story",
+            "content": "<p>The Summit All Seasons Market located in Kirkwood Farmers Market, is a family run business started in 1978 by Carol Mitchell. Today The Summit is owned and operated by Carols kids Dan Mitchell & Kris Clark, who are mentoring the 3rd generation, Carols grandson., Zach Clark.</p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "mobile_text_color": "#ffffff"
+          }
+        },
         "item_TPzLCf": {
           "type": "item",
           "settings": {
@@ -267,6 +244,7 @@
         }
       },
       "block_order": [
+        "item_p3iE4R",
         "item_TPzLCf",
         "item_wXD8fG",
         "item_DpcxD4",
@@ -473,7 +451,6 @@
     "main",
     "video_YngqpY",
     "image_with_text_RcCqRK",
-    "rich_text_3nnUQg",
     "timeline_Xg9pAA",
     "image_with_text_ArdcAj",
     "media_grid_4pbAx4",
