@@ -1,37 +1,17 @@
 @font-face {
-  font-family: '5th Avenue';
-  src: url('{{ "5thAvenue.woff2"}}') format('woff2'),
-       url('{{ "5thAvenue.woff"}}') format('woff');
-  font-display: swap;
-  font-weight: normal;
-  font-style: normal;
+  font-family: "5th Avenue";
+  src: url("5thAvenue.woff2") format("woff2"),
+       url("5thAvenue.woff") format("woff");
 }
-
 @font-face {
-  font-family: 'Visby CF';
-  src: url('{{ "VisbyCF-Bold.woff2"}}') format('woff2'),
-       url('{{ "VisbyCF-Bold.woff"}}') format('woff');
-  font-display: swap;
-  font-weight: bold;
-  font-style: normal;
+  font-family: "VisbyCF Bold";
+  src: url("VisbyCF-Bold.woff2") format("woff2"),
+       url("VisbyCF-Bold.woff") format("woff");
 }
-
 @font-face {
-  font-family: 'Visby CF';
-  src: url('{{ "VisbyCF-Medium.woff2"}}') format('woff2'),
-       url('{{ "VisbyCF-Medium.woff"}}') format('woff');
-  font-display: swap;
-  font-weight: 500;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: 'LouiseWalker';
-  src: url('{{ "LouiseWalker-Serif.woff2"}}') format('woff2'),
-       url('{{ "LouiseWalker-Serif.woff"}}') format('woff');
-  font-display: swap;
-  font-weight: normal;
-  font-style: normal;
+  font-family: "VisbyCF Medium";
+  src: url("VisbyCF-Medium.woff2") format("woff2"),
+       url("VisbyCF-Medium.woff") format("woff");
 }
 
 *, :before, :after {
