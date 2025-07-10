@@ -20,25 +20,6 @@
     },
     "video_YngqpY": {
       "type": "video",
-      "blocks": {
-        "play_cXBYUr": {
-          "type": "play",
-          "settings": {
-            "icon_color": "#ffffff"
-          }
-        },
-        "heading_499MgF": {
-          "type": "heading",
-          "settings": {
-            "text": "Video",
-            "heading_tag": "h2"
-          }
-        }
-      },
-      "block_order": [
-        "play_cXBYUr",
-        "heading_499MgF"
-      ],
       "name": "t:sections.video.presets.video.name",
       "settings": {
         "autoplay": true,
