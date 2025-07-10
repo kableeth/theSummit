@@ -54,7 +54,7 @@
         "video_9azrRX": {
           "type": "video",
           "settings": {
-            "video": "shopify://files/videos/Farmers Market Fall Video.mp4",
+            "video": "shopify://files/videos/The Summit Fall Fun Zone.mp4",
             "rotation": 0
           }
         },
@@ -88,7 +88,7 @@
         "button_1_text": "See Details",
         "button_1_link": "",
         "button_1_style": "solid",
-        "button_2_text": "",
+        "button_2_text": "Buy Tickets",
         "button_2_link": "",
         "button_2_style": "solid"
       }
