@@ -259,6 +259,14 @@
             "label": "5th Avenue"
           },
           {
+            "value": "5thAvenue",
+            "label": "5thAvenue (no space)"
+          },
+          {
+            "value": "FifthAvenue",
+            "label": "FifthAvenue (spelled out)"
+          },
+          {
             "value": "Visby CF",
             "label": "Visby CF"
           },
@@ -333,6 +341,14 @@
           {
             "value": "5th Avenue",
             "label": "5th Avenue"
+          },
+          {
+            "value": "5thAvenue",
+            "label": "5thAvenue (no space)"
+          },
+          {
+            "value": "FifthAvenue",
+            "label": "FifthAvenue (spelled out)"
           },
           {
             "value": "Visby CF",
