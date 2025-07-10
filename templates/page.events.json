@@ -164,10 +164,10 @@
       "settings": {
         "color_scheme": "",
         "separate_section_with_border": true,
-        "desktop_row_height": 290,
+        "desktop_row_height": 200,
         "mobile_row_height": 180,
-        "section_width": "lg",
-        "spacing": "md",
+        "section_width": "sm",
+        "spacing": "sm",
         "subheading": "",
         "title": "",
         "content": ""
