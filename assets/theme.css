@@ -13,6 +13,9 @@
   src: url("VisbyCF-Medium.woff2") format("woff2"),
        url("VisbyCF-Medium.woff") format("woff");
 }
+.u-h1 { font-family: "5th Avenue" !important;
+		font-size:36px !important;
+}
 
 *, :before, :after {
   box-sizing: border-box;
