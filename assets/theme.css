@@ -7823,6 +7823,7 @@ product-rerender {
 .h1, :where(.prose h1) {
   font-size: var(--text-h1);
   line-height: 1.5;
+  font-family: '5th Avenue' !important;
 }
 
 .h2, :where(.prose h2) {
@@ -7876,6 +7877,7 @@ product-rerender {
   .sm\:h1 {
     font-size: var(--text-h1);
     line-height: 1.5;
+    font-family: '5th Avenue' !important;
   }
 
   .sm\:h2 {
@@ -7907,6 +7909,7 @@ product-rerender {
 @media screen and (min-width: 1150px) {
   .h1, :where(.prose h1) {
     line-height: 1.3;
+    font-family: '5th Avenue' !important;
   }
 
   .h2, :where(.prose h2) {
