@@ -16,34 +16,31 @@ note that this may have impact on different places.
     src: url('{{ "5thAvenue.woff2" | asset_url }}') format('woff2'),
          url('{{ "5thAvenue.woff" | asset_url }}') format('woff'),
          url('{{ "5thAvenue.ttf" | asset_url }}') format('truetype');
-    font-display: block;
+    font-display: swap;
     font-weight: normal;
     font-style: normal;
   }
 
   @font-face {
     font-family: 'Visby CF';
-    src: url('{{ "VisbyCF-Bold.woff2" | asset_url }}') format('woff2'),
-         url('{{ "VisbyCF-Bold.woff" | asset_url }}') format('woff');
-    font-display: block;
+    src: url('{{ "VisbyCF-Bold.woff" | asset_url }}') format('woff');
+    font-display: swap;
     font-weight: bold;
     font-style: normal;
   }
 
   @font-face {
     font-family: 'Visby CF';
-    src: url('{{ "VisbyCF-Medium.woff2" | asset_url }}') format('woff2'),
-         url('{{ "VisbyCF-Medium.woff" | asset_url }}') format('woff');
-    font-display: block;
+    src: url('{{ "VisbyCF-Medium.woff" | asset_url }}') format('woff');
+    font-display: swap;
     font-weight: 500;
     font-style: normal;
   }
 
   @font-face {
     font-family: 'LouiseWalker';
-    src: url('{{ "LouiseWalker-Serif.woff2" | asset_url }}') format('woff2'),
-         url('{{ "LouiseWalker-Serif.woff" | asset_url }}') format('woff');
-    font-display: block;
+    src: url('{{ "LouiseWalker_Serif.woff" | asset_url }}') format('woff');
+    font-display: swap;
     font-weight: normal;
     font-style: normal;
   }
