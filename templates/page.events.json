@@ -51,21 +51,23 @@
     "multiple_media_with_text_qrfrrm": {
       "type": "multiple-media-with-text",
       "blocks": {
-        "image_JHCzdd": {
-          "type": "image",
+        "video_9azrRX": {
+          "type": "video",
           "settings": {
+            "video": "shopify://files/videos/Farmers Market Fall Video.mp4",
             "rotation": 0
           }
         },
         "image_EMKqcV": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/fall_child_on_tractor.jpg",
             "rotation": 0
           }
         }
       },
       "block_order": [
-        "image_JHCzdd",
+        "video_9azrRX",
         "image_EMKqcV"
       ],
       "name": "t:sections.multiple_media_with_text.presets.multiple_media_with_text.name",
@@ -81,8 +83,8 @@
         "media_mobile_alignment_offset": 0,
         "text_alignment": "center",
         "subheading": "About",
-        "title": "Showcase your product",
-        "content": "<p>Write some content about your products, collections or brand. Use image or video to create an impactful layout.</p>",
+        "title": "<strong>Fall Fun at The Summit</strong>",
+        "content": "<p>Get ready for a season packed with adventure at the Kid’s Fall Fun Zone—open from <strong>September 27th through October 31st</strong>. From <strong>giant slides, haunted tunnels, and a new train ride atop our straw pyramid</strong> to <strong>Prospectors Point gem mining, face painting, weekend food trucks</strong>, and more—there’s something for every age. Whether you’re planning a group visit, grabbing a season pass, or just stopping by to enjoy the <strong>Pumpkin Patch and Fall Farm Market</strong>, The Summit is your go-to spot for autumn memories.</p>",
         "button_1_text": "See Details",
         "button_1_link": "",
         "button_1_style": "solid",
