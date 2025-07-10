@@ -20,11 +20,12 @@
     },
     "video_YngqpY": {
       "type": "video",
+      "custom_css": [],
       "name": "t:sections.video.presets.video.name",
       "settings": {
         "autoplay": true,
         "show_controls": false,
-        "video_size": "fill",
+        "video_size": "lg",
         "external_video_url": "https://vimeo.com/608438025",
         "text_color": "#ffffff"
       }
