@@ -70,14 +70,14 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/header_summer_with_black_opacity.png",
-            "subheading": "BRINGING THE BEST OF EVERY SEASON <strong>SINCE 1978</strong>",
-            "title": "<strong>Welcome to Summer at The Summit</strong>",
+            "subheading": "",
+            "title": "<strong>Welcome to Summer Season at The Summit</strong>",
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
-            "content_max_width": 400,
-            "button_1_text": "",
+            "content_max_width": 600,
+            "button_1_text": "BRINGING THE BEST OF EVERY SEASON SINCE 1978",
             "button_1_link": "",
-            "button_1_style": "solid",
+            "button_1_style": "outline",
             "button_1_background": "#ffffff",
             "button_1_text_color": "#000000",
             "button_2_text": "",
@@ -260,6 +260,43 @@
         "content": ""
       }
     },
+    "rich_text_AKcGBb": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_K9qPUF": {
+          "type": "subheading",
+          "settings": {
+            "text": "Every Season Tells a Story"
+          }
+        },
+        "heading_iKtkk6": {
+          "type": "heading",
+          "settings": {
+            "text": "<strong>🌱 Open All Seasons, Always Fresh 🌻</strong>",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_3FjKVd": {
+          "type": "richtext",
+          "settings": {
+            "content": ""
+          }
+        }
+      },
+      "block_order": [
+        "subheading_K9qPUF",
+        "heading_iKtkk6",
+        "richtext_3FjKVd"
+      ],
+      "name": "t:sections.rich_text.presets.rich_text.name",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "content_width": "sm",
+        "text_position": "center",
+        "remove_vertical_spacing": false
+      }
+    },
     "image-with-text-scroll": {
       "type": "images-with-text-scroll",
       "blocks": {
@@ -269,8 +306,8 @@
             "image": "shopify://shop_images/strawberries.jpg",
             "subheading": "",
             "title": "<strong>Summer</strong>",
-            "content": "<p>Welcome your customers to your store by sharing temporary offers or explaining to them what your products are about.</p>",
-            "link_text": "",
+            "content": "<p><strong>Experience the best of Midwest summer at The Summit in downtown Kirkwood! Our market is brimming with local produce, fresh bakery goods, craft foods, and the irresistible scent of ripe peaches, just-picked tomatoes, and sweet melons. Taste seasonal favorites like berries and cherries as you explore. Enjoy perfectly crisp sweet corn—often harvested that very morning—and discover treasures in our summer boutique or garden shop. Every visit offers something new, and our friendly staff will always make you feel like family.</strong></p>",
+            "link_text": "Learn More",
             "link_url": "",
             "link_style": "solid"
           }
@@ -281,8 +318,8 @@
             "image": "shopify://shop_images/thesummitallseasonsmarket_1729637856_3484777363618377804_4788839409.jpg",
             "subheading": "",
             "title": "Fall",
-            "content": "<p>Create trust with your customers by explaining the story of your brand. Share your values or what is important to you.</p>",
-            "link_text": "",
+            "content": "<p>Falling leaves, towering cornstalks, golden straw bales & a pumpkin buffet set the stage for The Great Pumpkin Patch & Fall Fun Zone Experience at The Summit All Seasons Market in Kirkwood Farmers Market.</p>",
+            "link_text": "See More",
             "link_url": "",
             "link_style": "solid"
           }
@@ -323,7 +360,7 @@
         "background_image": "shopify://shop_images/Collection_Tile_Image_for_WINTER_PLANTS_tinted.png",
         "image_position": "start",
         "text_alignment": "center",
-        "heading_tag": "h3",
+        "heading_tag": "h2",
         "overlay_color": "#000000",
         "overlay_opacity": 0
       }
@@ -583,6 +620,7 @@
     "multi-column",
     "slideshow",
     "media_grid_34CEgj",
+    "rich_text_AKcGBb",
     "image-with-text-scroll",
     "multiple-media-with-text",
     "before-after",
