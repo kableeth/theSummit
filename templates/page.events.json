@@ -21,28 +21,28 @@
     "image_with_text_block_aJRDhC": {
       "type": "image-with-text-block",
       "blocks": {
-        "subheading_7RU9Fe": {
-          "type": "subheading",
+        "liquid_9ymDF3": {
+          "type": "liquid",
           "settings": {
-            "text": "<strong>Events</strong>"
+            "liquid": "<img \n  src=\"{{ 'Stamp_AllSeasonsTheSummit.png' | file_url }}\" \n  alt=\"The Summit All Seasons Stamp\" \n  srcset=\"{{ 'Stamp_AllSeasonsTheSummit.png' | file_url }}?width=250 250w, {{ 'Stamp_AllSeasonsTheSummit.png' | file_url }}?width=350 350w\" \n  width=\"350\" \n  height=\"350\" \n  sizes=\"250px\" \n  style=\"--image-max-width: 250px\" \n  class=\"constrained-image\" />"
           }
         },
-        "richtext_GewtmY": {
-          "type": "richtext",
+        "liquid_J98pQg": {
+          "type": "liquid",
           "settings": {
-            "content": "<p><strong>Celebrate the Seasons at The Summit</strong></p>"
+            "liquid": "<h1>Events</h1>"
           }
         }
       },
       "block_order": [
-        "subheading_7RU9Fe",
-        "richtext_GewtmY"
+        "liquid_9ymDF3",
+        "liquid_J98pQg"
       ],
       "name": "t:sections.image_with_text_block.presets.image_with_text_block.name",
       "settings": {
-        "color_scheme": "scheme-2",
+        "color_scheme": "scheme-4",
         "image_size": "sm",
-        "image": "shopify://shop_images/thesummitallseasonsmarket_1743785166_3603453595129384061_4788839409.jpg",
+        "image": "shopify://shop_images/WINTER_e48dfbbf-25c8-4f6a-a27c-1fed6b29ab4e.png",
         "content_width": "sm",
         "enable_parallax": true,
         "remove_vertical_spacing": true
