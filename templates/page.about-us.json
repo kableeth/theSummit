@@ -20,7 +20,9 @@
     },
     "video_YngqpY": {
       "type": "video",
-      "custom_css": [],
+      "custom_css": [
+        "selector .media,selector .video-wrapper {background-color: #ffffff !important;}"
+      ],
       "name": "t:sections.video.presets.video.name",
       "settings": {
         "autoplay": true,
