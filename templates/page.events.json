@@ -18,6 +18,168 @@
         "page_width": "xs"
       }
     },
+    "image_with_text_WHjkDW": {
+      "type": "image-with-text",
+      "blocks": {
+        "subheading_qVK3wr": {
+          "type": "subheading",
+          "settings": {
+            "text": "<strong>Celebrate the Seasons at The Summit</strong>"
+          }
+        },
+        "heading_WyWpcn": {
+          "type": "heading",
+          "settings": {
+            "text": "Events",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_xfGdtW": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_qVK3wr",
+        "heading_WyWpcn",
+        "richtext_xfGdtW"
+      ],
+      "name": "t:sections.image_with_text.presets.image_with_text.name",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "image": "shopify://shop_images/Stamp_AllSeasonsTheSummit_website.png",
+        "reveal_on_scroll": true,
+        "image_position": "start",
+        "content_width": "sm",
+        "remove_vertical_spacing": true
+      }
+    },
+    "rich_text_bagP89": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_JkhGHL": {
+          "type": "subheading",
+          "settings": {
+            "text": ""
+          }
+        },
+        "heading_cweYE3": {
+          "type": "heading",
+          "settings": {
+            "text": "",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_z8LLzq": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>There’s always something special happening at The Summit. From festive gatherings to seasonal celebrations, our events bring the community together in unforgettable ways. Whether you’re picking pumpkins in the fall or sipping cocoa under the glow of Christmas lights, each season offers a unique experience worth marking your calendar for.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_JkhGHL",
+        "heading_cweYE3",
+        "richtext_z8LLzq"
+      ],
+      "name": "t:sections.rich_text.presets.rich_text.name",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "content_width": "sm",
+        "text_position": "center",
+        "remove_vertical_spacing": false
+      }
+    },
+    "multiple_media_with_text_qrfrrm": {
+      "type": "multiple-media-with-text",
+      "blocks": {
+        "image_JHCzdd": {
+          "type": "image",
+          "settings": {
+            "rotation": 0
+          }
+        },
+        "image_EMKqcV": {
+          "type": "image",
+          "settings": {
+            "rotation": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_JHCzdd",
+        "image_EMKqcV"
+      ],
+      "name": "t:sections.multiple_media_with_text.presets.multiple_media_with_text.name",
+      "settings": {
+        "color_scheme": "",
+        "reveal_on_scroll": true,
+        "separate_section_with_border": true,
+        "media_position_desktop": "before_text",
+        "media_position_mobile": "before_text",
+        "media_layout": "overlap",
+        "media_alignment": "center",
+        "media_alignment_offset": 0,
+        "media_mobile_alignment_offset": 0,
+        "text_alignment": "center",
+        "subheading": "About",
+        "title": "Showcase your product",
+        "content": "<p>Write some content about your products, collections or brand. Use image or video to create an impactful layout.</p>",
+        "button_1_text": "See Details",
+        "button_1_link": "",
+        "button_1_style": "solid",
+        "button_2_text": "",
+        "button_2_link": "",
+        "button_2_style": "solid"
+      }
+    },
+    "multiple_media_with_text_KNwDFA": {
+      "type": "multiple-media-with-text",
+      "blocks": {
+        "image_gNgX8G": {
+          "type": "image",
+          "settings": {
+            "rotation": 0
+          }
+        },
+        "image_LbkAmb": {
+          "type": "image",
+          "settings": {
+            "rotation": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_gNgX8G",
+        "image_LbkAmb"
+      ],
+      "name": "t:sections.multiple_media_with_text.presets.multiple_media_with_text.name",
+      "settings": {
+        "color_scheme": "",
+        "reveal_on_scroll": true,
+        "separate_section_with_border": true,
+        "media_position_desktop": "after_text",
+        "media_position_mobile": "before_text",
+        "media_layout": "overlap",
+        "media_alignment": "center",
+        "media_alignment_offset": 0,
+        "media_mobile_alignment_offset": 0,
+        "text_alignment": "center",
+        "subheading": "About",
+        "title": "Showcase your product",
+        "content": "<p>Write some content about your products, collections or brand. Use image or video to create an impactful layout.</p>",
+        "button_1_text": "",
+        "button_1_link": "",
+        "button_1_style": "solid",
+        "button_2_text": "",
+        "button_2_link": "",
+        "button_2_style": "solid"
+      }
+    },
     "blog_posts_MiUza9": {
       "type": "blog-posts",
       "name": "t:sections.blog_posts.presets.blog_posts.name",
@@ -77,6 +239,10 @@
   },
   "order": [
     "main",
+    "image_with_text_WHjkDW",
+    "rich_text_bagP89",
+    "multiple_media_with_text_qrfrrm",
+    "multiple_media_with_text_KNwDFA",
     "blog_posts_MiUza9",
     "blog_posts_xhqzkP",
     "newsletter_99MUHa"
