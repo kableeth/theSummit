@@ -303,7 +303,7 @@
         "image_with_text_GqnChV": {
           "type": "image_with_text",
           "settings": {
-            "image": "shopify://shop_images/thesummitallseasonsmarket_1743785166_3603453595129384061_4788839409.jpg",
+            "image": "shopify://shop_images/OPTION_2_Collection_Tile_Image_for_SPRING_PLANTS_FLOWERS.jpg",
             "subheading": "",
             "title": "Spring",
             "content": "<p><strong>From vibrant local produce to a lush selection of plants, the market comes alive with color, flavor, and community spirit—making it a season you won’t want to miss.</strong></p>",
@@ -315,7 +315,7 @@
         "item-1": {
           "type": "image_with_text",
           "settings": {
-            "image": "shopify://shop_images/strawberries.jpg",
+            "image": "shopify://shop_images/Collection_Tile_Image_for_SPRING_PRODUCE.jpg",
             "subheading": "",
             "title": "<strong>Summer</strong>",
             "content": "<p><strong>Experience the best of Midwest summer at The Summit in downtown Kirkwood! Our market is brimming with local produce, fresh bakery goods, craft foods, and the irresistible scent of ripe peaches, just-picked tomatoes, and sweet melons. Taste seasonal favorites like berries and cherries as you explore. Enjoy perfectly crisp sweet corn—often harvested that very morning—and discover treasures in our summer boutique or garden shop. Every visit offers something new, and our friendly staff will always make you feel like family.</strong></p>",
@@ -327,7 +327,7 @@
         "item-2": {
           "type": "image_with_text",
           "settings": {
-            "image": "shopify://shop_images/thesummitallseasonsmarket_1729637856_3484777363618377804_4788839409.jpg",
+            "image": "shopify://shop_images/TheSummit-History.png",
             "subheading": "",
             "title": "Fall",
             "content": "<p>Falling leaves, towering cornstalks, golden straw bales & a pumpkin buffet set the stage for <strong>The Great Pumpkin Patch</strong> & <strong>Fall Fun Zone Experience</strong> at <strong>The Summit</strong> All Seasons Market in Kirkwood Farmers Market.</p>",
@@ -339,7 +339,7 @@
         "item-3": {
           "type": "image_with_text",
           "settings": {
-            "image": "shopify://shop_images/thesummitallseasonsmarket_1703193240_3262943852800573240_4788839409.jpg",
+            "image": "shopify://shop_images/Summit_KirkwoodMarket_Winter_6bae9f83-5930-4d85-b258-57351fb606dd.png",
             "subheading": "",
             "title": "Christmas",
             "content": "<p>Share information about your product with your customers. Describe a product, and share info about your production process...</p>",
