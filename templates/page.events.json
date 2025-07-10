@@ -18,80 +18,34 @@
         "page_width": "xs"
       }
     },
-    "image_with_text_WHjkDW": {
-      "type": "image-with-text",
+    "image_with_text_block_aJRDhC": {
+      "type": "image-with-text-block",
       "blocks": {
-        "subheading_qVK3wr": {
+        "subheading_7RU9Fe": {
           "type": "subheading",
           "settings": {
-            "text": "<strong>Celebrate the Seasons at The Summit</strong>"
+            "text": "<strong>Events</strong>"
           }
         },
-        "heading_WyWpcn": {
-          "type": "heading",
-          "settings": {
-            "text": "Events",
-            "heading_tag": "h1"
-          }
-        },
-        "richtext_xfGdtW": {
+        "richtext_GewtmY": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "content": "<p><strong>Celebrate the Seasons at The Summit</strong></p>"
           }
         }
       },
       "block_order": [
-        "subheading_qVK3wr",
-        "heading_WyWpcn",
-        "richtext_xfGdtW"
+        "subheading_7RU9Fe",
+        "richtext_GewtmY"
       ],
-      "name": "t:sections.image_with_text.presets.image_with_text.name",
+      "name": "t:sections.image_with_text_block.presets.image_with_text_block.name",
       "settings": {
-        "color_scheme": "",
-        "separate_section_with_border": true,
-        "image": "shopify://shop_images/Stamp_AllSeasonsTheSummit_website.png",
-        "reveal_on_scroll": true,
-        "image_position": "start",
+        "color_scheme": "scheme-2",
+        "image_size": "sm",
+        "image": "shopify://shop_images/thesummitallseasonsmarket_1743785166_3603453595129384061_4788839409.jpg",
         "content_width": "sm",
+        "enable_parallax": true,
         "remove_vertical_spacing": true
-      }
-    },
-    "rich_text_bagP89": {
-      "type": "rich-text",
-      "blocks": {
-        "subheading_JkhGHL": {
-          "type": "subheading",
-          "settings": {
-            "text": ""
-          }
-        },
-        "heading_cweYE3": {
-          "type": "heading",
-          "settings": {
-            "text": "",
-            "heading_tag": "h1"
-          }
-        },
-        "richtext_z8LLzq": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>There’s always something special happening at The Summit. From festive gatherings to seasonal celebrations, our events bring the community together in unforgettable ways. Whether you’re picking pumpkins in the fall or sipping cocoa under the glow of Christmas lights, each season offers a unique experience worth marking your calendar for.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "subheading_JkhGHL",
-        "heading_cweYE3",
-        "richtext_z8LLzq"
-      ],
-      "name": "t:sections.rich_text.presets.rich_text.name",
-      "settings": {
-        "color_scheme": "",
-        "separate_section_with_border": true,
-        "content_width": "sm",
-        "text_position": "center",
-        "remove_vertical_spacing": false
       }
     },
     "multiple_media_with_text_qrfrrm": {
@@ -239,8 +193,7 @@
   },
   "order": [
     "main",
-    "image_with_text_WHjkDW",
-    "rich_text_bagP89",
+    "image_with_text_block_aJRDhC",
     "multiple_media_with_text_qrfrrm",
     "multiple_media_with_text_KNwDFA",
     "blog_posts_MiUza9",
