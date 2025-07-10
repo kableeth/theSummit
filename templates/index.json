@@ -300,6 +300,18 @@
     "image-with-text-scroll": {
       "type": "images-with-text-scroll",
       "blocks": {
+        "image_with_text_GqnChV": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify://shop_images/thesummitallseasonsmarket_1743785166_3603453595129384061_4788839409.jpg",
+            "subheading": "",
+            "title": "Spring",
+            "content": "<p><strong>From vibrant local produce to a lush selection of plants, the market comes alive with color, flavor, and community spirit—making it a season you won’t want to miss.</strong></p>",
+            "link_text": "Learn More",
+            "link_url": "",
+            "link_style": "solid"
+          }
+        },
         "item-1": {
           "type": "image_with_text",
           "settings": {
@@ -318,7 +330,7 @@
             "image": "shopify://shop_images/thesummitallseasonsmarket_1729637856_3484777363618377804_4788839409.jpg",
             "subheading": "",
             "title": "Fall",
-            "content": "<p>Falling leaves, towering cornstalks, golden straw bales & a pumpkin buffet set the stage for The Great Pumpkin Patch & Fall Fun Zone Experience at The Summit All Seasons Market in Kirkwood Farmers Market.</p>",
+            "content": "<p>Falling leaves, towering cornstalks, golden straw bales & a pumpkin buffet set the stage for <strong>The Great Pumpkin Patch</strong> & <strong>Fall Fun Zone Experience</strong> at <strong>The Summit</strong> All Seasons Market in Kirkwood Farmers Market.</p>",
             "link_text": "See More",
             "link_url": "",
             "link_style": "solid"
@@ -335,25 +347,13 @@
             "link_url": "",
             "link_style": "solid"
           }
-        },
-        "image_with_text_GqnChV": {
-          "type": "image_with_text",
-          "settings": {
-            "image": "shopify://shop_images/thesummitallseasonsmarket_1743785166_3603453595129384061_4788839409.jpg",
-            "subheading": "",
-            "title": "Spring",
-            "content": "<p>Share information about your product with your customers. Describe a product, and share info about your production process...</p>",
-            "link_text": "",
-            "link_url": "",
-            "link_style": "solid"
-          }
         }
       },
       "block_order": [
+        "image_with_text_GqnChV",
         "item-1",
         "item-2",
-        "item-3",
-        "image_with_text_GqnChV"
+        "item-3"
       ],
       "settings": {
         "color_scheme": "",
