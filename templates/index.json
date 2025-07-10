@@ -365,50 +365,6 @@
         "overlay_opacity": 38
       }
     },
-    "multiple-media-with-text": {
-      "type": "multiple-media-with-text",
-      "blocks": {
-        "image-2": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/fall_child_on_tractor.jpg",
-            "rotation": 0
-          }
-        },
-        "video_jt4a8X": {
-          "type": "video",
-          "settings": {
-            "video": "shopify://files/videos/Kirkwood Farmers Market Play Area.mp4",
-            "rotation": 0
-          }
-        }
-      },
-      "block_order": [
-        "image-2",
-        "video_jt4a8X"
-      ],
-      "settings": {
-        "color_scheme": "",
-        "reveal_on_scroll": true,
-        "separate_section_with_border": true,
-        "media_position_desktop": "before_text",
-        "media_position_mobile": "before_text",
-        "media_layout": "overlap",
-        "media_alignment": "center",
-        "media_alignment_offset": 0,
-        "media_mobile_alignment_offset": 0,
-        "text_alignment": "center",
-        "subheading": "Summer Event!",
-        "title": "Showcase Seasonal Event",
-        "content": "<p>Write some content about your products, collections or brand. Use image or video to create an impactful layout.</p>",
-        "button_1_text": "",
-        "button_1_link": "",
-        "button_1_style": "solid",
-        "button_2_text": "",
-        "button_2_link": "",
-        "button_2_style": "solid"
-      }
-    },
     "before-after": {
       "type": "before-after",
       "blocks": {
@@ -622,7 +578,6 @@
     "media_grid_34CEgj",
     "rich_text_AKcGBb",
     "image-with-text-scroll",
-    "multiple-media-with-text",
     "before-after",
     "countdown_tEhazb",
     "scrolling_content_kjP9qm",
