@@ -99,12 +99,14 @@
         "image_gNgX8G": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/header-christmas_89936b20-4bb7-4fd2-9a01-c077420701df.png",
             "rotation": 0
           }
         },
         "image_LbkAmb": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/IMG_2189.jpg",
             "rotation": 0
           }
         }
@@ -128,52 +130,12 @@
         "subheading": "<strong>Holiday Magic at The Summit</strong>",
         "title": "<strong>Tree Lot & Gingerbread Shoppe</strong>",
         "content": "<p>Step into the season with our most magical holiday experience — the <strong>Kirkwood Tree Lot and Gingerbread Shoppe</strong>, opening <strong>November 22nd & 23rd</strong>. Wander through a winter wonderland of fresh-cut Christmas trees, lush wreaths, and garlands up to 16 feet tall. Then cozy up in the heated Gingerbread Shoppe, filled with holiday treats, ornaments, hand-tied bows, gifts, and festive décor. Let our expert team help you customize your wreaths, deliver your tree, and bring the spirit of the season home.</p>",
-        "button_1_text": "",
+        "button_1_text": "Learn More",
         "button_1_link": "",
         "button_1_style": "solid",
         "button_2_text": "",
         "button_2_link": "",
         "button_2_style": "solid"
-      }
-    },
-    "blog_posts_MiUza9": {
-      "type": "blog-posts",
-      "name": "t:sections.blog_posts.presets.blog_posts.name",
-      "settings": {
-        "color_scheme": "scheme-1",
-        "separate_section_with_border": true,
-        "blog": "past-events",
-        "posts_count": 3,
-        "stack_on_mobile": false,
-        "show_category": true,
-        "show_date": false,
-        "show_excerpt": true,
-        "show_read_more": true,
-        "subheading": "",
-        "title": "Upcoming Events!",
-        "content": "",
-        "button_link": "",
-        "button_text": "View all"
-      }
-    },
-    "blog_posts_xhqzkP": {
-      "type": "blog-posts",
-      "name": "t:sections.blog_posts.presets.blog_posts.name",
-      "settings": {
-        "color_scheme": "",
-        "separate_section_with_border": true,
-        "blog": "",
-        "posts_count": 3,
-        "stack_on_mobile": false,
-        "show_category": true,
-        "show_date": false,
-        "show_excerpt": true,
-        "show_read_more": true,
-        "subheading": "",
-        "title": "Past Events!",
-        "content": "",
-        "button_link": "",
-        "button_text": "View all"
       }
     },
     "newsletter_99MUHa": {
@@ -198,8 +160,6 @@
     "image_with_text_block_aJRDhC",
     "multiple_media_with_text_qrfrrm",
     "multiple_media_with_text_KNwDFA",
-    "blog_posts_MiUza9",
-    "blog_posts_xhqzkP",
     "newsletter_99MUHa"
   ]
 }
