@@ -11,6 +11,16 @@ note that this may have impact on different places.
   .font-test-5th { font-family: '5th Avenue', serif !important; }
   .font-test-visby { font-family: 'Visby CF', sans-serif !important; }
   .font-test-louise { font-family: 'LouiseWalker', serif !important; }
+  
+  /* Newsletter popup input styling for better contrast */
+  .newsletter-popup .input {
+    --input-background: 255 255 255;
+    border-color: rgb(var(--text-color) / 0.2);
+  }
+  
+  .newsletter-popup .input:focus {
+    border-color: rgb(var(--text-color) / 0.6);
+  }
   @font-face {
     font-family: '5th Avenue';
     src: url('{{ "5thAvenue.woff2" | asset_url }}') format('woff2'),
