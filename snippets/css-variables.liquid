@@ -9,7 +9,9 @@ note that this may have impact on different places.
   /* Custom font declarations */
   @font-face {
     font-family: '5th Avenue';
-    src: url('{{ "5thAvenue.woff2" | asset_url }}') format('woff2');
+    src: url('{{ "5thAvenue.woff2" | asset_url }}') format('woff2'),
+         url('{{ "5thAvenue.woff" | asset_url }}') format('woff'),
+         url('{{ "5thAvenue.ttf" | asset_url }}') format('truetype');
     font-display: swap;
     font-weight: normal;
     font-style: normal;
@@ -17,7 +19,8 @@ note that this may have impact on different places.
 
   @font-face {
     font-family: 'Visby CF';
-    src: url('{{ "VisbyCF-Bold.woff2" | asset_url }}') format('woff2');
+    src: url('{{ "VisbyCF-Bold.woff2" | asset_url }}') format('woff2'),
+         url('{{ "VisbyCF-Bold.woff" | asset_url }}') format('woff');
     font-display: swap;
     font-weight: bold;
     font-style: normal;
@@ -25,7 +28,8 @@ note that this may have impact on different places.
 
   @font-face {
     font-family: 'Visby CF';
-    src: url('{{ "VisbyCF-Medium.woff2" | asset_url }}') format('woff2');
+    src: url('{{ "VisbyCF-Medium.woff2" | asset_url }}') format('woff2'),
+         url('{{ "VisbyCF-Medium.woff" | asset_url }}') format('woff');
     font-display: swap;
     font-weight: 500;
     font-style: normal;
@@ -33,7 +37,8 @@ note that this may have impact on different places.
 
   @font-face {
     font-family: 'LouiseWalker';
-    src: url('{{ "LouiseWalker-Serif.woff2" | asset_url }}') format('woff2');
+    src: url('{{ "LouiseWalker-Serif.woff2" | asset_url }}') format('woff2'),
+         url('{{ "LouiseWalker-Serif.woff" | asset_url }}') format('woff');
     font-display: swap;
     font-weight: normal;
     font-style: normal;
@@ -107,12 +112,12 @@ note that this may have impact on different places.
      */
 
     /* Font properties */
-    --heading-font-family: {% if settings.custom_heading_font != blank %}'{{ settings.custom_heading_font }}'{% else %}{{ settings.heading_font.family }}, {{ settings.heading_font.fallback_families }}{% endif %};
+    --heading-font-family: {% if settings.custom_heading_font != blank %}'{{ settings.custom_heading_font }}', {{ settings.heading_font.family }}, {{ settings.heading_font.fallback_families }}{% else %}{{ settings.heading_font.family }}, {{ settings.heading_font.fallback_families }}{% endif %};
     --heading-font-weight: {{ settings.heading_font.weight }};
     --heading-font-style: {{ settings.heading_font.style }};
     --heading-text-transform: {{ settings.heading_text_transform }};
     --heading-letter-spacing: {% if language_code == 'ar' %}0{% else %}{{ settings.heading_letter_spacing | divided_by: 100.0 }}{% endif %}em;
-    --text-font-family: {% if settings.custom_text_font != blank %}'{{ settings.custom_text_font }}'{% else %}{{ settings.text_font.family }}, {{ settings.text_font.fallback_families }}{% endif %};
+    --text-font-family: {% if settings.custom_text_font != blank %}'{{ settings.custom_text_font }}', {{ settings.text_font.family }}, {{ settings.text_font.fallback_families }}{% else %}{{ settings.text_font.family }}, {{ settings.text_font.fallback_families }}{% endif %};
     --text-font-weight: {{ settings.text_font.weight }};
     --text-font-style: {{ settings.text_font.style }};
     --text-letter-spacing: {% if language_code == 'ar' %}0{% else %}{{ settings.text_font_letter_spacing | divided_by: 100.0 }}{% endif %}em;
