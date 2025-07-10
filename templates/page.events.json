@@ -32,11 +32,18 @@
           "settings": {
             "liquid": "<h1>Events</h1>"
           }
+        },
+        "liquid_9f3TqX": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<button type=\"button\" class=\"button button--outline\" style=\"--button-background: 255 255 255; --button-outline-color: 255 255 255; --button-text-color: 0 0 0;\">\n  Celebrate the Seasons with The Summit\n</button>"
+          }
         }
       },
       "block_order": [
         "liquid_9ymDF3",
-        "liquid_J98pQg"
+        "liquid_J98pQg",
+        "liquid_9f3TqX"
       ],
       "name": "t:sections.image_with_text_block.presets.image_with_text_block.name",
       "settings": {
