@@ -130,7 +130,7 @@
         "item_TPzLCf": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/thesummitallseasonsmarket_1738985059_3563187394254726843_4788839409_9b4ac12f-c161-4da8-984b-b6024f1d7111.jpg",
+            "image": "shopify://shop_images/thesummitallseasonsmarket_1738985059_3563187394254726843_4788839409_9b4ac12f-c161-4da8-984b-b6024f1d7111.png",
             "label": "1978",
             "subheading": "Early 1978",
             "title": "<strong>The Dream</strong>",
@@ -260,7 +260,7 @@
             "label": "2021",
             "subheading": "2021",
             "title": "Presenting \"The Summit\"",
-            "content": "<p>In line with a new era, \"Summit Produce\" is rebranding as The Summit All Seasons Market and adding a 'fifth season' in our all new Winter Market.</p><p>As we have grown and expanded our products over the years, from produce only back in the day, to today's vast selection of plants, pumpkins, Christmas trees, seasonal décor, local foods, baked goods, and seasonal experiences for the family, the new name, \"The Summit All Seasons Market\" and our new logo, seek to reflect and better represent our growth and transformation over the years!</p><p>As The Summit continues to grow and evolve, our heart will always strictly hold to the standards of excellence in product selections that Carol envisioned when she first built it.  </p><p>Working hard to never take success or a customer for granted and holding on to the business practices of honesty and integrity in all things.</p><p>And most importantly, old-fashioned service with a smile.  </p>",
+            "content": "<p>In line with a new era, \"Summit Produce\" is rebranding as The Summit All Seasons Market and adding a 'fifth season' in our all new Winter Market.</p><p>As we have grown and expanded our products over the years, from produce only back in the day, to today's vast selection of plants, pumpkins, Christmas trees, seasonal décor, local foods, baked goods, and seasonal experiences for the family, the new name, \"The Summit All Seasons Market\" and our new logo, seek to reflect and better represent our growth and transformation over the years!</p><p>Working hard to never take success or a customer for granted and holding on to the business practices of honesty and integrity in all things.</p><p>And most importantly, old-fashioned service with a smile.  </p>",
             "link_text": "",
             "link_url": "",
             "link_style": "link",
@@ -295,6 +295,7 @@
         "item_9gLGHe",
         "item_etjEAK"
       ],
+      "custom_css": [],
       "name": "t:sections.timeline.presets.timeline.name",
       "settings": {
         "color_scheme": "",
