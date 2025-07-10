@@ -7,32 +7,16 @@ note that this may have impact on different places.
 
 <style>
   /* Custom font declarations */
+  /* Diagnostic: Check if fonts are loading */
+  .font-test-5th { font-family: '5th Avenue', serif !important; }
+  .font-test-visby { font-family: 'Visby CF', sans-serif !important; }
+  .font-test-louise { font-family: 'LouiseWalker', serif !important; }
   @font-face {
     font-family: '5th Avenue';
     src: url('{{ "5thAvenue.woff2" | asset_url }}') format('woff2'),
          url('{{ "5thAvenue.woff" | asset_url }}') format('woff'),
          url('{{ "5thAvenue.ttf" | asset_url }}') format('truetype');
-    font-display: swap;
-    font-weight: normal;
-    font-style: normal;
-  }
-
-  @font-face {
-    font-family: '5thAvenue';
-    src: url('{{ "5thAvenue.woff2" | asset_url }}') format('woff2'),
-         url('{{ "5thAvenue.woff" | asset_url }}') format('woff'),
-         url('{{ "5thAvenue.ttf" | asset_url }}') format('truetype');
-    font-display: swap;
-    font-weight: normal;
-    font-style: normal;
-  }
-
-  @font-face {
-    font-family: 'FifthAvenue';
-    src: url('{{ "5thAvenue.woff2" | asset_url }}') format('woff2'),
-         url('{{ "5thAvenue.woff" | asset_url }}') format('woff'),
-         url('{{ "5thAvenue.ttf" | asset_url }}') format('truetype');
-    font-display: swap;
+    font-display: block;
     font-weight: normal;
     font-style: normal;
   }
@@ -41,7 +25,7 @@ note that this may have impact on different places.
     font-family: 'Visby CF';
     src: url('{{ "VisbyCF-Bold.woff2" | asset_url }}') format('woff2'),
          url('{{ "VisbyCF-Bold.woff" | asset_url }}') format('woff');
-    font-display: swap;
+    font-display: block;
     font-weight: bold;
     font-style: normal;
   }
@@ -50,7 +34,7 @@ note that this may have impact on different places.
     font-family: 'Visby CF';
     src: url('{{ "VisbyCF-Medium.woff2" | asset_url }}') format('woff2'),
          url('{{ "VisbyCF-Medium.woff" | asset_url }}') format('woff');
-    font-display: swap;
+    font-display: block;
     font-weight: 500;
     font-style: normal;
   }
@@ -59,7 +43,7 @@ note that this may have impact on different places.
     font-family: 'LouiseWalker';
     src: url('{{ "LouiseWalker-Serif.woff2" | asset_url }}') format('woff2'),
          url('{{ "LouiseWalker-Serif.woff" | asset_url }}') format('woff');
-    font-display: swap;
+    font-display: block;
     font-weight: normal;
     font-style: normal;
   }
