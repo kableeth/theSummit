@@ -44,7 +44,7 @@
           "type": "question",
           "settings": {
             "question": "Do you sell gift cards?",
-            "answer": "<p>Yes we do, in-store.</p>"
+            "answer": "<p>Yes we do, in store.</p>"
           }
         },
         "question_mkqWKd": {
