@@ -252,7 +252,7 @@
         "color_scheme": "",
         "separate_section_with_border": true,
         "desktop_row_height": 140,
-        "mobile_row_height": 100,
+        "mobile_row_height": 150,
         "section_width": "sm",
         "spacing": "xs",
         "subheading": "",
