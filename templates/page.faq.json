@@ -30,7 +30,7 @@
           "type": "question",
           "settings": {
             "question": "What are hours of operation?",
-            "answer": "<p>The Summit is open seven days a week, nearly year round, with hours varying depending on the season. The Summit is closed for all national holidays, as well as seasonal rebuilds. Please check our seasonal hours for more details.</p>"
+            "answer": "<p>The Summit is open seven days a week, nearly year round, with hours varying depending on the season. The Summit is closed for all national holidays, as well as seasonal rebuilds. Please check our <a href=\"/pages/contact\" title=\"Contact Us\">Contact page</a> for more details.</p>"
           }
         },
         "question-3": {
@@ -43,8 +43,8 @@
         "question_DDDYT7": {
           "type": "question",
           "settings": {
-            "question": "Do you sell gift-certificates?",
-            "answer": "<p>Yes we do. They are available in $5 to $50 increments. Gift Certificates must be used in full at time of redemption.</p>"
+            "question": "Do you sell gift cards?",
+            "answer": "<p>Yes we do, in-store.</p>"
           }
         },
         "question_mkqWKd": {
