@@ -409,6 +409,7 @@
     },
     "countdown_tEhazb": {
       "type": "countdown",
+      "disabled": true,
       "settings": {
         "color_scheme": "scheme-2",
         "separate_section_with_border": true,
@@ -444,6 +445,12 @@
             "image": "shopify://shop_images/20240625-113521.jpg"
           }
         },
+        "text_iJ4cGF": {
+          "type": "text",
+          "settings": {
+            "text": "Grocery"
+          }
+        },
         "image_UwU3Ab": {
           "type": "image",
           "settings": {
@@ -466,6 +473,7 @@
       "block_order": [
         "image_JkPLje",
         "image_ByanVj",
+        "text_iJ4cGF",
         "image_UwU3Ab",
         "image_XxntjQ",
         "image_FLXLht"
@@ -474,6 +482,70 @@
         "separate_section_with_border": true,
         "scrolling_speed": 0.3,
         "scroll_direction": "left",
+        "pause_on_hover": false,
+        "text_font": "heading",
+        "text_font_size_mobile": 40,
+        "text_font_size_desktop": 96,
+        "section_vertical_spacing_mobile": 60,
+        "section_vertical_spacing_desktop": 80,
+        "item_horizontal_spacing_mobile": 80,
+        "item_horizontal_spacing_desktop": 120,
+        "background": "",
+        "text_color": ""
+      }
+    },
+    "scrolling_content_iGAeV6": {
+      "type": "scrolling-content",
+      "blocks": {
+        "image_FEbMJB": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/image_e67e3f55-2c63-4f23-84fa-c7e2e1cfd07c.png"
+          }
+        },
+        "image_DwREhx": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/20240625-113521.jpg"
+          }
+        },
+        "text_ekc4jt": {
+          "type": "text",
+          "settings": {
+            "text": "Candy"
+          }
+        },
+        "image_qGQkTH": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/D3E5976F-9371-4E0F-A2C7-EB54FBD8F326.png"
+          }
+        },
+        "image_HNPyDW": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/2AD8D87A-B81F-4EC1-935C-6031EC308CDD.png"
+          }
+        },
+        "image_e3MhRq": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/image_aeae083b-f21d-4468-b3f0-f2d6da1c03f2.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "image_FEbMJB",
+        "image_DwREhx",
+        "text_ekc4jt",
+        "image_qGQkTH",
+        "image_HNPyDW",
+        "image_e3MhRq"
+      ],
+      "settings": {
+        "separate_section_with_border": true,
+        "scrolling_speed": 0.3,
+        "scroll_direction": "right",
         "pause_on_hover": false,
         "text_font": "heading",
         "text_font_size_mobile": 40,
@@ -581,6 +653,7 @@
     "before-after",
     "countdown_tEhazb",
     "scrolling_content_kjP9qm",
+    "scrolling_content_iGAeV6",
     "logo_list_Vb94PP",
     "newsletter"
   ]
