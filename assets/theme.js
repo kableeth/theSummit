@@ -4908,10 +4908,8 @@ var ImagesWithTextScroll = class extends EffectCarousel {
     inView15(this, () => {
       __privateGet(this, _imageElements).forEach((imageElement) => imageElement.removeAttribute("loading"));
     });
-    if (matchesMediaQuery("md")) {
-      __privateMethod(this, _ImagesWithTextScroll_instances, setupScrollObservers_fn).call(this);
-    }
-    mediaQueryListener("md", __privateMethod(this, _ImagesWithTextScroll_instances, onBreakpointChanged_fn).bind(this));
+    // Always setup scroll observers for both mobile and desktop
+    __privateMethod(this, _ImagesWithTextScroll_instances, setupScrollObservers_fn).call(this);
   }
   /**
    * Override the "cellSelector". In this component, what makes a "slide" (on mobile) is the piece of text
@@ -4923,7 +4921,7 @@ var ImagesWithTextScroll = class extends EffectCarousel {
    * Swipe should only be available on mobile and tablet, otherwise it is a scroll-based experience
    */
   get allowSwipe() {
-    return matchesMediaQuery("md-max");
+    return false; // Disable swipe to enable scroll-based experience on all devices
   }
   /**
    * Perform the mobile animation
@@ -4971,13 +4969,8 @@ setupScrollObservers_fn = function() {
  * Due to how different the experience is on mobile and desktop, we use an observer to toggle between one mode and other
  */
 onBreakpointChanged_fn = function(event) {
-  if (event.matches) {
-    __privateGet(this, _imageElements).forEach((image) => image.style = null);
-    __privateGet(this, _textElements).forEach((text) => text.style = null);
-    __privateMethod(this, _ImagesWithTextScroll_instances, setupScrollObservers_fn).call(this);
-  } else {
-    this.getAnimations({ subtree: true }).forEach((animation) => animation.cancel());
-  }
+  // Remove breakpoint logic since we want consistent scroll behavior across all devices
+  // Keep scroll observers active for all screen sizes
 };
 if (!window.customElements.get("images-with-text-scroll")) {
   window.customElements.define("images-with-text-scroll", ImagesWithTextScroll);

@@ -5627,12 +5627,29 @@ product-rerender {
 }
 
 @media screen and (max-width: 999px) {
-  .images-with-text-scroll__item:not(.is-selected) {
-    visibility: hidden;
+  .images-with-text-scroll {
+    min-height: 100vh;
+  }
+
+  .images-with-text-scroll__container {
+    --image-width: min(56vw, 27.5rem);
+    --image-height: min(var(--image-width), var(--image-width) / var(--images-with-text-scroll-master-image-ratio));
+    --content-padding: calc((100vh - var(--image-height)  - var(--sticky-area-height)) / 2);
+    padding-block-start: var(--content-padding);
+    padding-block-end: var(--content-padding);
   }
 
   .images-with-text-scroll__image {
-    width: min(56vw, 27.5rem);
+    width: var(--image-width);
+    height: var(--image-height);
+    object-fit: contain;
+    object-position: center;
+    position: sticky;
+    inset-block-start: calc(var(--content-padding) + var(--sticky-area-height));
+  }
+
+  .images-with-text-scroll__item:not(:first-child) > .images-with-text-scroll__image {
+    opacity: 0;
   }
 }
 
