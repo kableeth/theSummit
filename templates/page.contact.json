@@ -21,7 +21,7 @@
     "image_with_text_overlay_3t4VLB": {
       "type": "image-with-text-overlay",
       "blocks": {
-        "heading_ytDFHw": {
+        "heading_kew4Ez": {
           "type": "heading",
           "settings": {
             "text": "<strong>Contact Us</strong>",
@@ -31,13 +31,27 @@
         "richtext_rceW86": {
           "type": "richtext",
           "settings": {
-            "content": "<h5>We’d love to hear from you! Whether you have a question, feedback, or just want to say hello — feel free to reach out.</h5><h4><strong>314-984-9496</strong></h4><h4><strong>contact@thesummitkirkwood.com</strong></h4>"
+            "content": "<p>We’d love to hear from you! Whether you have a question, feedback, or just want to say hello — feel free to reach out.</p><h6></h6><h4></h4>"
+          }
+        },
+        "subheading_iUxkg9": {
+          "type": "subheading",
+          "settings": {
+            "text": "314-984-9496"
+          }
+        },
+        "subheading_XYhcGc": {
+          "type": "subheading",
+          "settings": {
+            "text": "<strong>contact@thesummitkirkwood.com</strong>"
           }
         }
       },
       "block_order": [
-        "heading_ytDFHw",
-        "richtext_rceW86"
+        "heading_kew4Ez",
+        "richtext_rceW86",
+        "subheading_iUxkg9",
+        "subheading_XYhcGc"
       ],
       "name": "t:sections.image_with_text_overlay.presets.image_with_text_overlay.name",
       "settings": {
@@ -87,10 +101,11 @@
         "color_scheme": "",
         "separate_section_with_border": true,
         "image": "shopify://shop_images/Yellow-SummerTheSummit_4b0d35ce-2517-4d7b-a568-36a10d3cfd77.png",
+        "mobile_image": "shopify://shop_images/Yellow-SummerTheSummit.png",
         "reveal_on_scroll": true,
         "image_position": "start",
         "content_width": "sm",
-        "remove_vertical_spacing": false
+        "remove_vertical_spacing": true
       }
     },
     "image_with_text_mhabyD": {
@@ -129,7 +144,7 @@
         "reveal_on_scroll": true,
         "image_position": "end",
         "content_width": "sm",
-        "remove_vertical_spacing": false
+        "remove_vertical_spacing": true
       }
     },
     "image_with_text_zYXCTn": {
