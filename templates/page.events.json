@@ -55,51 +55,6 @@
         "remove_vertical_spacing": true
       }
     },
-    "multiple_media_with_text_qrfrrm": {
-      "type": "multiple-media-with-text",
-      "blocks": {
-        "video_9azrRX": {
-          "type": "video",
-          "settings": {
-            "video": "shopify://files/videos/The Summit Fall Fun Zone.mp4",
-            "rotation": 0
-          }
-        },
-        "image_EMKqcV": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/fall_child_on_tractor.jpg",
-            "rotation": 0
-          }
-        }
-      },
-      "block_order": [
-        "video_9azrRX",
-        "image_EMKqcV"
-      ],
-      "name": "t:sections.multiple_media_with_text.presets.multiple_media_with_text.name",
-      "settings": {
-        "color_scheme": "",
-        "reveal_on_scroll": true,
-        "separate_section_with_border": true,
-        "media_position_desktop": "before_text",
-        "media_position_mobile": "before_text",
-        "media_layout": "overlap",
-        "media_alignment": "center",
-        "media_alignment_offset": 0,
-        "media_mobile_alignment_offset": 0,
-        "text_alignment": "center",
-        "subheading": "<strong>Fall at The Summit</strong>",
-        "title": "<strong>Kid’s Fall Fun Zone & Pumpkin Patch</strong>",
-        "content": "<p>Celebrate the season with slides, tunnels, hay bales, and pumpkins galore! <strong>From September 27th to October 31st</strong>, The Summit transforms into a fall adventure filled with hands-on attractions, weekend entertainment, gem mining, and tasty treats. Whether you’re visiting for a weekday wristband or a weekend of food trucks and face painting, there’s autumn magic waiting for every age.</p>",
-        "button_1_text": "See Details",
-        "button_1_link": "",
-        "button_1_style": "solid",
-        "button_2_text": "Buy Tickets",
-        "button_2_link": "",
-        "button_2_style": "solid"
-      }
-    },
     "media_grid_FNeMBP": {
       "type": "media-grid",
       "blocks": {
@@ -171,6 +126,51 @@
         "subheading": "",
         "title": "",
         "content": ""
+      }
+    },
+    "multiple_media_with_text_qrfrrm": {
+      "type": "multiple-media-with-text",
+      "blocks": {
+        "video_9azrRX": {
+          "type": "video",
+          "settings": {
+            "video": "shopify://files/videos/The Summit Fall Fun Zone.mp4",
+            "rotation": 0
+          }
+        },
+        "image_EMKqcV": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/fall_child_on_tractor.jpg",
+            "rotation": 0
+          }
+        }
+      },
+      "block_order": [
+        "video_9azrRX",
+        "image_EMKqcV"
+      ],
+      "name": "t:sections.multiple_media_with_text.presets.multiple_media_with_text.name",
+      "settings": {
+        "color_scheme": "",
+        "reveal_on_scroll": true,
+        "separate_section_with_border": true,
+        "media_position_desktop": "before_text",
+        "media_position_mobile": "before_text",
+        "media_layout": "overlap",
+        "media_alignment": "center",
+        "media_alignment_offset": 0,
+        "media_mobile_alignment_offset": 0,
+        "text_alignment": "center",
+        "subheading": "<strong>Fall at The Summit</strong>",
+        "title": "<strong>Kid’s Fall Fun Zone & Pumpkin Patch</strong>",
+        "content": "<p>Celebrate the season with slides, tunnels, hay bales, and pumpkins galore! <strong>From September 27th to October 31st</strong>, The Summit transforms into a fall adventure filled with hands-on attractions, weekend entertainment, gem mining, and tasty treats. Whether you’re visiting for a weekday wristband or a weekend of food trucks and face painting, there’s autumn magic waiting for every age.</p>",
+        "button_1_text": "See Details",
+        "button_1_link": "",
+        "button_1_style": "solid",
+        "button_2_text": "Buy Tickets",
+        "button_2_link": "",
+        "button_2_style": "solid"
       }
     },
     "multiple_media_with_text_KNwDFA": {

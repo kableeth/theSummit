@@ -108,6 +108,43 @@
         "controls_color": "#ffffff"
       }
     },
+    "rich_text_AKcGBb": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_K9qPUF": {
+          "type": "subheading",
+          "settings": {
+            "text": "Every Season Tells a Story"
+          }
+        },
+        "heading_iKtkk6": {
+          "type": "heading",
+          "settings": {
+            "text": "<strong>🌱 Open All Seasons, Always Fresh 🌻</strong>",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_3FjKVd": {
+          "type": "richtext",
+          "settings": {
+            "content": ""
+          }
+        }
+      },
+      "block_order": [
+        "subheading_K9qPUF",
+        "heading_iKtkk6",
+        "richtext_3FjKVd"
+      ],
+      "name": "t:sections.rich_text.presets.rich_text.name",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "content_width": "sm",
+        "text_position": "center",
+        "remove_vertical_spacing": false
+      }
+    },
     "media_grid_34CEgj": {
       "type": "media-grid",
       "blocks": {
@@ -258,43 +295,6 @@
         "subheading": "",
         "title": "",
         "content": ""
-      }
-    },
-    "rich_text_AKcGBb": {
-      "type": "rich-text",
-      "blocks": {
-        "subheading_K9qPUF": {
-          "type": "subheading",
-          "settings": {
-            "text": "Every Season Tells a Story"
-          }
-        },
-        "heading_iKtkk6": {
-          "type": "heading",
-          "settings": {
-            "text": "<strong>🌱 Open All Seasons, Always Fresh 🌻</strong>",
-            "heading_tag": "h1"
-          }
-        },
-        "richtext_3FjKVd": {
-          "type": "richtext",
-          "settings": {
-            "content": ""
-          }
-        }
-      },
-      "block_order": [
-        "subheading_K9qPUF",
-        "heading_iKtkk6",
-        "richtext_3FjKVd"
-      ],
-      "name": "t:sections.rich_text.presets.rich_text.name",
-      "settings": {
-        "color_scheme": "",
-        "separate_section_with_border": true,
-        "content_width": "sm",
-        "text_position": "center",
-        "remove_vertical_spacing": false
       }
     },
     "image-with-text-scroll": {
@@ -647,13 +647,13 @@
   "order": [
     "multi-column",
     "slideshow",
-    "media_grid_34CEgj",
     "rich_text_AKcGBb",
     "image-with-text-scroll",
     "before-after",
-    "countdown_tEhazb",
+    "media_grid_34CEgj",
     "scrolling_content_kjP9qm",
     "scrolling_content_iGAeV6",
+    "countdown_tEhazb",
     "logo_list_Vb94PP",
     "newsletter"
   ]
