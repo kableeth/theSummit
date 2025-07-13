@@ -296,7 +296,7 @@
         "text_position": "center",
         "remove_vertical_spacing": false,
         "show_on_desktop": true,
-        "show_on_mobile": true
+        "show_on_mobile": false
       }
     },
     "image-with-text-scroll": {
