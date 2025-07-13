@@ -12,7 +12,13 @@
 {%- endunless -%}
 
 {%- comment -%} Only render if section should be visible and has blocks {%- endcomment -%}
-{%- if section.blocks.size > 0 and (show_on_desktop or show_on_mobile) -%}
+{%- assign should_render = false -%}
+{%- if section.blocks.size > 0 -%}
+  {%- if show_on_desktop or show_on_mobile -%}
+    {%- assign should_render = true -%}
+  {%- endif -%}
+{%- endif -%}
+{%- if should_render -%}
   {%- assign color_scheme_hash = section.settings.color_scheme.settings.background_gradient | default: section.settings.color_scheme.settings.background | md5 -%}
 
   <div class="color-scheme color-scheme--{{ section.settings.color_scheme.id }} color-scheme--bg-{{ color_scheme_hash }} {% unless section.settings.remove_vertical_spacing %}section-spacing{% endunless %} {% if section.settings.separate_section_with_border %}bordered-section{% endif %}{{ visibility_classes }}">
