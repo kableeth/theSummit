@@ -7967,3 +7967,30 @@ ul {
   overflow: hidden;
 }
 
+/* Visibility control classes */
+.hidden-desktop {
+  display: none !important;
+}
+
+.hidden-mobile {
+  display: none !important;
+}
+
+@media screen and (max-width: 699px) {
+  .hidden-mobile {
+    display: none !important;
+  }
+  .hidden-desktop {
+    display: block !important;
+  }
+}
+
+@media screen and (min-width: 700px) {
+  .hidden-desktop {
+    display: none !important;
+  }
+  .hidden-mobile {
+    display: block !important;
+  }
+}
+
