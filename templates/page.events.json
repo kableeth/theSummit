@@ -291,6 +291,49 @@
         "content": ""
       }
     },
+    "multiple_media_with_text_kXyxye": {
+      "type": "multiple-media-with-text",
+      "blocks": {
+        "image_WYpztz": {
+          "type": "image",
+          "settings": {
+            "rotation": 0
+          }
+        },
+        "image_FF4m7T": {
+          "type": "image",
+          "settings": {
+            "rotation": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_WYpztz",
+        "image_FF4m7T"
+      ],
+      "name": "t:sections.multiple_media_with_text.presets.multiple_media_with_text.name",
+      "settings": {
+        "color_scheme": "",
+        "reveal_on_scroll": true,
+        "separate_section_with_border": true,
+        "media_position_desktop": "before_text",
+        "media_position_mobile": "before_text",
+        "media_layout": "overlap",
+        "media_alignment": "center",
+        "media_alignment_offset": 0,
+        "media_mobile_alignment_offset": 0,
+        "text_alignment": "center",
+        "subheading": "Spring at The Summit",
+        "title": "Peach Festival",
+        "content": "<p>A Peachy Good Time Awaits! A celebration of all things sweet, local, and peachy! From fresh fruit to sidewalk sales, it's a summer event you won't want to miss. </p>",
+        "button_1_text": "",
+        "button_1_link": "",
+        "button_1_style": "solid",
+        "button_2_text": "",
+        "button_2_link": "",
+        "button_2_style": "solid"
+      }
+    },
     "newsletter_99MUHa": {
       "type": "newsletter",
       "name": "t:sections.newsletter.presets.newsletter.name",
@@ -315,6 +358,7 @@
     "media_grid_FNeMBP",
     "multiple_media_with_text_KNwDFA",
     "media_grid_PcKiFY",
+    "multiple_media_with_text_kXyxye",
     "newsletter_99MUHa"
   ]
 }
