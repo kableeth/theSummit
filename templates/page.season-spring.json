@@ -175,44 +175,6 @@
         "show_on_mobile": true
       }
     },
-    "image_with_text_j3j4H4": {
-      "type": "image-with-text",
-      "blocks": {
-        "subheading_pDdejU": {
-          "type": "subheading",
-          "settings": {
-            "text": "Subheading"
-          }
-        },
-        "heading_PL4yji": {
-          "type": "heading",
-          "settings": {
-            "text": "Image with text",
-            "heading_tag": "h1"
-          }
-        },
-        "richtext_8fA836": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "subheading_pDdejU",
-        "heading_PL4yji",
-        "richtext_8fA836"
-      ],
-      "name": "t:sections.image_with_text.presets.image_with_text.name",
-      "settings": {
-        "color_scheme": "",
-        "separate_section_with_border": true,
-        "reveal_on_scroll": true,
-        "image_position": "start",
-        "content_width": "sm",
-        "remove_vertical_spacing": true
-      }
-    },
     "images_with_text_scroll_p3tGiH": {
       "type": "images-with-text-scroll",
       "blocks": {
@@ -264,6 +226,122 @@
         "overlay_color": "#000000",
         "overlay_opacity": 0
       }
+    },
+    "before_after_y3idTB": {
+      "type": "before-after",
+      "blocks": {
+        "before_Yjgfqd": {
+          "type": "before",
+          "settings": {
+            "color_scheme": "",
+            "text": "Before",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link"
+          }
+        },
+        "after_cD33XA": {
+          "type": "after",
+          "settings": {
+            "color_scheme": "",
+            "text": "After",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "before_Yjgfqd",
+        "after_cD33XA"
+      ],
+      "name": "t:sections.before_after.presets.before_after.name",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "subheading": "",
+        "title": "Before/after",
+        "content": "<p>Showcase your product benefit by using before/after image comparison.</p>",
+        "cursor_direction": "horizontal",
+        "cursor_initial_position": 50,
+        "cursor_background": "#ffffff",
+        "cursor_arrows_color": "#000000"
+      }
+    },
+    "image_with_text_j3j4H4": {
+      "type": "image-with-text",
+      "blocks": {
+        "subheading_pDdejU": {
+          "type": "subheading",
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "heading_PL4yji": {
+          "type": "heading",
+          "settings": {
+            "text": "Image with text",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_8fA836": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_pDdejU",
+        "heading_PL4yji",
+        "richtext_8fA836"
+      ],
+      "name": "t:sections.image_with_text.presets.image_with_text.name",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "reveal_on_scroll": true,
+        "image_position": "start",
+        "content_width": "sm",
+        "remove_vertical_spacing": true
+      }
+    },
+    "scrolling_content_pjKtKa": {
+      "type": "scrolling-content",
+      "blocks": {
+        "text_q86GbD": {
+          "type": "text",
+          "settings": {
+            "text": "Welcome to our shop"
+          }
+        },
+        "text_tHf7gV": {
+          "type": "text",
+          "settings": {
+            "text": "Discover our products"
+          }
+        }
+      },
+      "block_order": [
+        "text_q86GbD",
+        "text_tHf7gV"
+      ],
+      "name": "t:sections.scrolling_content.presets.scrolling_content.name",
+      "settings": {
+        "separate_section_with_border": true,
+        "scrolling_speed": 0.3,
+        "scroll_direction": "left",
+        "pause_on_hover": false,
+        "text_font": "heading",
+        "text_font_size_mobile": 40,
+        "text_font_size_desktop": 96,
+        "section_vertical_spacing_mobile": 60,
+        "section_vertical_spacing_desktop": 80,
+        "item_horizontal_spacing_mobile": 80,
+        "item_horizontal_spacing_desktop": 120,
+        "background": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
@@ -272,6 +350,8 @@
     "media_grid_JtbPaB",
     "rich_text_BYK93r",
     "images_with_text_scroll_p3tGiH",
+    "before_after_y3idTB",
+    "scrolling_content_pjKtKa",
     "image_with_text_j3j4H4"
   ]
 }
