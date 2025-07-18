@@ -18,6 +18,163 @@
         "page_width": "xs"
       }
     },
+    "slideshow_HpkwnY": {
+      "type": "slideshow",
+      "blocks": {
+        "image_AMaGNx": {
+          "type": "image",
+          "settings": {
+            "subheading": "Tell your story",
+            "title": "Slide 1",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "content_max_width": 780,
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_1_style": "solid",
+            "button_1_background": "#ffffff",
+            "button_1_text_color": "#000000",
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_style": "outline",
+            "button_2_background": "#ffffff",
+            "button_2_text_color": "#000000",
+            "background": "",
+            "background_opacity": 50,
+            "text_color": "#ffffff",
+            "border_color": "",
+            "gradient_overlay": "linear-gradient(180deg, rgba(54, 54, 54, 0.2) 0%, rgba(4, 4, 4, 0.65) 100%)"
+          }
+        }
+      },
+      "block_order": [
+        "image_AMaGNx"
+      ],
+      "name": "t:sections.slideshow.presets.slideshow.name",
+      "settings": {
+        "allow_transparent_header": true,
+        "show_next_section_button": true,
+        "media_size": "auto",
+        "show_initial_transition": false,
+        "autoplay": true,
+        "autoplay_pause_on_video": true,
+        "cycle_speed": 5,
+        "background": "#000000",
+        "controls_color": "#ffffff"
+      }
+    },
+    "media_grid_JtbPaB": {
+      "type": "media-grid",
+      "blocks": {
+        "image_q7Mmzp": {
+          "type": "image",
+          "settings": {
+            "color_scheme": "",
+            "column_count": "8",
+            "row_count": 2,
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "place-self-center text-center",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "image_3HUi6r": {
+          "type": "image",
+          "settings": {
+            "color_scheme": "",
+            "column_count": "4",
+            "row_count": 1,
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "place-self-center text-center",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "image_wMVKEG": {
+          "type": "image",
+          "settings": {
+            "color_scheme": "",
+            "column_count": "4",
+            "row_count": 1,
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "place-self-center text-center",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_q7Mmzp",
+        "image_3HUi6r",
+        "image_wMVKEG"
+      ],
+      "name": "t:sections.media_grid.presets.media_grid.name",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "desktop_row_height": 290,
+        "mobile_row_height": 180,
+        "section_width": "lg",
+        "spacing": "md",
+        "subheading": "",
+        "title": "Media grid",
+        "content": ""
+      }
+    },
+    "rich_text_BYK93r": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_hG6PLd": {
+          "type": "subheading",
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "heading_3mjK9i": {
+          "type": "heading",
+          "settings": {
+            "text": "Heading",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_jjde7n": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_hG6PLd",
+        "heading_3mjK9i",
+        "richtext_jjde7n"
+      ],
+      "name": "t:sections.rich_text.presets.rich_text.name",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "content_width": "sm",
+        "text_position": "center",
+        "remove_vertical_spacing": false,
+        "show_on_desktop": true,
+        "show_on_mobile": true
+      }
+    },
     "image_with_text_j3j4H4": {
       "type": "image-with-text",
       "blocks": {
@@ -56,64 +213,65 @@
         "remove_vertical_spacing": true
       }
     },
-    "multi_column_h6n8zK": {
-      "type": "multi-column",
+    "images_with_text_scroll_p3tGiH": {
+      "type": "images-with-text-scroll",
       "blocks": {
-        "image_with_text_yXe7pe": {
+        "image_with_text_d7Jxj3": {
           "type": "image_with_text",
           "settings": {
-            "title": "Column title",
-            "heading_tag": "h3",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "subheading": "",
+            "title": "#1",
+            "content": "<p>Welcome your customers to your store by sharing temporary offers or explaining to them what your products are about.</p>",
+            "link_text": "",
             "link_url": "",
-            "link_text": ""
+            "link_style": "solid"
           }
         },
-        "image_with_text_zEdPx9": {
+        "image_with_text_Gi77zt": {
           "type": "image_with_text",
           "settings": {
-            "title": "Column title",
-            "heading_tag": "h3",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "subheading": "",
+            "title": "#2",
+            "content": "<p>Create trust with your customers by explaining the story of your brand. Share your values or what is important to you.</p>",
+            "link_text": "",
             "link_url": "",
-            "link_text": ""
+            "link_style": "solid"
           }
         },
-        "image_with_text_zNEY4q": {
+        "image_with_text_6angUC": {
           "type": "image_with_text",
           "settings": {
-            "title": "Column title",
-            "heading_tag": "h3",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "subheading": "",
+            "title": "#3",
+            "content": "<p>Share information about your product with your customers. Describe a product, and share info about your production process...</p>",
+            "link_text": "",
             "link_url": "",
-            "link_text": ""
+            "link_style": "solid"
           }
         }
       },
       "block_order": [
-        "image_with_text_yXe7pe",
-        "image_with_text_zEdPx9",
-        "image_with_text_zNEY4q"
+        "image_with_text_d7Jxj3",
+        "image_with_text_Gi77zt",
+        "image_with_text_6angUC"
       ],
-      "name": "t:sections.multi_column.presets.multi_column.name",
+      "name": "t:sections.images_with_text_scroll.presets.images_with_text_scroll.name",
       "settings": {
         "color_scheme": "",
-        "separate_section_with_border": true,
-        "columns_per_row": 3,
-        "stack_on_mobile": false,
-        "overlap_image": false,
-        "content_alignment": "start",
-        "text_alignment": "start",
-        "spacing": "md",
-        "subheading": "About",
-        "title": "Multi-column",
-        "content": ""
+        "image_position": "start",
+        "text_alignment": "center",
+        "heading_tag": "h3",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
       }
     }
   },
   "order": [
     "main",
-    "image_with_text_j3j4H4",
-    "multi_column_h6n8zK"
+    "slideshow_HpkwnY",
+    "media_grid_JtbPaB",
+    "rich_text_BYK93r",
+    "images_with_text_scroll_p3tGiH",
+    "image_with_text_j3j4H4"
   ]
 }
