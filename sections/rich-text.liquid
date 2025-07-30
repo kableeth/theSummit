@@ -21,7 +21,16 @@
 {%- if should_render -%}
   {%- assign color_scheme_hash = section.settings.color_scheme.settings.background_gradient | default: section.settings.color_scheme.settings.background | md5 -%}
 
-  <div class="color-scheme color-scheme--{{ section.settings.color_scheme.id }} color-scheme--bg-{{ color_scheme_hash }} {% unless section.settings.remove_vertical_spacing %}section-spacing{% endunless %} {% if section.settings.separate_section_with_border %}bordered-section{% endif %}{{ visibility_classes }}">
+  <!-- DEBUG: show_on_desktop: {{ show_on_desktop }}, show_on_mobile: {{ show_on_mobile }}, visibility_classes: '{{ visibility_classes }}' -->
+  <div class="color-scheme color-scheme--{{ section.settings.color_scheme.id }} color-scheme--bg-{{ color_scheme_hash }} {% unless section.settings.remove_vertical_spacing %}section-spacing{% endunless %} {% if section.settings.separate_section_with_border %}bordered-section{% endif %}{{ visibility_classes }}" style="border: 2px solid red;">
+    <!-- DEBUG: This section should be {{ show_on_desktop | default: true }}{{ show_on_mobile | default: true }} -->
+    <div style="background: yellow; padding: 10px; margin: 10px; font-weight: bold; color: black;">
+      DEBUG INFO:<br>
+      Desktop: {{ show_on_desktop }}<br>
+      Mobile: {{ show_on_mobile }}<br>
+      Classes: '{{ visibility_classes }}'<br>
+      Should render: {{ should_render }}
+    </div>
     <div class="container container--{{ section.settings.content_width }}">
       <div class="prose text-{{ section.settings.text_position }}">
         {%- assign is_inside_button_group_context = false -%}
