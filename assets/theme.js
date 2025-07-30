@@ -4917,10 +4917,10 @@ var ImagesWithTextScroll = class extends EffectCarousel {
     return ".images-with-text-scroll__item";
   }
   /**
-   * Swipe is now disabled on all devices to provide unified scroll-based experience
+   * Override the allowSwipe to conditionally enable it based on device
    */
   get allowSwipe() {
-    return false;
+    return matchesMediaQuery("md-max") && this.hasAttribute("allow-swipe");
   }
   /**
    * Perform the mobile animation
