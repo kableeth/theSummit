@@ -335,7 +335,7 @@
         "cycle_speed": 4,
         "background": "#000000",
         "controls_color": "#ffffff",
-        "show_on_desktop": true,
+        "show_on_desktop": false,
         "show_on_mobile": true
       }
     },
