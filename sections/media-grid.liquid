@@ -1,4 +1,24 @@
+{%- comment -%} Check visibility settings {%- endcomment -%}
+{%- assign show_on_desktop = section.settings.show_on_desktop -%}
+{%- assign show_on_mobile = section.settings.show_on_mobile -%}
+
+{%- comment -%} Create visibility classes {%- endcomment -%}
+{%- assign visibility_classes = '' -%}
+{%- unless show_on_desktop -%}
+  {%- assign visibility_classes = visibility_classes | append: ' hidden-desktop' -%}
+{%- endunless -%}
+{%- unless show_on_mobile -%}
+  {%- assign visibility_classes = visibility_classes | append: ' hidden-mobile' -%}
+{%- endunless -%}
+
+{%- comment -%} Only render if section should be visible and has blocks {%- endcomment -%}
+{%- assign should_render = false -%}
 {%- if section.blocks.size > 0 -%}
+  {%- if show_on_desktop or show_on_mobile -%}
+    {%- assign should_render = true -%}
+  {%- endif -%}
+{%- endif -%}
+{%- if should_render -%}
   <style>
     #shopify-section-{{ section.id }} {
       --media-grid-row-height: {{ section.settings.mobile_row_height }}px;
@@ -28,7 +48,7 @@
 
   {%- assign color_scheme_hash = section.settings.color_scheme.settings.background_gradient | default: section.settings.color_scheme.settings.background | md5 -%}
 
-  <div class="section-spacing color-scheme color-scheme--{{ section.settings.color_scheme.id }} color-scheme--bg-{{ color_scheme_hash }} {% if section.settings.separate_section_with_border %}bordered-section{% endif %}">
+  <div class="section-spacing color-scheme color-scheme--{{ section.settings.color_scheme.id }} color-scheme--bg-{{ color_scheme_hash }} {% if section.settings.separate_section_with_border %}bordered-section{% endif %}{{ visibility_classes }}">
     <div class="container {% unless section.settings.section_width == 'full' %}container--{{ section.settings.section_width }}{% endunless %}">
       <div class="section-stack">
         {%- render 'section-header', subheading: section.settings.subheading, heading: section.settings.title, content: section.settings.content -%}
@@ -215,6 +235,23 @@
       "type": "richtext",
       "id": "content",
       "label": "t:global.text.content"
+    },
+    {
+      "type": "header",
+      "content": "t:global.visibility.visibility_category",
+      "info": "t:global.visibility.visibility_info"
+    },
+    {
+      "type": "checkbox",
+      "id": "show_on_desktop",
+      "label": "t:global.visibility.show_on_desktop",
+      "default": true
+    },
+    {
+      "type": "checkbox",
+      "id": "show_on_mobile",
+      "label": "t:global.visibility.show_on_mobile",
+      "default": true
     }
   ],
   "blocks": [
