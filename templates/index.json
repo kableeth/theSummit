@@ -259,7 +259,9 @@
         "spacing": "xs",
         "subheading": "",
         "title": "",
-        "content": ""
+        "content": "",
+        "show_on_desktop": true,
+        "show_on_mobile": false
       }
     },
     "slideshow_FahUhK": {
