@@ -295,8 +295,8 @@
         "content_width": "sm",
         "text_position": "center",
         "remove_vertical_spacing": false,
-        "show_on_desktop": true,
-        "show_on_mobile": false
+        "show_on_desktop": false,
+        "show_on_mobile": true
       }
     },
     "image-with-text-scroll": {
