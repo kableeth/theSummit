@@ -4908,10 +4908,7 @@ var ImagesWithTextScroll = class extends EffectCarousel {
     inView15(this, () => {
       __privateGet(this, _imageElements).forEach((imageElement) => imageElement.removeAttribute("loading"));
     });
-    if (matchesMediaQuery("md")) {
-      __privateMethod(this, _ImagesWithTextScroll_instances, setupScrollObservers_fn).call(this);
-    }
-    mediaQueryListener("md", __privateMethod(this, _ImagesWithTextScroll_instances, onBreakpointChanged_fn).bind(this));
+    __privateMethod(this, _ImagesWithTextScroll_instances, setupScrollObservers_fn).call(this);
   }
   /**
    * Override the "cellSelector". In this component, what makes a "slide" (on mobile) is the piece of text
@@ -4920,10 +4917,10 @@ var ImagesWithTextScroll = class extends EffectCarousel {
     return ".images-with-text-scroll__item";
   }
   /**
-   * Swipe should only be available on mobile and tablet, otherwise it is a scroll-based experience
+   * Swipe is now disabled on all devices to provide unified scroll-based experience
    */
   get allowSwipe() {
-    return matchesMediaQuery("md-max");
+    return false;
   }
   /**
    * Perform the mobile animation
