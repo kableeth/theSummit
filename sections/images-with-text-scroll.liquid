@@ -14,7 +14,7 @@
     }
   </style>
 
-  <images-with-text-scroll id="{{ section_carousel_id }}" class="images-with-text-scroll {% if section.settings.image_position == 'end' %}images-with-text-scroll--reverse{% endif %} color-scheme color-scheme--{{ section.settings.color_scheme.id }}">
+  <images-with-text-scroll id="{{ section_carousel_id }}" class="images-with-text-scroll {% if section.settings.image_position == 'end' %}images-with-text-scroll--reverse{% endif %} color-scheme color-scheme--{{ section.settings.color_scheme.id }}" allow-swipe>
     {%- if section.settings.background_image or section.settings.mobile_background_image -%}
       <picture class="contents {% if section.settings.background_image == blank %}md:hidden{% endif %}">
         {%- if section.settings.mobile_background_image -%}
