@@ -105,7 +105,9 @@
         "autoplay_pause_on_video": true,
         "cycle_speed": 5,
         "background": "#000000",
-        "controls_color": "#ffffff"
+        "controls_color": "#ffffff",
+        "show_on_desktop": true,
+        "show_on_mobile": true
       }
     },
     "media_grid_34CEgj": {
@@ -270,8 +272,8 @@
             "mobile_image": "shopify://shop_images/thesummitallseasonsmarket_1726933264_3462089601772330558_4788839409.jpg",
             "subheading": "",
             "title": "",
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "mobile_text_position": "place-self-start-center text-center",
+            "desktop_text_position": "sm:place-self-start-center sm:text-center",
             "content_max_width": 780,
             "button_1_text": "",
             "button_1_link": "",
@@ -295,8 +297,8 @@
           "settings": {
             "image": "shopify://shop_images/thesummitallseasonsmarket_1654830262_2857245789314113242_4788839409.jpg",
             "mobile_image": "shopify://shop_images/thesummitallseasonsmarket_1654830262_2857245789314113242_4788839409.jpg",
-            "subheading": "Tell your story",
-            "title": "Slide 2",
+            "subheading": "",
+            "title": "",
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
             "content_max_width": 780,
@@ -326,13 +328,15 @@
       "settings": {
         "allow_transparent_header": false,
         "show_next_section_button": true,
-        "media_size": "auto",
+        "media_size": "sm",
         "show_initial_transition": false,
         "autoplay": true,
         "autoplay_pause_on_video": false,
         "cycle_speed": 4,
         "background": "#000000",
-        "controls_color": "#ffffff"
+        "controls_color": "#ffffff",
+        "show_on_desktop": false,
+        "show_on_mobile": true
       }
     },
     "rich_text_AKcGBb": {
