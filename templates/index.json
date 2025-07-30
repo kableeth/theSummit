@@ -270,7 +270,7 @@
         "subheading_nQtKQh": {
           "type": "subheading",
           "settings": {
-            "text": "Every Season Tells a Story"
+            "text": ""
           }
         },
         "heading_GCDmFj": {
@@ -370,6 +370,34 @@
         "background": "#000000",
         "controls_color": "#ffffff",
         "show_on_desktop": false,
+        "show_on_mobile": true
+      }
+    },
+    "rich_text_bWNXHA": {
+      "type": "rich-text",
+      "blocks": {
+        "button_68UmRd": {
+          "type": "button",
+          "settings": {
+            "style": "outline",
+            "text": "Every Season Tells a Story",
+            "url": "",
+            "background": "",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "button_68UmRd"
+      ],
+      "name": "t:sections.rich_text.presets.rich_text.name",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "content_width": "sm",
+        "text_position": "center",
+        "remove_vertical_spacing": false,
+        "show_on_desktop": true,
         "show_on_mobile": true
       }
     },
@@ -765,6 +793,7 @@
     "media_grid_34CEgj",
     "rich_text_DbT6QH",
     "slideshow_FahUhK",
+    "rich_text_bWNXHA",
     "rich_text_AKcGBb",
     "image-with-text-scroll",
     "before-after",
