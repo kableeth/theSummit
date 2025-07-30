@@ -1,6 +1,6 @@
 {%- comment -%} Check visibility settings {%- endcomment -%}
-{%- assign show_on_desktop = section.settings.show_on_desktop | default: true -%}
-{%- assign show_on_mobile = section.settings.show_on_mobile | default: true -%}
+{%- assign show_on_desktop = section.settings.show_on_desktop -%}
+{%- assign show_on_mobile = section.settings.show_on_mobile -%}
 
 {%- comment -%} Create visibility classes {%- endcomment -%}
 {%- assign visibility_classes = '' -%}
