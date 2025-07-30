@@ -264,6 +264,38 @@
         "show_on_mobile": false
       }
     },
+    "rich_text_DbT6QH": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_nQtKQh": {
+          "type": "subheading",
+          "settings": {
+            "text": "Every Season Tells a Story"
+          }
+        },
+        "heading_GCDmFj": {
+          "type": "heading",
+          "settings": {
+            "text": "<strong>🌱 Open All Seasons, Always Fresh 🌻</strong>",
+            "heading_tag": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_nQtKQh",
+        "heading_GCDmFj"
+      ],
+      "name": "t:sections.rich_text.presets.rich_text.name",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "content_width": "sm",
+        "text_position": "center",
+        "remove_vertical_spacing": false,
+        "show_on_desktop": true,
+        "show_on_mobile": true
+      }
+    },
     "slideshow_FahUhK": {
       "type": "slideshow",
       "blocks": {
@@ -377,7 +409,7 @@
         "text_position": "center",
         "remove_vertical_spacing": false,
         "show_on_desktop": true,
-        "show_on_mobile": true
+        "show_on_mobile": false
       }
     },
     "image-with-text-scroll": {
@@ -731,6 +763,7 @@
     "multi-column",
     "slideshow",
     "media_grid_34CEgj",
+    "rich_text_DbT6QH",
     "slideshow_FahUhK",
     "rich_text_AKcGBb",
     "image-with-text-scroll",
