@@ -827,6 +827,10 @@
           "settings": {
             "image": "shopify://shop_images/SummerSausage_67127153-f764-4d1e-97f5-83095ec14cba_1.webp"
           }
+        },
+        "image_BeVLth": {
+          "type": "image",
+          "settings": {}
         }
       },
       "block_order": [
@@ -838,7 +842,8 @@
         "image_UwU3Ab",
         "image_z4Xze3",
         "image_XxntjQ",
-        "image_FLXLht"
+        "image_FLXLht",
+        "image_BeVLth"
       ],
       "settings": {
         "separate_section_with_border": true,
