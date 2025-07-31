@@ -670,6 +670,11 @@ shopify-accelerated-checkout, shopify-accelerated-checkout-cart {
   padding-block-start: var(--header-height, 0px);
 }
 
+/* Custom rule for slideshow transparent header spacing */
+.shopify-section:first-child [allow-transparent-header] .slideshow__slide-content {
+  padding-block-start: var(--header-height, 0px);
+}
+
 .content-over-media--xs {
   --content-over-media-height: clamp(15rem, 65vw, 25rem);
 }
