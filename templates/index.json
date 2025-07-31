@@ -539,11 +539,19 @@
           "settings": {
             "content": "<p>Shop <strong>fresh produce</strong>, <strong>baked goods</strong>, and seasonal favorites. Explore the <strong>boutique</strong> and <strong>garden shop</strong>—there’s always something new and welcoming.</p>"
           }
+        },
+        "link_ycYNch": {
+          "type": "link",
+          "settings": {
+            "text": "See More",
+            "url": "shopify://pages/summer-season"
+          }
         }
       },
       "block_order": [
         "richtext_PzidBb",
-        "richtext_rqWMYz"
+        "richtext_rqWMYz",
+        "link_ycYNch"
       ],
       "name": "Mobile: Summer Highlight",
       "settings": {
