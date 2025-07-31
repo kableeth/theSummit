@@ -525,70 +525,6 @@
         "show_on_mobile": true
       }
     },
-    "scrolling_content_43M3MH": {
-      "type": "scrolling-content",
-      "blocks": {
-        "image_azKf4E": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/image_66637b84-07d7-42c0-ae97-f40e16ed506a.jpg"
-          }
-        },
-        "image_fGCadr": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/20240625-113521.jpg"
-          }
-        },
-        "text_AFUnbA": {
-          "type": "text",
-          "settings": {
-            "text": "Grocery"
-          }
-        },
-        "image_VzKKdd": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/D3E5976F-9371-4E0F-A2C7-EB54FBD8F326.png"
-          }
-        },
-        "image_7RRL9x": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/2AD8D87A-B81F-4EC1-935C-6031EC308CDD.png"
-          }
-        },
-        "image_LawAyQ": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/image_aeae083b-f21d-4468-b3f0-f2d6da1c03f2.jpg"
-          }
-        }
-      },
-      "block_order": [
-        "image_azKf4E",
-        "image_fGCadr",
-        "text_AFUnbA",
-        "image_VzKKdd",
-        "image_7RRL9x",
-        "image_LawAyQ"
-      ],
-      "settings": {
-        "separate_section_with_border": true,
-        "scrolling_speed": 0.3,
-        "scroll_direction": "right",
-        "pause_on_hover": false,
-        "text_font": "heading",
-        "text_font_size_mobile": 40,
-        "text_font_size_desktop": 96,
-        "section_vertical_spacing_mobile": 60,
-        "section_vertical_spacing_desktop": 80,
-        "item_horizontal_spacing_mobile": 80,
-        "item_horizontal_spacing_desktop": 120,
-        "background": "",
-        "text_color": ""
-      }
-    },
     "image_with_text_block_KTemAB": {
       "type": "image-with-text-block",
       "blocks": {
@@ -1101,7 +1037,6 @@
     "slideshow_FahUhK",
     "rich_text_bWNXHA",
     "image_with_text_block_R6Rkmx",
-    "scrolling_content_43M3MH",
     "image_with_text_block_KTemAB",
     "image_with_text_block_hpEmVQ",
     "image_with_text_block_MbHTCx",
