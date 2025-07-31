@@ -57,6 +57,55 @@
         "show_on_mobile": true
       }
     },
+    "text_with_icons_qa6AkH": {
+      "type": "text-with-icons",
+      "blocks": {
+        "item_BMVQkz": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-love",
+            "icon_width": 24,
+            "mobile_icon_width": 24,
+            "title": "Family-Owned",
+            "content": "<p>Proudly Rooted in 4 Generations of Care</p>"
+          }
+        },
+        "item_yJaQ3Q": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-tree",
+            "icon_width": 24,
+            "mobile_icon_width": 24,
+            "title": "Local Produce & Goods",
+            "content": "<p>Sourced from Across the Midwest—and Always Fresh</p>"
+          }
+        },
+        "item_84GbCt": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-calendar",
+            "icon_width": 24,
+            "mobile_icon_width": 24,
+            "title": "Open All 4 Seasons",
+            "content": "<p>Celebrate Something New Every Season</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_BMVQkz",
+        "item_yJaQ3Q",
+        "item_84GbCt"
+      ],
+      "name": "t:sections.text_with_icons.presets.text_with_icons.name",
+      "settings": {
+        "color_scheme": "scheme-1",
+        "separate_section_with_border": false,
+        "stack_on_mobile": false,
+        "icon_color": "",
+        "text_color": "",
+        "text_alignment": "center"
+      }
+    },
     "multiple_media_with_text_YrgALm": {
       "type": "multiple-media-with-text",
       "blocks": {
@@ -83,7 +132,7 @@
       "settings": {
         "color_scheme": "",
         "reveal_on_scroll": true,
-        "separate_section_with_border": true,
+        "separate_section_with_border": false,
         "media_position_desktop": "before_text",
         "media_position_mobile": "before_text",
         "media_layout": "overlap",
@@ -1087,6 +1136,7 @@
   },
   "order": [
     "slideshow",
+    "text_with_icons_qa6AkH",
     "multiple_media_with_text_YrgALm",
     "countdown_cYNFpL",
     "media_grid_34CEgj",
