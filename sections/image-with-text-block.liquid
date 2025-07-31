@@ -23,6 +23,10 @@
     #shopify-section-{{ section.id }} {
       --image-with-text-block-aspect-ratio: {% if section.settings.image != blank and section.settings.image_size == 'auto' and section.blocks.size == 0 %}{{ section.settings.image.aspect_ratio }}{% else %}auto{% endif %};
       --content-over-media-content-max-width: {% if section.settings.content_width == 'sm' %}190px{% elsif section.settings.content_width == 'md' %}250px{% else %}320px{% endif %};
+
+      {%- if section.settings.overlay_color != 'rgba(0,0,0,0)' -%}
+        --content-over-media-overlay: {{ section.settings.overlay_color.rgb }} / {{ section.settings.overlay_opacity | divided_by: 100.0 }};
+      {%- endif -%}
     }
 
     @media screen and (min-width: 700px) {
@@ -180,6 +184,26 @@
       "id": "remove_vertical_spacing",
       "label": "t:global.spacing.remove_vertical_spacing",
       "default": true
+    },
+    {
+      "type": "header",
+      "content": "t:global.colors.category"
+    },
+    {
+      "type": "color",
+      "id": "overlay_color",
+      "label": "t:global.colors.overlay_color",
+      "default": "#000000"
+    },
+    {
+      "type": "range",
+      "id": "overlay_opacity",
+      "label": "t:global.colors.overlay_opacity",
+      "min": 0,
+      "max": 100,
+      "step": 1,
+      "unit": "%",
+      "default": 0
     },
     {
       "type": "header",
