@@ -457,6 +457,152 @@
         "show_on_mobile": true
       }
     },
+    "image_with_text_block_R6Rkmx": {
+      "type": "image-with-text-block",
+      "blocks": {
+        "richtext_8DegpP": {
+          "type": "richtext",
+          "settings": {
+            "content": "<h3><strong>Spring</strong></h3>"
+          }
+        },
+        "richtext_i6WqV6": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p><strong>From vibrant local produce to a lush selection of plants, the market comes alive with color, flavor, and community spirit—making it a season you won’t want to miss.</strong></p>"
+          }
+        },
+        "link_gfycCM": {
+          "type": "link",
+          "settings": {
+            "text": "Learn More",
+            "url": "shopify://pages/spring-off-season"
+          }
+        }
+      },
+      "block_order": [
+        "richtext_8DegpP",
+        "richtext_i6WqV6",
+        "link_gfycCM"
+      ],
+      "name": "Spring Highlight",
+      "settings": {
+        "color_scheme": "scheme-4",
+        "image_size": "sm",
+        "image": "shopify://shop_images/Collection_Tile_Image_for_WINTER_PLANTS_tinted.png",
+        "content_width": "sm",
+        "enable_parallax": true,
+        "remove_vertical_spacing": true
+      }
+    },
+    "image_with_text_block_KTemAB": {
+      "type": "image-with-text-block",
+      "blocks": {
+        "richtext_PzidBb": {
+          "type": "richtext",
+          "settings": {
+            "content": "<h3>Summer</h3>"
+          }
+        },
+        "richtext_rqWMYz": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p><strong>Discover the best of Midwest summer at The Summit in downtown Kirkwood! Enjoy fresh local produce, baked goods, and seasonal favorites like peaches, sweet corn, berries, and tomatoes. Explore our boutique and garden shop, and feel right at home with our friendly staff—there’s something new every time you visit!</strong></p>"
+          }
+        }
+      },
+      "block_order": [
+        "richtext_PzidBb",
+        "richtext_rqWMYz"
+      ],
+      "name": "Summer Highlight",
+      "settings": {
+        "color_scheme": "scheme-4",
+        "image_size": "sm",
+        "image": "shopify://shop_images/header_summer_with_black_opacity.png",
+        "content_width": "sm",
+        "enable_parallax": true,
+        "remove_vertical_spacing": true
+      }
+    },
+    "image_with_text_block_hpEmVQ": {
+      "type": "image-with-text-block",
+      "blocks": {
+        "richtext_67P3Jh": {
+          "type": "richtext",
+          "settings": {
+            "content": "<h3>Fall</h3>"
+          }
+        },
+        "richtext_qJqnQV": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p><strong>Falling leaves, towering cornstalks, golden straw bales & a pumpkin buffet set the stage for The Great Pumpkin Patch & Fall Fun Zone Experience at The Summit All Seasons Market in Kirkwood Farmers Market.</strong></p>"
+          }
+        },
+        "link_nNg7x9": {
+          "type": "link",
+          "settings": {
+            "text": "See Events",
+            "url": "shopify://pages/fall-season"
+          }
+        }
+      },
+      "block_order": [
+        "richtext_67P3Jh",
+        "richtext_qJqnQV",
+        "link_nNg7x9"
+      ],
+      "name": "Fall Highlight",
+      "settings": {
+        "color_scheme": "scheme-4",
+        "image_size": "sm",
+        "image": "shopify://shop_images/TheSummit-History.png",
+        "mobile_image": "shopify://shop_images/TheSummit-History.png",
+        "content_width": "sm",
+        "enable_parallax": true,
+        "remove_vertical_spacing": true
+      }
+    },
+    "image_with_text_block_MbHTCx": {
+      "type": "image-with-text-block",
+      "blocks": {
+        "richtext_UPtd6W": {
+          "type": "richtext",
+          "settings": {
+            "content": "<h3>Christmas</h3>"
+          }
+        },
+        "richtext_nN68p6": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p><strong>Christmas at The Summit is pure holiday magic. With the scent of fresh evergreens in the air and a feeling of old-fashioned cheer, the market transforms into a festive wonderland. Explore a bountiful selection of trees, garlands, décor, handmade bows, stocking stuffers, sweet treats, and thousands of ornaments that make the season unforgettable.</strong></p>"
+          }
+        },
+        "link_6JrmQG": {
+          "type": "link",
+          "settings": {
+            "text": "See Events",
+            "url": "shopify://pages/fall-season"
+          }
+        }
+      },
+      "block_order": [
+        "richtext_UPtd6W",
+        "richtext_nN68p6",
+        "link_6JrmQG"
+      ],
+      "name": "Christmas Highlight",
+      "settings": {
+        "color_scheme": "scheme-4",
+        "image_size": "sm",
+        "image": "shopify://shop_images/TheSummit-History.png",
+        "mobile_image": "shopify://shop_images/TheSummit-History.png",
+        "content_width": "sm",
+        "enable_parallax": true,
+        "remove_vertical_spacing": true
+      }
+    },
     "rich_text_bWNXHA": {
       "type": "rich-text",
       "blocks": {
@@ -877,6 +1023,10 @@
     "media_grid_34CEgj",
     "rich_text_DbT6QH",
     "slideshow_FahUhK",
+    "image_with_text_block_R6Rkmx",
+    "image_with_text_block_KTemAB",
+    "image_with_text_block_hpEmVQ",
+    "image_with_text_block_MbHTCx",
     "rich_text_bWNXHA",
     "rich_text_AKcGBb",
     "image-with-text-scroll",
