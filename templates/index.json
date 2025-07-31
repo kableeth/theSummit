@@ -267,22 +267,15 @@
     "rich_text_DbT6QH": {
       "type": "rich-text",
       "blocks": {
-        "subheading_nQtKQh": {
-          "type": "subheading",
-          "settings": {
-            "text": ""
-          }
-        },
         "heading_GCDmFj": {
           "type": "heading",
           "settings": {
             "text": "<strong>🌱 Open All Seasons, Always Fresh 🌻</strong>",
-            "heading_tag": "h1"
+            "heading_tag": "h6"
           }
         }
       },
       "block_order": [
-        "subheading_nQtKQh",
         "heading_GCDmFj"
       ],
       "name": "t:sections.rich_text.presets.rich_text.name",
@@ -829,7 +822,7 @@
         "image_JkPLje": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/image_66637b84-07d7-42c0-ae97-f40e16ed506a.jpg"
+            "image": "shopify://shop_images/cheese.png"
           }
         },
         "image_ByanVj": {
