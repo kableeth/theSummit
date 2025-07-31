@@ -128,6 +128,7 @@
         "image_BfdNYU",
         "image_G74QjW"
       ],
+      "disabled": true,
       "name": "t:sections.multiple_media_with_text.presets.multiple_media_with_text.name",
       "settings": {
         "color_scheme": "",
