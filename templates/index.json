@@ -514,6 +514,8 @@
         "content_width": "md",
         "enable_parallax": true,
         "remove_vertical_spacing": true,
+        "overlay_color": "#000000",
+        "overlay_opacity": 0,
         "show_on_desktop": false,
         "show_on_mobile": true
       }
@@ -555,6 +557,8 @@
         "content_width": "md",
         "enable_parallax": true,
         "remove_vertical_spacing": true,
+        "overlay_color": "#000000",
+        "overlay_opacity": 0,
         "show_on_desktop": false,
         "show_on_mobile": true
       }
@@ -596,6 +600,8 @@
         "content_width": "md",
         "enable_parallax": true,
         "remove_vertical_spacing": true,
+        "overlay_color": "#000000",
+        "overlay_opacity": 40,
         "show_on_desktop": false,
         "show_on_mobile": true
       }
@@ -637,6 +643,8 @@
         "content_width": "sm",
         "enable_parallax": true,
         "remove_vertical_spacing": true,
+        "overlay_color": "#000000",
+        "overlay_opacity": 26,
         "show_on_desktop": false,
         "show_on_mobile": true
       }
