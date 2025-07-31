@@ -292,7 +292,7 @@
         "content_width": "sm",
         "text_position": "center",
         "remove_vertical_spacing": false,
-        "show_on_desktop": true,
+        "show_on_desktop": false,
         "show_on_mobile": true
       }
     },
@@ -481,7 +481,7 @@
         "content_width": "sm",
         "text_position": "center",
         "remove_vertical_spacing": false,
-        "show_on_desktop": true,
+        "show_on_desktop": false,
         "show_on_mobile": true
       }
     },
