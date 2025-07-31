@@ -783,7 +783,13 @@
         "image_ByanVj": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/20240625-113521.jpg"
+            "image": "shopify://shop_images/istockphoto-153577261-612x612.png"
+          }
+        },
+        "image_LFihcz": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Bacon.jpg_copy.png"
           }
         },
         "text_iJ4cGF": {
@@ -795,25 +801,26 @@
         "image_UwU3Ab": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/D3E5976F-9371-4E0F-A2C7-EB54FBD8F326.png"
+            "image": "shopify://shop_images/bread.png"
           }
         },
         "image_XxntjQ": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/2AD8D87A-B81F-4EC1-935C-6031EC308CDD.png"
+            "image": "shopify://shop_images/eggs_in_a_basket.png"
           }
         },
         "image_FLXLht": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/image_aeae083b-f21d-4468-b3f0-f2d6da1c03f2.jpg"
+            "image": "shopify://shop_images/SummerSausage_67127153-f764-4d1e-97f5-83095ec14cba_1.webp"
           }
         }
       },
       "block_order": [
         "image_JkPLje",
         "image_ByanVj",
+        "image_LFihcz",
         "text_iJ4cGF",
         "image_UwU3Ab",
         "image_XxntjQ",
@@ -827,7 +834,7 @@
         "text_font": "heading",
         "text_font_size_mobile": 40,
         "text_font_size_desktop": 96,
-        "section_vertical_spacing_mobile": 60,
+        "section_vertical_spacing_mobile": 40,
         "section_vertical_spacing_desktop": 80,
         "item_horizontal_spacing_mobile": 80,
         "item_horizontal_spacing_desktop": 120,
