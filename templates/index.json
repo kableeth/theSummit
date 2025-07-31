@@ -537,7 +537,7 @@
         "richtext_rqWMYz": {
           "type": "richtext",
           "settings": {
-            "content": "<p><strong>Discover the best of Midwest summer at The Summit in downtown Kirkwood! Enjoy fresh local produce, baked goods, and seasonal favorites like peaches, sweet corn, berries, and tomatoes. Explore our boutique and garden shop, and feel right at home with our friendly staff—there’s something new every time you visit!</strong></p>"
+            "content": "<p>Shop <strong>fresh produce</strong>, <strong>baked goods</strong>, and seasonal favorites. Explore the <strong>boutique</strong> and <strong>garden shop</strong>—there’s always something new and welcoming.</p>"
           }
         }
       },
@@ -570,7 +570,7 @@
         "richtext_qJqnQV": {
           "type": "richtext",
           "settings": {
-            "content": "<p><strong>Falling leaves, towering cornstalks, golden straw bales & a pumpkin buffet set the stage for The Great Pumpkin Patch & Fall Fun Zone Experience at The Summit All Seasons Market in Kirkwood Farmers Market.</strong></p>"
+            "content": "<p>Falling leaves, towering cornstalks, golden straw bales & a pumpkin buffet set the stage for <strong>The Great Pumpkin Patch</strong> & <strong>Fall Fun Zone Experience</strong> at The Summit All Seasons Market in Kirkwood Farmers Market.</p>"
           }
         },
         "link_nNg7x9": {
@@ -611,7 +611,7 @@
         "richtext_nN68p6": {
           "type": "richtext",
           "settings": {
-            "content": "<p><strong>Christmas at The Summit is pure holiday magic.</strong> Breathe in the scent of fresh evergreens and soak up the festive cheer as the market transforms into a winter wonderland. Shop trees, garlands, décor, handmade bows, stocking stuffers, treats, and thousands of ornaments that make the season shine.</p>"
+            "content": "<p><strong>Christmas at The Summit is holiday magic.</strong> Enjoy the scent of evergreens and festive cheer as you shop trees, garlands, décor, bows, treats, and thousands of ornaments.</p>"
           }
         },
         "link_6JrmQG": {
