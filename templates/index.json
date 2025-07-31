@@ -916,13 +916,13 @@
         "image_FEbMJB": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/image_e67e3f55-2c63-4f23-84fa-c7e2e1cfd07c.png"
+            "image": "shopify://shop_images/Stonie_s_Logo.png"
           }
         },
-        "image_DwREhx": {
+        "image_ii7C4w": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/20240625-113521.jpg"
+            "image": "shopify://shop_images/Earth_Candy.avif"
           }
         },
         "text_ekc4jt": {
@@ -931,31 +931,52 @@
             "text": "Local Brands"
           }
         },
-        "image_qGQkTH": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/D3E5976F-9371-4E0F-A2C7-EB54FBD8F326.png"
-          }
-        },
         "image_HNPyDW": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/2AD8D87A-B81F-4EC1-935C-6031EC308CDD.png"
+            "image": "shopify://shop_images/Hemeebrothers_logo.png"
+          }
+        },
+        "image_DwREhx": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Blue_Hive_Honey_Logo.avif"
+          }
+        },
+        "image_qGQkTH": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/FarrarOutFarm_Logo_2.png"
+          }
+        },
+        "image_kREAtr": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Sant_Louis_Fazios_Bakery_Logo.webp"
+          }
+        },
+        "image_ErchNk": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/ButtonwoodFarmLogo_24-02.png"
           }
         },
         "image_e3MhRq": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/image_aeae083b-f21d-4468-b3f0-f2d6da1c03f2.jpg"
+            "image": "shopify://shop_images/Two_Men_And_A_Garden_Logo-Medium.png"
           }
         }
       },
       "block_order": [
         "image_FEbMJB",
-        "image_DwREhx",
+        "image_ii7C4w",
         "text_ekc4jt",
-        "image_qGQkTH",
         "image_HNPyDW",
+        "image_DwREhx",
+        "image_qGQkTH",
+        "image_kREAtr",
+        "image_ErchNk",
         "image_e3MhRq"
       ],
       "settings": {
