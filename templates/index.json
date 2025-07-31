@@ -786,6 +786,12 @@
             "image": "shopify://shop_images/istockphoto-153577261-612x612.png"
           }
         },
+        "image_b4AgEr": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/pickles.png"
+          }
+        },
         "image_LFihcz": {
           "type": "image",
           "settings": {
@@ -804,6 +810,12 @@
             "image": "shopify://shop_images/bread.png"
           }
         },
+        "image_z4Xze3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Sexy_Chicken.png"
+          }
+        },
         "image_XxntjQ": {
           "type": "image",
           "settings": {
@@ -820,9 +832,11 @@
       "block_order": [
         "image_JkPLje",
         "image_ByanVj",
+        "image_b4AgEr",
         "image_LFihcz",
         "text_iJ4cGF",
         "image_UwU3Ab",
+        "image_z4Xze3",
         "image_XxntjQ",
         "image_FLXLht"
       ],
