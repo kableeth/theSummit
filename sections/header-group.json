@@ -59,8 +59,8 @@
         "hide_on_scroll": false,
         "show_separation_border": true,
         "reduce_padding": true,
-        "logo": "shopify://shop_images/Logo_BlueTheSummit_4eaa14bf-03dd-40e2-a49c-f86f69502ed5.png",
-        "logo_max_width": 125,
+        "logo": "shopify://shop_images/Stamp_AllSeasonsTheSummit_76bcc9c4-aa90-48bf-87cf-2f8c02d33c63.png",
+        "logo_max_width": 75,
         "logo_mobile_max_width": 75,
         "menu": "new-summer-main-menu",
         "sidebar_menu": "new-summer-main-menu",
@@ -80,7 +80,7 @@
         "show_country_flag": false,
         "show_locale_selector": false,
         "transparent_header_text_color": "#ffffff",
-        "transparent_logo": "shopify://shop_images/Logo_WhiteTheSummit.png"
+        "transparent_logo": "shopify://shop_images/Stamp_AllSeasonsTheSummit_76bcc9c4-aa90-48bf-87cf-2f8c02d33c63.png"
       }
     }
   },
