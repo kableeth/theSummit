@@ -1000,76 +1000,6 @@
         "text_color": ""
       }
     },
-    "logo_list_Vb94PP": {
-      "type": "logo-list",
-      "blocks": {
-        "logo_URhAUj": {
-          "type": "logo",
-          "settings": {
-            "logo": "shopify://shop_images/badge-sticker_1445x_2df26a5d-924d-426a-8802-aff57af700ed.webp",
-            "logo_width": 120,
-            "link": ""
-          }
-        },
-        "logo_B8JNJ9": {
-          "type": "logo",
-          "settings": {
-            "logo": "shopify://shop_images/BelGioioso_newlogo.jpg",
-            "logo_width": 120,
-            "link": ""
-          }
-        },
-        "logo_PRrqxq": {
-          "type": "logo",
-          "settings": {
-            "logo": "shopify://shop_images/Arway_Confections_Logo.png",
-            "logo_width": 120,
-            "link": ""
-          }
-        },
-        "logo_wDqwHJ": {
-          "type": "logo",
-          "settings": {
-            "logo": "shopify://shop_images/1698864189Buttonwood_Logo.png",
-            "logo_width": 120,
-            "link": ""
-          }
-        },
-        "logo_dH98G9": {
-          "type": "logo",
-          "settings": {
-            "logo_width": 120,
-            "link": ""
-          }
-        },
-        "logo_gidGLQ": {
-          "type": "logo",
-          "settings": {
-            "logo_width": 120,
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "logo_URhAUj",
-        "logo_B8JNJ9",
-        "logo_PRrqxq",
-        "logo_wDqwHJ",
-        "logo_dH98G9",
-        "logo_gidGLQ"
-      ],
-      "disabled": true,
-      "settings": {
-        "color_scheme": "",
-        "separate_section_with_border": true,
-        "subheading": "",
-        "title": "Logo list",
-        "stack_on_mobile": true,
-        "items_per_row": 5,
-        "logo_item_background": "",
-        "logo_item_border": ""
-      }
-    },
     "newsletter": {
       "type": "newsletter",
       "settings": {
@@ -1079,7 +1009,7 @@
         "image": "shopify://shop_images/header_summer_with_black_opacity.png",
         "subheading": "Keep me updated!",
         "title": "<strong>Newsletter</strong>",
-        "content": "<h4>Subscribe to receive updates, access to exclusive deals, and events!</h4>",
+        "content": "<h6>Subscribe to receive updates, access to exclusive deals, and events!</h6>",
         "button_text": "Subscribe",
         "overlay_color": "#000000",
         "overlay_opacity": 0
@@ -1103,7 +1033,6 @@
     "scrolling_content_kjP9qm",
     "slideshow_744GEQ",
     "scrolling_content_iGAeV6",
-    "logo_list_Vb94PP",
     "newsletter"
   ]
 }
