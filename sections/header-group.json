@@ -17,7 +17,7 @@
         "message-1": {
           "type": "message",
           "settings": {
-            "text": "<h6><a href=\"/pages/now-hiring-at-the-summit-all-seasons-market\" title=\"Now Hiring at The Summit All Seasons Market\"><strong>We're Hiring. Join the Crew, click here to learn more!</strong></a></h6>"
+            "text": "<h6><a href=\"/pages/now-hiring-at-the-summit-all-seasons-market\" title=\"Now Hiring at The Summit All Seasons Market\"><strong>We're Hiring. Join the Crew!</strong></a></h6>"
           }
         }
       },
@@ -58,10 +58,10 @@
         "enable_sticky": true,
         "hide_on_scroll": false,
         "show_separation_border": true,
-        "reduce_padding": false,
+        "reduce_padding": true,
         "logo": "shopify://shop_images/Logo_BlueTheSummit_4eaa14bf-03dd-40e2-a49c-f86f69502ed5.png",
-        "logo_max_width": 140,
-        "logo_mobile_max_width": 100,
+        "logo_max_width": 125,
+        "logo_mobile_max_width": 75,
         "menu": "new-summer-main-menu",
         "sidebar_menu": "new-summer-main-menu",
         "menu_open_trigger": "hover",
