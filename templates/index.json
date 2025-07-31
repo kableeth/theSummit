@@ -557,8 +557,8 @@
       "settings": {
         "color_scheme": "scheme-4",
         "image_size": "sm",
-        "image": "shopify://shop_images/TheSummit-History.png",
-        "mobile_image": "shopify://shop_images/TheSummit-History.png",
+        "image": "shopify://shop_images/header-fall.jpg",
+        "mobile_image": "shopify://shop_images/header-fall.jpg",
         "content_width": "sm",
         "enable_parallax": true,
         "remove_vertical_spacing": true
@@ -583,7 +583,7 @@
           "type": "link",
           "settings": {
             "text": "See Events",
-            "url": "shopify://pages/fall-season"
+            "url": "shopify://pages/christmas-season"
           }
         }
       },
@@ -596,8 +596,8 @@
       "settings": {
         "color_scheme": "scheme-4",
         "image_size": "sm",
-        "image": "shopify://shop_images/TheSummit-History.png",
-        "mobile_image": "shopify://shop_images/TheSummit-History.png",
+        "image": "shopify://shop_images/Summit_KirkwoodMarket_Winter_6bae9f83-5930-4d85-b258-57351fb606dd.png",
+        "mobile_image": "shopify://shop_images/Summit_KirkwoodMarket_Winter_6bae9f83-5930-4d85-b258-57351fb606dd.png",
         "content_width": "sm",
         "enable_parallax": true,
         "remove_vertical_spacing": true
