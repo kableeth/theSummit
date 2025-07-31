@@ -106,52 +106,6 @@
         "text_alignment": "center"
       }
     },
-    "multiple_media_with_text_YrgALm": {
-      "type": "multiple-media-with-text",
-      "blocks": {
-        "image_BfdNYU": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/D87B951F-A4CF-42F1-ABDA-E6B858C8E6A4.jpg",
-            "rotation": 0
-          }
-        },
-        "image_G74QjW": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/166C24AC-2972-484C-AAF2-480347EAD668.jpg",
-            "rotation": 0
-          }
-        }
-      },
-      "block_order": [
-        "image_BfdNYU",
-        "image_G74QjW"
-      ],
-      "disabled": true,
-      "name": "t:sections.multiple_media_with_text.presets.multiple_media_with_text.name",
-      "settings": {
-        "color_scheme": "",
-        "reveal_on_scroll": true,
-        "separate_section_with_border": false,
-        "media_position_desktop": "before_text",
-        "media_position_mobile": "before_text",
-        "media_layout": "overlap",
-        "media_alignment": "center",
-        "media_alignment_offset": 0,
-        "media_mobile_alignment_offset": 0,
-        "text_alignment": "center",
-        "subheading": "<strong>Kid's Fun Zone</strong> & <strong>The Great Pumpkin Patch</strong> Opening Soon!",
-        "title": "<strong>Fall Season Kickoff! 🎃🍂</strong>",
-        "content": "<p>Mark your calendar and bring the whole family. From hay bales to pumpkins and play zones to photo ops—fall at The Summit is where memories are made!</p>",
-        "button_1_text": "Starts Oct 1st",
-        "button_1_link": "",
-        "button_1_style": "solid",
-        "button_2_text": "Learn More",
-        "button_2_link": "",
-        "button_2_style": "link"
-      }
-    },
     "countdown_cYNFpL": {
       "type": "countdown",
       "name": "t:sections.countdown_timer.presets.countdown_timer.name",
@@ -328,6 +282,51 @@
         "content": "",
         "show_on_desktop": true,
         "show_on_mobile": false
+      }
+    },
+    "multiple_media_with_text_YrgALm": {
+      "type": "multiple-media-with-text",
+      "blocks": {
+        "image_BfdNYU": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/D87B951F-A4CF-42F1-ABDA-E6B858C8E6A4.jpg",
+            "rotation": 0
+          }
+        },
+        "image_G74QjW": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/166C24AC-2972-484C-AAF2-480347EAD668.jpg",
+            "rotation": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_BfdNYU",
+        "image_G74QjW"
+      ],
+      "name": "t:sections.multiple_media_with_text.presets.multiple_media_with_text.name",
+      "settings": {
+        "color_scheme": "",
+        "reveal_on_scroll": true,
+        "separate_section_with_border": false,
+        "media_position_desktop": "before_text",
+        "media_position_mobile": "before_text",
+        "media_layout": "overlap",
+        "media_alignment": "center",
+        "media_alignment_offset": 0,
+        "media_mobile_alignment_offset": 0,
+        "text_alignment": "center",
+        "subheading": "<strong>Kid's Fun Zone</strong> & <strong>The Great Pumpkin Patch</strong> Opening Soon!",
+        "title": "<strong>Fall Season Kickoff! 🎃🍂</strong>",
+        "content": "<p>Mark your calendar and bring the whole family. From hay bales to pumpkins and play zones to photo ops—fall at The Summit is where memories are made!</p>",
+        "button_1_text": "Starts Oct 1st",
+        "button_1_link": "",
+        "button_1_style": "solid",
+        "button_2_text": "Learn More",
+        "button_2_link": "",
+        "button_2_style": "link"
       }
     },
     "rich_text_DbT6QH": {
@@ -1138,9 +1137,9 @@
   "order": [
     "slideshow",
     "text_with_icons_qa6AkH",
-    "multiple_media_with_text_YrgALm",
     "countdown_cYNFpL",
     "media_grid_34CEgj",
+    "multiple_media_with_text_YrgALm",
     "rich_text_DbT6QH",
     "slideshow_FahUhK",
     "rich_text_bWNXHA",
