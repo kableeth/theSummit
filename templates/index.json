@@ -745,7 +745,9 @@
         "text_alignment": "center",
         "heading_tag": "h2",
         "overlay_color": "#000000",
-        "overlay_opacity": 38
+        "overlay_opacity": 38,
+        "show_on_desktop": true,
+        "show_on_mobile": false
       }
     },
     "before-after": {
