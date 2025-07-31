@@ -559,7 +559,7 @@
         "image_size": "sm",
         "image": "shopify://shop_images/header_summer_with_black_opacity.png",
         "mobile_image": "shopify://shop_images/header_summer_with_black_opacity.png",
-        "content_width": "sm",
+        "content_width": "md",
         "enable_parallax": true,
         "remove_vertical_spacing": true,
         "show_on_desktop": false,
