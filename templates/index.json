@@ -57,6 +57,34 @@
         "show_on_mobile": true
       }
     },
+    "rich_text_8VJYnX": {
+      "type": "rich-text",
+      "blocks": {
+        "button_GJX6Gn": {
+          "type": "button",
+          "settings": {
+            "style": "outline",
+            "text": "BRINGING THE BEST OF EVERY SEASON SINCE 1978",
+            "url": "",
+            "background": "",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "button_GJX6Gn"
+      ],
+      "name": "t:sections.rich_text.presets.rich_text.name",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": false,
+        "content_width": "xs",
+        "text_position": "center",
+        "remove_vertical_spacing": true,
+        "show_on_desktop": true,
+        "show_on_mobile": true
+      }
+    },
     "countdown_cYNFpL": {
       "type": "countdown",
       "name": "t:sections.countdown_timer.presets.countdown_timer.name",
@@ -1042,6 +1070,7 @@
   },
   "order": [
     "slideshow",
+    "rich_text_8VJYnX",
     "countdown_cYNFpL",
     "media_grid_34CEgj",
     "rich_text_DbT6QH",
