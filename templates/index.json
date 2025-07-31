@@ -22,7 +22,7 @@
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
             "content_max_width": 600,
-            "button_1_text": "",
+            "button_1_text": "BRINGING THE BEST OF EVERY SEASON SINCE 1978",
             "button_1_link": "shopify://pages/about-us",
             "button_1_style": "outline",
             "button_1_background": "#ffffff",
@@ -53,34 +53,6 @@
         "cycle_speed": 5,
         "background": "#000000",
         "controls_color": "#ffffff",
-        "show_on_desktop": true,
-        "show_on_mobile": true
-      }
-    },
-    "rich_text_8VJYnX": {
-      "type": "rich-text",
-      "blocks": {
-        "button_GJX6Gn": {
-          "type": "button",
-          "settings": {
-            "style": "outline",
-            "text": "BRINGING THE BEST OF EVERY SEASON SINCE 1978",
-            "url": "",
-            "background": "",
-            "text_color": ""
-          }
-        }
-      },
-      "block_order": [
-        "button_GJX6Gn"
-      ],
-      "name": "t:sections.rich_text.presets.rich_text.name",
-      "settings": {
-        "color_scheme": "",
-        "separate_section_with_border": true,
-        "content_width": "xs",
-        "text_position": "center",
-        "remove_vertical_spacing": false,
         "show_on_desktop": true,
         "show_on_mobile": true
       }
@@ -1070,7 +1042,6 @@
   },
   "order": [
     "slideshow",
-    "rich_text_8VJYnX",
     "countdown_cYNFpL",
     "media_grid_34CEgj",
     "rich_text_DbT6QH",
