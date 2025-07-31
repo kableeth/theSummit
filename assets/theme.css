@@ -7848,7 +7848,7 @@ product-rerender {
 .h6, :where(.prose h6) {
   font-size: var(--text-h6);
   line-height: 1.7;
-  font-family: 'Visby CF';
+  font-family: 'Visby CF', 'VisbyCF Bold', 'VisbyCF Medium', sans-serif !important;
   font-weight: bold;
 }
 
