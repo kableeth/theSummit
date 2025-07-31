@@ -22,7 +22,7 @@
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
             "content_max_width": 600,
-            "button_1_text": "BRINGING THE BEST OF EVERY SEASON SINCE 1978",
+            "button_1_text": "",
             "button_1_link": "shopify://pages/about-us",
             "button_1_style": "outline",
             "button_1_background": "#ffffff",
