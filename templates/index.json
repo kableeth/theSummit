@@ -57,6 +57,30 @@
         "show_on_mobile": true
       }
     },
+    "countdown_cYNFpL": {
+      "type": "countdown",
+      "name": "t:sections.countdown_timer.presets.countdown_timer.name",
+      "settings": {
+        "color_scheme": "scheme-4",
+        "separate_section_with_border": true,
+        "image": "shopify://shop_images/D87B951F-A4CF-42F1-ABDA-E6B858C8E6A4.jpg",
+        "image_size": "auto",
+        "subheading": "Kid's Fun Zone & The Great Pumpkin Patch Opening Soon!",
+        "title": "<strong>Fall Season Kickoff! 🎃🍂</strong>",
+        "content": "<p>Mark your calendar and bring the whole family. From hay bales to pumpkins and play zones to photo ops—fall at The Summit is where memories are made!</p>",
+        "button_link": "",
+        "button_text": "Opens Oct 1st",
+        "expiration_date": "2025-10-01",
+        "expiration_behavior": "leave",
+        "timer_position": "end",
+        "animate_number": true,
+        "flip_background": "",
+        "flip_background_opacity": 50,
+        "flip_text_color": "",
+        "overlay_color": "#000000",
+        "overlay_opacity": 40
+      }
+    },
     "media_grid_34CEgj": {
       "type": "media-grid",
       "blocks": {
@@ -196,7 +220,7 @@
         "image_EGyJm8",
         "image_T3Bwfg"
       ],
-      "name": "t:sections.media_grid.presets.media_grid.name",
+      "name": "Dekstop: Media Grid",
       "settings": {
         "color_scheme": "",
         "separate_section_with_border": true,
@@ -1018,6 +1042,7 @@
   },
   "order": [
     "slideshow",
+    "countdown_cYNFpL",
     "media_grid_34CEgj",
     "rich_text_DbT6QH",
     "slideshow_FahUhK",
