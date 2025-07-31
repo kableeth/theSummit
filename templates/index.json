@@ -71,7 +71,7 @@
           "settings": {
             "image": "shopify://shop_images/header_summer_with_black_opacity.png",
             "subheading": "",
-            "title": "<strong>Welcome to Summer Season at The Summit</strong>",
+            "title": "Welcome to Summer Season at <strong>The Summit</strong>",
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
             "content_max_width": 600,
