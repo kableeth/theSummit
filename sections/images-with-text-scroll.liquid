@@ -72,7 +72,7 @@
       {%- endfor -%}
 
       {%- if section.blocks.size > 1 -%}
-        <carousel-navigation aria-controls="{{ section_carousel_id }}" class="page-dots">
+        <carousel-navigation aria-controls="{{ section_carousel_id }}" class="page-dots sm:hidden">
           {%- for i in (1..section.blocks.size) -%}
             <button class="tap-area" aria-current="{% if forloop.first %}true{% else %}false{% endif %}">
               <span class="sr-only">{{ 'general.accessibility.go_to_item' | t: index: forloop.index }}</span>
