@@ -183,7 +183,7 @@
           "type": "image",
           "settings": {
             "color_scheme": "",
-            "image": "shopify://shop_images/thesummitallseasonsmarket_1726933264_3462089601772330558_4788839409.jpg",
+            "image": "shopify://shop_images/4C415FF0-A8E8-4ECF-979A-A993FF146F6D.jpg",
             "column_count": "6",
             "row_count": 3,
             "title": "",
@@ -201,7 +201,7 @@
           "type": "image",
           "settings": {
             "color_scheme": "",
-            "image": "shopify://shop_images/thesummitallseasonsmarket_1654830262_2857245789314113242_4788839409.jpg",
+            "image": "shopify://shop_images/941311C5-EE6F-4202-9F40-E5D589018FAE.jpg",
             "column_count": "3",
             "row_count": 3,
             "title": "",
@@ -219,7 +219,7 @@
           "type": "image",
           "settings": {
             "color_scheme": "scheme-4",
-            "image": "shopify://shop_images/thesummitallseasonsmarket_1684356521_3104929997025433379_4788839409.jpg",
+            "image": "shopify://shop_images/1737693C-6473-4CAE-A596-03CCA9305B8B.jpg",
             "column_count": "3",
             "row_count": 2,
             "title": "",
@@ -237,7 +237,7 @@
           "type": "image",
           "settings": {
             "color_scheme": "scheme-4",
-            "image": "shopify://shop_images/C40801C0-97B1-403A-B833-50A8CDFA5021.jpg",
+            "image": "shopify://shop_images/166C24AC-2972-484C-AAF2-480347EAD668_5752ee38-1bee-4e95-9c84-28fe4c6a57b9.jpg",
             "column_count": "3",
             "row_count": 2,
             "title": "",
@@ -273,7 +273,7 @@
           "type": "image",
           "settings": {
             "color_scheme": "",
-            "image": "shopify://shop_images/C5FAA2AD-3682-4073-8665-81E477597997.jpg",
+            "image": "shopify://shop_images/B360BDDA-6EBB-4D1B-95E9-BF98DEE95947.jpg",
             "column_count": "6",
             "row_count": 2,
             "title": "",
@@ -282,7 +282,7 @@
             "link_text": "",
             "link_url": "",
             "link_style": "link",
-            "text_position": "place-self-center text-center",
+            "text_position": "place-self-start-center text-center",
             "overlay_color": "#000000",
             "overlay_opacity": 0
           }
@@ -291,7 +291,7 @@
           "type": "image",
           "settings": {
             "color_scheme": "",
-            "image": "shopify://shop_images/header-spring_2.png",
+            "image": "shopify://shop_images/ee8d41_3f65d315c99848dcb99609d233d6ad28_mv2.png",
             "column_count": "3",
             "row_count": 1,
             "title": "",
