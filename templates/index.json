@@ -96,6 +96,7 @@
         "item_yJaQ3Q",
         "item_84GbCt"
       ],
+      "disabled": true,
       "name": "t:sections.text_with_icons.presets.text_with_icons.name",
       "settings": {
         "color_scheme": "scheme-1",
@@ -154,6 +155,7 @@
     },
     "countdown_cYNFpL": {
       "type": "countdown",
+      "disabled": true,
       "name": "t:sections.countdown_timer.presets.countdown_timer.name",
       "settings": {
         "color_scheme": "scheme-4",
