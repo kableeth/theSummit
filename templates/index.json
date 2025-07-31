@@ -952,13 +952,13 @@
         "image_kREAtr": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Sant_Louis_Fazios_Bakery_Logo.webp"
+            "image": "shopify://shop_images/fazios_with_date-455w.webp"
           }
         },
         "image_ErchNk": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/ButtonwoodFarmLogo_24-02.png"
+            "image": "shopify://shop_images/ButtonwoodFarmLogo_24-02_1798a8d6-b5ec-45d0-a0da-4ed3eeff20f3.png"
           }
         },
         "image_e3MhRq": {
@@ -966,6 +966,10 @@
           "settings": {
             "image": "shopify://shop_images/Two_Men_And_A_Garden_Logo-Medium.png"
           }
+        },
+        "image_LazUzE": {
+          "type": "image",
+          "settings": {}
         }
       },
       "block_order": [
@@ -977,7 +981,8 @@
         "image_qGQkTH",
         "image_kREAtr",
         "image_ErchNk",
-        "image_e3MhRq"
+        "image_e3MhRq",
+        "image_LazUzE"
       ],
       "settings": {
         "separate_section_with_border": true,
