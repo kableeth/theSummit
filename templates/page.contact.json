@@ -102,7 +102,7 @@
         "separate_section_with_border": true,
         "content_width": "sm",
         "text_position": "center",
-        "remove_vertical_spacing": false,
+        "remove_vertical_spacing": true,
         "show_on_desktop": false,
         "show_on_mobile": true
       }
