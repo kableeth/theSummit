@@ -16,8 +16,8 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/header-spring_2.png",
-            "subheading": "",
-            "title": "<strong>Welcome to Spring Season at The Summit</strong>",
+            "subheading": "WITH THE SUMMIT",
+            "title": "<strong>Celebrate Spring</strong>",
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
             "content_max_width": 600,
@@ -95,6 +95,7 @@
         "item_yJaQ3Q",
         "item_84GbCt"
       ],
+      "disabled": true,
       "name": "t:sections.text_with_icons.presets.text_with_icons.name",
       "settings": {
         "color_scheme": "scheme-1",
@@ -149,6 +150,51 @@
         "button_2_text": "Learn More",
         "button_2_link": "",
         "button_2_style": "link"
+      }
+    },
+    "multiple_media_with_text_Nfdye3": {
+      "type": "multiple-media-with-text",
+      "blocks": {
+        "image_LhRFAW": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/DJI_0656_1.jpg",
+            "rotation": 0
+          }
+        },
+        "image_MXbpT4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Enorm-Gallery75712-SPRING-GENERAL-IMAGE-7-1642797158-61eb1866a07fe.webp",
+            "rotation": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_LhRFAW",
+        "image_MXbpT4"
+      ],
+      "name": "t:sections.multiple_media_with_text.presets.multiple_media_with_text.name",
+      "settings": {
+        "color_scheme": "",
+        "reveal_on_scroll": true,
+        "separate_section_with_border": true,
+        "media_position_desktop": "after_text",
+        "media_position_mobile": "before_text",
+        "media_layout": "overlap",
+        "media_alignment": "center",
+        "media_alignment_offset": 0,
+        "media_mobile_alignment_offset": 0,
+        "text_alignment": "center",
+        "subheading": "<strong>Spring brings more than just May flowers!</strong>",
+        "title": "<strong>At The Summit</strong>",
+        "content": "<p></p><p>You’ll find a vibrant selection of blooming annuals in flats and pots (3”–8”), plus mixed planters in all sizes. Our <strong>premium perennials</strong> are locally grown and include both classic and new varieties, along with a strong lineup of <strong>Missouri and US native plants</strong> for low-maintenance gardens.</p><p>We offer <strong>hanging baskets</strong> (10–14”) for sun or shade, including colorful blooms and lush ferns. The <strong>herb collection</strong> is extensive, with culinary and specialty varieties in 3”, 4”, and gallon pots.</p><p><strong>Tropicals</strong> abound—Mandevilla, Hibiscus, Banana Trees, Cannas, and more—perfect for decking out your patio. As the season cools, we transition to <strong>fall favorites</strong> like hardy mums, aster, pansies, and flowering kale.</p><p>Our friendly, knowledgeable staff is always ready with gardening advice. We also carry pottery (lightweight and ceramic), basket liners, and top-quality soils like local favorite <span style=\"text-decoration:underline\"><em>Mark’s Magic Soil</em></span>.</p>",
+        "button_1_text": "",
+        "button_1_link": "",
+        "button_1_style": "solid",
+        "button_2_text": "",
+        "button_2_link": "",
+        "button_2_style": "solid"
       }
     },
     "media_grid_34CEgj": {
@@ -464,51 +510,6 @@
         "controls_color": "#ffffff",
         "show_on_desktop": false,
         "show_on_mobile": true
-      }
-    },
-    "multiple_media_with_text_Nfdye3": {
-      "type": "multiple-media-with-text",
-      "blocks": {
-        "image_LhRFAW": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/DJI_0656_1.jpg",
-            "rotation": 0
-          }
-        },
-        "image_MXbpT4": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Enorm-Gallery75712-SPRING-GENERAL-IMAGE-7-1642797158-61eb1866a07fe.webp",
-            "rotation": 0
-          }
-        }
-      },
-      "block_order": [
-        "image_LhRFAW",
-        "image_MXbpT4"
-      ],
-      "name": "t:sections.multiple_media_with_text.presets.multiple_media_with_text.name",
-      "settings": {
-        "color_scheme": "",
-        "reveal_on_scroll": true,
-        "separate_section_with_border": true,
-        "media_position_desktop": "after_text",
-        "media_position_mobile": "before_text",
-        "media_layout": "overlap",
-        "media_alignment": "center",
-        "media_alignment_offset": 0,
-        "media_mobile_alignment_offset": 0,
-        "text_alignment": "center",
-        "subheading": "WITH THE SUMMIT",
-        "title": "<strong>Celebrate Spring</strong>",
-        "content": "<p><strong>Spring brings more than just May flowers!</strong></p><p>At Summit, you’ll find a vibrant selection of blooming annuals in flats and pots (3”–8”), plus mixed planters in all sizes. Our <strong>premium perennials</strong> are locally grown and include both classic and new varieties, along with a strong lineup of <strong>Missouri and US native plants</strong> for low-maintenance gardens.</p><p>We offer <strong>hanging baskets</strong> (10–14”) for sun or shade, including colorful blooms and lush ferns. The <strong>herb collection</strong> is extensive, with culinary and specialty varieties in 3”, 4”, and gallon pots.</p><p><strong>Tropicals</strong> abound—Mandevilla, Hibiscus, Banana Trees, Cannas, and more—perfect for decking out your patio. As the season cools, we transition to <strong>fall favorites</strong> like hardy mums, aster, pansies, and flowering kale.</p><p>Our friendly, knowledgeable staff is always ready with gardening advice. We also carry pottery (lightweight and ceramic), basket liners, and top-quality soils like local favorite <span style=\"text-decoration:underline\"><em>Mark’s Magic Soil</em></span>.</p>",
-        "button_1_text": "",
-        "button_1_link": "",
-        "button_1_style": "solid",
-        "button_2_text": "",
-        "button_2_link": "",
-        "button_2_style": "solid"
       }
     },
     "rich_text_DbT6QH": {
@@ -1171,9 +1172,9 @@
     "slideshow",
     "text_with_icons_qa6AkH",
     "multiple_media_with_text_YrgALm",
+    "multiple_media_with_text_Nfdye3",
     "media_grid_34CEgj",
     "slideshow_FahUhK",
-    "multiple_media_with_text_Nfdye3",
     "rich_text_DbT6QH",
     "image_with_text_block_R6Rkmx",
     "rich_text_bWNXHA",
