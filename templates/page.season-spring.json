@@ -305,292 +305,14 @@
         "show_on_mobile": false
       }
     },
-    "multi_column_haJyqR": {
-      "type": "multi-column",
-      "blocks": {
-        "image_with_text_BwmaJX": {
-          "type": "image_with_text",
-          "settings": {
-            "title": "Column title",
-            "heading_tag": "h3",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "link_url": "",
-            "link_text": ""
-          }
-        },
-        "image_with_text_gHRaxL": {
-          "type": "image_with_text",
-          "settings": {
-            "title": "Column title",
-            "heading_tag": "h3",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "link_url": "",
-            "link_text": ""
-          }
-        },
-        "image_with_text_9wTWNQ": {
-          "type": "image_with_text",
-          "settings": {
-            "title": "Column title",
-            "heading_tag": "h3",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "link_url": "",
-            "link_text": ""
-          }
-        }
-      },
-      "block_order": [
-        "image_with_text_BwmaJX",
-        "image_with_text_gHRaxL",
-        "image_with_text_9wTWNQ"
-      ],
-      "name": "t:sections.multi_column.presets.multi_column.name",
-      "settings": {
-        "color_scheme": "",
-        "separate_section_with_border": true,
-        "columns_per_row": 3,
-        "stack_on_mobile": false,
-        "overlap_image": false,
-        "content_alignment": "start",
-        "text_alignment": "start",
-        "spacing": "md",
-        "subheading": "About",
-        "title": "Multi-column",
-        "content": ""
-      }
-    },
-    "media_grid_pzdfQF": {
-      "type": "media-grid",
-      "blocks": {
-        "image_cqYWmn": {
-          "type": "image",
-          "settings": {
-            "color_scheme": "",
-            "image": "shopify://shop_images/A796F8A9-AB26-406F-8D0C-075E2D81F895.jpg",
-            "column_count": "3",
-            "row_count": 1,
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_text": "",
-            "link_url": "",
-            "link_style": "link",
-            "text_position": "place-self-center text-center",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "image_gex8Mf": {
-          "type": "image",
-          "settings": {
-            "color_scheme": "",
-            "image": "shopify://shop_images/AE1BC874-9723-442A-A8BF-5933DA3AFD11.jpg",
-            "column_count": "3",
-            "row_count": 3,
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_text": "",
-            "link_url": "",
-            "link_style": "link",
-            "text_position": "place-self-center text-center",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "image_Jrjz6H": {
-          "type": "image",
-          "settings": {
-            "color_scheme": "scheme-4",
-            "image": "shopify://shop_images/F9094695-776F-498F-A0E2-0619457B3E2C.jpg",
-            "column_count": "3",
-            "row_count": 2,
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_text": "",
-            "link_url": "",
-            "link_style": "link",
-            "text_position": "place-self-center text-center",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "image_dbLipX": {
-          "type": "image",
-          "settings": {
-            "color_scheme": "scheme-4",
-            "image": "shopify://shop_images/C8028405-9386-441F-B0B9-65D994784542_e534460e-5d3e-4588-b106-9f0d8207f0c3.jpg",
-            "column_count": "3",
-            "row_count": 2,
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_text": "",
-            "link_url": "",
-            "link_style": "link",
-            "text_position": "place-self-center text-center",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "image_gLEbXG": {
-          "type": "image",
-          "settings": {
-            "color_scheme": "",
-            "image": "shopify://shop_images/C9A33DBD-AA47-4B82-A1C2-78478E9774D3.jpg",
-            "column_count": "3",
-            "row_count": 2,
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_text": "",
-            "link_url": "",
-            "link_style": "link",
-            "text_position": "place-self-center text-center",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "image_DzaLXP": {
-          "type": "image",
-          "settings": {
-            "color_scheme": "",
-            "image": "shopify://shop_images/3011831B-5DA3-4D9A-AE6E-AA4DEB81E18E.jpg",
-            "column_count": "6",
-            "row_count": 2,
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_text": "",
-            "link_url": "",
-            "link_style": "link",
-            "text_position": "place-self-center text-center",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "image_nB4mpD": {
-          "type": "image",
-          "settings": {
-            "color_scheme": "",
-            "image": "shopify://shop_images/D46F5359-A9E1-4530-A625-1D27819857CB.jpg",
-            "column_count": "3",
-            "row_count": 1,
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_text": "",
-            "link_url": "",
-            "link_style": "link",
-            "text_position": "place-self-center text-center",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        }
-      },
-      "block_order": [
-        "image_cqYWmn",
-        "image_gex8Mf",
-        "image_Jrjz6H",
-        "image_dbLipX",
-        "image_gLEbXG",
-        "image_DzaLXP",
-        "image_nB4mpD"
-      ],
-      "name": "Dekstop: Media Grid",
-      "settings": {
-        "color_scheme": "",
-        "separate_section_with_border": false,
-        "desktop_row_height": 140,
-        "mobile_row_height": 150,
-        "section_width": "sm",
-        "spacing": "xs",
-        "subheading": "",
-        "title": "",
-        "content": "",
-        "show_on_desktop": true,
-        "show_on_mobile": true
-      }
-    },
-    "multiple_media_with_text_Nfdye3": {
-      "type": "multiple-media-with-text",
-      "blocks": {
-        "image_LhRFAW": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/DJI_0656_1.jpg",
-            "rotation": 0
-          }
-        },
-        "image_MXbpT4": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Enorm-Gallery75712-SPRING-GENERAL-IMAGE-7-1642797158-61eb1866a07fe.webp",
-            "rotation": 0
-          }
-        }
-      },
-      "block_order": [
-        "image_LhRFAW",
-        "image_MXbpT4"
-      ],
-      "name": "t:sections.multiple_media_with_text.presets.multiple_media_with_text.name",
-      "settings": {
-        "color_scheme": "",
-        "reveal_on_scroll": true,
-        "separate_section_with_border": true,
-        "media_position_desktop": "after_text",
-        "media_position_mobile": "before_text",
-        "media_layout": "overlap",
-        "media_alignment": "center",
-        "media_alignment_offset": 0,
-        "media_mobile_alignment_offset": 0,
-        "text_alignment": "center",
-        "subheading": "WITH THE SUMMIT",
-        "title": "<strong>Celebrate Spring</strong>",
-        "content": "<p><strong>Spring brings more than just May flowers!</strong></p><p>At Summit, you’ll find a vibrant selection of blooming annuals in flats and pots (3”–8”), plus mixed planters in all sizes. Our <strong>premium perennials</strong> are locally grown and include both classic and new varieties, along with a strong lineup of <strong>Missouri and US native plants</strong> for low-maintenance gardens.</p><p>We offer <strong>hanging baskets</strong> (10–14”) for sun or shade, including colorful blooms and lush ferns. The <strong>herb collection</strong> is extensive, with culinary and specialty varieties in 3”, 4”, and gallon pots.</p><p><strong>Tropicals</strong> abound—Mandevilla, Hibiscus, Banana Trees, Cannas, and more—perfect for decking out your patio. As the season cools, we transition to <strong>fall favorites</strong> like hardy mums, aster, pansies, and flowering kale.</p><p>Our friendly, knowledgeable staff is always ready with gardening advice. We also carry pottery (lightweight and ceramic), basket liners, and top-quality soils like local favorite <span style=\"text-decoration:underline\"><em>Mark’s Magic Soil</em></span>.</p>",
-        "button_1_text": "",
-        "button_1_link": "",
-        "button_1_style": "solid",
-        "button_2_text": "",
-        "button_2_link": "",
-        "button_2_style": "solid"
-      }
-    },
-    "rich_text_DbT6QH": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_GCDmFj": {
-          "type": "heading",
-          "settings": {
-            "text": "<strong>🌱 Open All Seasons, Always Fresh 🌻</strong>",
-            "heading_tag": "h4"
-          }
-        }
-      },
-      "block_order": [
-        "heading_GCDmFj"
-      ],
-      "name": "t:sections.rich_text.presets.rich_text.name",
-      "settings": {
-        "color_scheme": "",
-        "separate_section_with_border": false,
-        "content_width": "sm",
-        "text_position": "center",
-        "remove_vertical_spacing": false,
-        "show_on_desktop": false,
-        "show_on_mobile": true
-      }
-    },
     "slideshow_FahUhK": {
       "type": "slideshow",
       "blocks": {
         "image_GEPzHc": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/thesummitallseasonsmarket_1726933264_3462089601772330558_4788839409.jpg",
-            "mobile_image": "shopify://shop_images/thesummitallseasonsmarket_1726933264_3462089601772330558_4788839409.jpg",
+            "image": "shopify://shop_images/A796F8A9-AB26-406F-8D0C-075E2D81F895.jpg",
+            "mobile_image": "shopify://shop_images/A796F8A9-AB26-406F-8D0C-075E2D81F895.jpg",
             "subheading": "",
             "title": "",
             "mobile_text_position": "place-self-start-center text-center",
@@ -670,8 +392,8 @@
         "image_iHfLwW": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/FA796BDD-7835-449E-B1CB-06A9FAF7A161.jpg",
-            "mobile_image": "shopify://shop_images/FA796BDD-7835-449E-B1CB-06A9FAF7A161.jpg",
+            "image": "shopify://shop_images/C8028405-9386-441F-B0B9-65D994784542_e534460e-5d3e-4588-b106-9f0d8207f0c3.jpg",
+            "mobile_image": "shopify://shop_images/C8028405-9386-441F-B0B9-65D994784542_e534460e-5d3e-4588-b106-9f0d8207f0c3.jpg",
             "subheading": "",
             "title": "",
             "mobile_text_position": "place-self-center text-center",
@@ -697,8 +419,8 @@
         "image_fxEjdN": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/C2A2AC40-2897-4129-8167-1A0673A93949.jpg",
-            "mobile_image": "shopify://shop_images/C2A2AC40-2897-4129-8167-1A0673A93949.jpg",
+            "image": "shopify://shop_images/D46F5359-A9E1-4530-A625-1D27819857CB.jpg",
+            "mobile_image": "shopify://shop_images/D46F5359-A9E1-4530-A625-1D27819857CB.jpg",
             "subheading": "",
             "title": "",
             "mobile_text_position": "place-self-center-end text-end",
@@ -729,7 +451,7 @@
         "image_iHfLwW",
         "image_fxEjdN"
       ],
-      "name": "t:sections.slideshow.presets.slideshow.name",
+      "name": "Mobile: Slideshow",
       "settings": {
         "allow_transparent_header": false,
         "show_next_section_button": true,
@@ -744,27 +466,69 @@
         "show_on_mobile": true
       }
     },
-    "rich_text_bWNXHA": {
-      "type": "rich-text",
+    "multiple_media_with_text_Nfdye3": {
+      "type": "multiple-media-with-text",
       "blocks": {
-        "button_68UmRd": {
-          "type": "button",
+        "image_LhRFAW": {
+          "type": "image",
           "settings": {
-            "style": "outline",
-            "text": "Every Season Tells a Story",
-            "url": "",
-            "background": "",
-            "text_color": ""
+            "image": "shopify://shop_images/DJI_0656_1.jpg",
+            "rotation": 0
+          }
+        },
+        "image_MXbpT4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Enorm-Gallery75712-SPRING-GENERAL-IMAGE-7-1642797158-61eb1866a07fe.webp",
+            "rotation": 0
           }
         }
       },
       "block_order": [
-        "button_68UmRd"
+        "image_LhRFAW",
+        "image_MXbpT4"
       ],
-      "name": "Mobile: Rich Text Header",
+      "name": "t:sections.multiple_media_with_text.presets.multiple_media_with_text.name",
       "settings": {
         "color_scheme": "",
+        "reveal_on_scroll": true,
         "separate_section_with_border": true,
+        "media_position_desktop": "after_text",
+        "media_position_mobile": "before_text",
+        "media_layout": "overlap",
+        "media_alignment": "center",
+        "media_alignment_offset": 0,
+        "media_mobile_alignment_offset": 0,
+        "text_alignment": "center",
+        "subheading": "WITH THE SUMMIT",
+        "title": "<strong>Celebrate Spring</strong>",
+        "content": "<p><strong>Spring brings more than just May flowers!</strong></p><p>At Summit, you’ll find a vibrant selection of blooming annuals in flats and pots (3”–8”), plus mixed planters in all sizes. Our <strong>premium perennials</strong> are locally grown and include both classic and new varieties, along with a strong lineup of <strong>Missouri and US native plants</strong> for low-maintenance gardens.</p><p>We offer <strong>hanging baskets</strong> (10–14”) for sun or shade, including colorful blooms and lush ferns. The <strong>herb collection</strong> is extensive, with culinary and specialty varieties in 3”, 4”, and gallon pots.</p><p><strong>Tropicals</strong> abound—Mandevilla, Hibiscus, Banana Trees, Cannas, and more—perfect for decking out your patio. As the season cools, we transition to <strong>fall favorites</strong> like hardy mums, aster, pansies, and flowering kale.</p><p>Our friendly, knowledgeable staff is always ready with gardening advice. We also carry pottery (lightweight and ceramic), basket liners, and top-quality soils like local favorite <span style=\"text-decoration:underline\"><em>Mark’s Magic Soil</em></span>.</p>",
+        "button_1_text": "",
+        "button_1_link": "",
+        "button_1_style": "solid",
+        "button_2_text": "",
+        "button_2_link": "",
+        "button_2_style": "solid"
+      }
+    },
+    "rich_text_DbT6QH": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_GCDmFj": {
+          "type": "heading",
+          "settings": {
+            "text": "<strong>🌱 Open All Seasons, Always Fresh 🌻</strong>",
+            "heading_tag": "h4"
+          }
+        }
+      },
+      "block_order": [
+        "heading_GCDmFj"
+      ],
+      "name": "t:sections.rich_text.presets.rich_text.name",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": false,
         "content_width": "sm",
         "text_position": "center",
         "remove_vertical_spacing": false,
@@ -804,12 +568,40 @@
       "settings": {
         "color_scheme": "scheme-4",
         "image_size": "sm",
-        "image": "shopify://shop_images/Collection_Tile_Image_for_WINTER_PLANTS_tinted.png",
+        "image": "shopify://shop_images/4BEF2A59-56AA-4E37-97B1-01AAE8047FB0.jpg",
         "content_width": "md",
         "enable_parallax": true,
         "remove_vertical_spacing": true,
         "overlay_color": "#000000",
-        "overlay_opacity": 0,
+        "overlay_opacity": 30,
+        "show_on_desktop": false,
+        "show_on_mobile": true
+      }
+    },
+    "rich_text_bWNXHA": {
+      "type": "rich-text",
+      "blocks": {
+        "button_68UmRd": {
+          "type": "button",
+          "settings": {
+            "style": "outline",
+            "text": "Every Season Tells a Story",
+            "url": "",
+            "background": "",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "button_68UmRd"
+      ],
+      "name": "Mobile: Rich Text Header",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "content_width": "sm",
+        "text_position": "center",
+        "remove_vertical_spacing": false,
         "show_on_desktop": false,
         "show_on_mobile": true
       }
@@ -1374,13 +1166,11 @@
     "text_with_icons_qa6AkH",
     "multiple_media_with_text_YrgALm",
     "media_grid_34CEgj",
-    "multi_column_haJyqR",
-    "media_grid_pzdfQF",
+    "slideshow_FahUhK",
     "multiple_media_with_text_Nfdye3",
     "rich_text_DbT6QH",
-    "slideshow_FahUhK",
-    "rich_text_bWNXHA",
     "image_with_text_block_R6Rkmx",
+    "rich_text_bWNXHA",
     "image_with_text_block_KTemAB",
     "image_with_text_block_hpEmVQ",
     "image_with_text_block_MbHTCx",
