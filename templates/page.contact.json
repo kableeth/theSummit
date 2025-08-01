@@ -317,7 +317,7 @@
         "tab_ERRtfg": {
           "type": "tab",
           "settings": {
-            "title": "<span style=\"text-decoration:underline\">Spring & Summer Season</span>",
+            "title": "<span style=\"text-decoration:underline\">Spring & Summer Hours</span>",
             "content": "<p><strong>Weekdays:</strong> 9:30am - 5:30pm<br/><strong>Saturdays: </strong>8am - 5pm<br/><strong>Sundays: </strong>10am - 5pm</p><h6>*The Summit Is Closed Easter, Labor Dy, Memorial Day, & Independence Day</h6>",
             "page": "",
             "open_on_mobile": true
@@ -326,7 +326,7 @@
         "tab_Ugn4pK": {
           "type": "tab",
           "settings": {
-            "title": "<span style=\"text-decoration:underline\">Fall Season</span>",
+            "title": "<span style=\"text-decoration:underline\">Fall Hours</span>",
             "content": "<p><strong>Sunday - Thursday:</strong> 9am - 6pm<br/><strong>Fridays: 9</strong>am - 8pm<br/><strong>Saturdays: 8</strong>am - 6pm</p><p><strong>Fun Zone Grand Opening </strong>on Sept 28th!</p><h6>*The Summit Is Closed Thanksgiving</h6>",
             "page": "",
             "open_on_mobile": false
@@ -335,7 +335,7 @@
         "tab_f7p7pc": {
           "type": "tab",
           "settings": {
-            "title": "<span style=\"text-decoration:underline\"><strong>Holiday Season </strong></span>",
+            "title": "<span style=\"text-decoration:underline\"><strong>Holiday Hours </strong></span>",
             "content": "<p><strong>GINGERBREAD SHOPPE OPENS MID-NOV</strong></p><p><strong>TREE LOT OPENS Mid-NOV</strong></p><p><strong>Hours: Everyday</strong>: 9am- 9pm</p><h6>*The Summit Is Closed on Christmas</h6>",
             "page": "",
             "open_on_mobile": false
@@ -352,7 +352,7 @@
         "color_scheme": "",
         "separate_section_with_border": true,
         "subheading": "",
-        "title": "Seasonal Hours",
+        "title": "Hours & Location",
         "text_alignment": "center"
       }
     },
