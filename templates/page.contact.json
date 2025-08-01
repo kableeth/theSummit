@@ -68,6 +68,45 @@
         "overlay_opacity": 30
       }
     },
+    "rich_text_w8mXpG": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_g7yeiC": {
+          "type": "subheading",
+          "settings": {
+            "text": "OPEN MARCH 29"
+          }
+        },
+        "heading_c7aiTr": {
+          "type": "heading",
+          "settings": {
+            "text": "<strong>Spring & Summer Hours</strong>",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_ji6gRF": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p><strong>Weekdays:</strong> 9:30am - 5:30pm<br/><strong>Saturdays: </strong>8am - 5pm<br/><strong>Sundays: </strong>10am - 5pm</p><h6>*The Summit Is Closed Easter, Labor Dy, Memorial Day, & Independence Day</h6>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_g7yeiC",
+        "heading_c7aiTr",
+        "richtext_ji6gRF"
+      ],
+      "name": "t:sections.rich_text.presets.rich_text.name",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "content_width": "sm",
+        "text_position": "center",
+        "remove_vertical_spacing": false,
+        "show_on_desktop": true,
+        "show_on_mobile": true
+      }
+    },
     "image_with_text_mhB7LL": {
       "type": "image-with-text",
       "blocks": {
@@ -105,7 +144,9 @@
         "reveal_on_scroll": true,
         "image_position": "start",
         "content_width": "sm",
-        "remove_vertical_spacing": true
+        "remove_vertical_spacing": true,
+        "show_on_desktop": true,
+        "show_on_mobile": true
       }
     },
     "image_with_text_mhabyD": {
@@ -144,7 +185,9 @@
         "reveal_on_scroll": true,
         "image_position": "end",
         "content_width": "sm",
-        "remove_vertical_spacing": true
+        "remove_vertical_spacing": true,
+        "show_on_desktop": true,
+        "show_on_mobile": true
       }
     },
     "image_with_text_zYXCTn": {
@@ -183,7 +226,9 @@
         "reveal_on_scroll": true,
         "image_position": "start",
         "content_width": "sm",
-        "remove_vertical_spacing": false
+        "remove_vertical_spacing": false,
+        "show_on_desktop": true,
+        "show_on_mobile": true
       }
     },
     "contact-form": {
@@ -217,6 +262,7 @@
   "order": [
     "main",
     "image_with_text_overlay_3t4VLB",
+    "rich_text_w8mXpG",
     "image_with_text_mhB7LL",
     "image_with_text_mhabyD",
     "image_with_text_zYXCTn",
