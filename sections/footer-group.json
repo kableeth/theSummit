@@ -48,7 +48,7 @@
           "type": "text",
           "settings": {
             "title": "The Summit All Seasons Market @ Kirkwood Farmers' Market",
-            "content": "<p>Bringing the best of every season since 1978. The Summit is your one-stop shop in Kirkwood Missouri for a unique seasonal shopping experience.</p>",
+            "content": "<p><a href=\"https://maps.app.goo.gl/EAhEuW4EDxhrkBdm7\" target=\"_blank\" title=\"https://maps.app.goo.gl/EAhEuW4EDxhrkBdm7\">150 E Argonne Dr, Kirkwood, MO 63122</a></p><p>Bringing the best of every season since 1978. The Summit is your one-stop shop in Kirkwood Missouri for a unique seasonal shopping experience.</p>",
             "enable_follow_on_shop": true
           }
         }
