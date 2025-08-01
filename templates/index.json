@@ -790,7 +790,7 @@
             "title": "Fall",
             "content": "<p>Falling leaves, towering cornstalks, golden straw bales & a pumpkin buffet set the stage for <a href=\"/pages/fall-season\" title=\"Fall Season\"><strong>The Great Pumpkin Patch</strong> & <strong>Fall Fun Zone Experience</strong></a> at <strong>The Summit</strong> All Seasons Market in Kirkwood Farmers Market.</p>",
             "link_text": "See More",
-            "link_url": "",
+            "link_url": "shopify://pages/fall-season",
             "link_style": "solid"
           }
         },
