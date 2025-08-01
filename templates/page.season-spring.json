@@ -18,7 +18,7 @@
             "image": "shopify://shop_images/header-spring.png",
             "mobile_image": "shopify://shop_images/header-spring.png",
             "subheading": "",
-            "title": "<strong>Welcome to </strong>{{ page.metafields.custom.current_season.value }}<strong> Season at</strong> <strong>The Summit</strong>",
+            "title": "<strong>Welcome to Spring Season at</strong> <strong>The Summit</strong>",
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
             "content_max_width": 600,
