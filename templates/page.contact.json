@@ -362,10 +362,10 @@
     "multiple_media_with_text_bL8RNX": {
       "type": "multiple-media-with-text",
       "blocks": {
-        "image_rWW4DQ": {
-          "type": "image",
+        "video_pqHT6F": {
+          "type": "video",
           "settings": {
-            "image": "shopify://shop_images/6_1.jpg",
+            "video": "shopify://files/videos/Farmers Market Hyperlapse 2.mp4",
             "rotation": 0
           }
         },
@@ -378,7 +378,7 @@
         }
       },
       "block_order": [
-        "image_rWW4DQ",
+        "video_pqHT6F",
         "image_aUmjaK"
       ],
       "name": "t:sections.multiple_media_with_text.presets.multiple_media_with_text.name",
