@@ -319,7 +319,7 @@
       "name": "Dekstop: Media Grid",
       "settings": {
         "color_scheme": "",
-        "separate_section_with_border": true,
+        "separate_section_with_border": false,
         "desktop_row_height": 140,
         "mobile_row_height": 150,
         "section_width": "sm",
