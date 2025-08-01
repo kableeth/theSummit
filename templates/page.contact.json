@@ -356,6 +356,51 @@
         "text_alignment": "center"
       }
     },
+    "multiple_media_with_text_bL8RNX": {
+      "type": "multiple-media-with-text",
+      "blocks": {
+        "image_rWW4DQ": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/6_1.jpg",
+            "rotation": 0
+          }
+        },
+        "image_aUmjaK": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/D87EFA47-5A07-4C73-BDC5-C2CF2E0BCBDB.jpg",
+            "rotation": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_rWW4DQ",
+        "image_aUmjaK"
+      ],
+      "name": "t:sections.multiple_media_with_text.presets.multiple_media_with_text.name",
+      "settings": {
+        "color_scheme": "",
+        "reveal_on_scroll": true,
+        "separate_section_with_border": true,
+        "media_position_desktop": "before_text",
+        "media_position_mobile": "before_text",
+        "media_layout": "overlap",
+        "media_alignment": "center",
+        "media_alignment_offset": 0,
+        "media_mobile_alignment_offset": 0,
+        "text_alignment": "center",
+        "subheading": "Located At",
+        "title": "The Kirkwood Farmer's Market",
+        "content": "<p>150 E Argonne Dr, Kirkwood, MO 63122</p>",
+        "button_1_text": "Directions",
+        "button_1_link": "https://maps.app.goo.gl/2FCkxfSoPFwZbBxn8",
+        "button_1_style": "solid",
+        "button_2_text": "Learn More",
+        "button_2_link": "https://www.downtownkirkwood.com/farmers-market/",
+        "button_2_style": "link"
+      }
+    },
     "contact-form": {
       "type": "contact",
       "disabled": true,
@@ -394,6 +439,7 @@
     "image_with_text_mhabyD",
     "image_with_text_zYXCTn",
     "tabs_zaHtF4",
+    "multiple_media_with_text_bL8RNX",
     "contact-form",
     "newsletter_XhiWjH"
   ]
