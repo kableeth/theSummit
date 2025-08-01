@@ -308,6 +308,51 @@
         "show_on_mobile": false
       }
     },
+    "tabs_zaHtF4": {
+      "type": "tabs",
+      "blocks": {
+        "tab_ERRtfg": {
+          "type": "tab",
+          "settings": {
+            "title": "Spring & Summer Hours",
+            "content": "<p><strong>Weekdays:</strong> 9:30am - 5:30pm<br/><strong>Saturdays: </strong>8am - 5pm<br/><strong>Sundays: </strong>10am - 5pm</p><h6>*The Summit Is Closed Easter, Labor Dy, Memorial Day, & Independence Day</h6>",
+            "page": "",
+            "open_on_mobile": true
+          }
+        },
+        "tab_Ugn4pK": {
+          "type": "tab",
+          "settings": {
+            "title": "Tab 2",
+            "content": "<p>Describe a product, share announcements, or welcome customers to your store.</p>",
+            "page": "",
+            "open_on_mobile": false
+          }
+        },
+        "tab_f7p7pc": {
+          "type": "tab",
+          "settings": {
+            "title": "Tab 3",
+            "content": "<p>Share information about your shipping rates, return policy or contact information.</p>",
+            "page": "",
+            "open_on_mobile": false
+          }
+        }
+      },
+      "block_order": [
+        "tab_ERRtfg",
+        "tab_Ugn4pK",
+        "tab_f7p7pc"
+      ],
+      "name": "t:sections.tabs.presets.tab.name",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "subheading": "Subheading",
+        "title": "Heading",
+        "text_alignment": "center"
+      }
+    },
     "contact-form": {
       "type": "contact",
       "disabled": true,
@@ -345,6 +390,7 @@
     "image_with_text_mhB7LL",
     "image_with_text_mhabyD",
     "image_with_text_zYXCTn",
+    "tabs_zaHtF4",
     "contact-form",
     "newsletter_XhiWjH"
   ]
