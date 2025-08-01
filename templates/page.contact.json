@@ -327,7 +327,7 @@
           "type": "tab",
           "settings": {
             "title": "<span style=\"text-decoration:underline\">Fall Hours</span>",
-            "content": "<p><strong>Sunday - Thursday:</strong> 9am - 6pm<br/><strong>Fridays: 9</strong>am - 8pm<br/><strong>Saturdays: 8</strong>am - 6pm</p><p><strong>Fun Zone Grand Opening </strong>on Sept 28th!</p><h6>*The Summit Is Closed Thanksgiving</h6>",
+            "content": "<p><strong>OPEN LATE SEPTEMBER (TBA)</strong></p><p><strong>Sunday - Thursday:</strong> 9am - 6pm<br/><strong>Fridays: 9</strong>am - 8pm<br/><strong>Saturdays: 8</strong>am - 6pm</p><p><strong>Fun Zone Grand Opening </strong>on Sept 28th!</p><h6>*The Summit Is Closed Thanksgiving</h6>",
             "page": "",
             "open_on_mobile": false
           }
@@ -336,7 +336,7 @@
           "type": "tab",
           "settings": {
             "title": "<span style=\"text-decoration:underline\"><strong>Holiday Hours </strong></span>",
-            "content": "<p><strong>GINGERBREAD SHOPPE OPENS MID-NOV</strong></p><p><strong>TREE LOT OPENS Mid-NOV</strong></p><p><strong>Hours: Everyday</strong>: 9am- 9pm</p><h6>*The Summit Is Closed on Christmas</h6>",
+            "content": "<p><strong>GINGERBREAD SHOPPE & TREE LOT OPENS MID-NOV</strong></p><p></p><p><strong>Hours: Everyday</strong>: 9am- 9pm</p><h6>*The Summit Is Closed on Christmas</h6>",
             "page": "",
             "open_on_mobile": false
           }
