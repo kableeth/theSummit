@@ -71,17 +71,17 @@
     "rich_text_w8mXpG": {
       "type": "rich-text",
       "blocks": {
-        "subheading_g7yeiC": {
-          "type": "subheading",
-          "settings": {
-            "text": "OPEN MARCH 29"
-          }
-        },
         "heading_c7aiTr": {
           "type": "heading",
           "settings": {
             "text": "<strong>Spring & Summer Hours</strong>",
             "heading_tag": "h1"
+          }
+        },
+        "subheading_g7yeiC": {
+          "type": "subheading",
+          "settings": {
+            "text": "OPEN MARCH 29"
           }
         },
         "richtext_ji6gRF": {
@@ -92,9 +92,48 @@
         }
       },
       "block_order": [
-        "subheading_g7yeiC",
         "heading_c7aiTr",
+        "subheading_g7yeiC",
         "richtext_ji6gRF"
+      ],
+      "name": "t:sections.rich_text.presets.rich_text.name",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "content_width": "sm",
+        "text_position": "center",
+        "remove_vertical_spacing": false,
+        "show_on_desktop": false,
+        "show_on_mobile": true
+      }
+    },
+    "rich_text_dGHJC6": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_e9a3Em": {
+          "type": "heading",
+          "settings": {
+            "text": "<strong>Fall Season & Pumpkin Patch Hours</strong>",
+            "heading_tag": "h1"
+          }
+        },
+        "subheading_fPnHhF": {
+          "type": "subheading",
+          "settings": {
+            "text": "OPEN MARCH 29OPEN LATE SEPTEMBER (TBA)"
+          }
+        },
+        "richtext_ttT7ig": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p><strong>Sunday - Thursday:</strong> 9am - 6pm<br/><strong>Fridays: 9</strong>am - 8pm<br/><strong>Saturdays: 8</strong>am - 6pm</p><p><strong>Fun Zone Grand Opening </strong>on Sept 28th!</p><h6>*The Summit Is Closed Thanksgiving</h6>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_e9a3Em",
+        "subheading_fPnHhF",
+        "richtext_ttT7ig"
       ],
       "name": "t:sections.rich_text.presets.rich_text.name",
       "settings": {
@@ -140,7 +179,6 @@
         "color_scheme": "",
         "separate_section_with_border": true,
         "image": "shopify://shop_images/Yellow-SummerTheSummit_4b0d35ce-2517-4d7b-a568-36a10d3cfd77.png",
-        "mobile_image": "shopify://shop_images/Yellow-SummerTheSummit.png",
         "reveal_on_scroll": true,
         "image_position": "start",
         "content_width": "sm",
@@ -263,6 +301,7 @@
     "main",
     "image_with_text_overlay_3t4VLB",
     "rich_text_w8mXpG",
+    "rich_text_dGHJC6",
     "image_with_text_mhB7LL",
     "image_with_text_mhabyD",
     "image_with_text_zYXCTn",
