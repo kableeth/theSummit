@@ -99,7 +99,7 @@
       "name": "t:sections.text_with_icons.presets.text_with_icons.name",
       "settings": {
         "color_scheme": "scheme-1",
-        "separate_section_with_border": false,
+        "separate_section_with_border": true,
         "stack_on_mobile": false,
         "icon_color": "",
         "text_color": "",
