@@ -525,6 +525,7 @@
       "block_order": [
         "heading_GCDmFj"
       ],
+      "disabled": true,
       "name": "t:sections.rich_text.presets.rich_text.name",
       "settings": {
         "color_scheme": "",
@@ -564,6 +565,7 @@
         "richtext_i6WqV6",
         "link_gfycCM"
       ],
+      "disabled": true,
       "name": "Mobile: Spring Highlight",
       "settings": {
         "color_scheme": "scheme-4",
@@ -595,6 +597,7 @@
       "block_order": [
         "button_68UmRd"
       ],
+      "disabled": true,
       "name": "Mobile: Rich Text Header",
       "settings": {
         "color_scheme": "",
@@ -634,6 +637,7 @@
         "richtext_rqWMYz",
         "link_ycYNch"
       ],
+      "disabled": true,
       "name": "Mobile: Summer Highlight",
       "settings": {
         "color_scheme": "scheme-4",
@@ -677,6 +681,7 @@
         "richtext_qJqnQV",
         "link_nNg7x9"
       ],
+      "disabled": true,
       "name": "Mobile: Fall Highlight",
       "settings": {
         "color_scheme": "scheme-4",
@@ -720,6 +725,7 @@
         "richtext_nN68p6",
         "link_6JrmQG"
       ],
+      "disabled": true,
       "name": "Mobile: Christmas Highlight",
       "settings": {
         "color_scheme": "scheme-4",
