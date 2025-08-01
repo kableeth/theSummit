@@ -216,6 +216,7 @@
         "subheading_exFrHh",
         "richtext_GgAxxE"
       ],
+      "disabled": true,
       "name": "Desktop: Spring & Summer Hours",
       "settings": {
         "color_scheme": "",
@@ -257,6 +258,7 @@
         "subheading_KQ8Uqx",
         "richtext_ibY7fK"
       ],
+      "disabled": true,
       "name": "Desktop: Fall Hours",
       "settings": {
         "color_scheme": "",
@@ -298,6 +300,7 @@
         "subheading_hdttYh",
         "richtext_aYijCw"
       ],
+      "disabled": true,
       "name": "Desktop: Christmas Hours",
       "settings": {
         "color_scheme": "",
