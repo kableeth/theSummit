@@ -323,8 +323,8 @@
         "tab_Ugn4pK": {
           "type": "tab",
           "settings": {
-            "title": "Tab 2",
-            "content": "<p>Describe a product, share announcements, or welcome customers to your store.</p>",
+            "title": "Fall Hours",
+            "content": "<p><strong>Sunday - Thursday:</strong> 9am - 6pm<br/><strong>Fridays: 9</strong>am - 8pm<br/><strong>Saturdays: 8</strong>am - 6pm</p><p><strong>Fun Zone Grand Opening </strong>on Sept 28th!</p><h6>*The Summit Is Closed Thanksgiving</h6>",
             "page": "",
             "open_on_mobile": false
           }
@@ -332,8 +332,8 @@
         "tab_f7p7pc": {
           "type": "tab",
           "settings": {
-            "title": "Tab 3",
-            "content": "<p>Share information about your shipping rates, return policy or contact information.</p>",
+            "title": "<strong>Holiday Season Hours</strong>",
+            "content": "<p><strong>GINGERBREAD SHOPPE OPENS MID-NOV</strong></p><p><strong>TREE LOT OPENS Mid-NOV</strong></p><p><strong>Hours: Everyday</strong>: 9am- 9pm</p><h6>*The Summit Is Closed on Christmas</h6>",
             "page": "",
             "open_on_mobile": false
           }
