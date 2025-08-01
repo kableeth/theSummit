@@ -311,13 +311,14 @@
         "image_LhRFAW": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/6_1.png",
+            "image": "shopify://shop_images/DJI_0656_1.jpg",
             "rotation": 0
           }
         },
         "image_MXbpT4": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Enorm-Gallery75712-SPRING-GENERAL-IMAGE-7-1642797158-61eb1866a07fe.webp",
             "rotation": 0
           }
         }
@@ -339,8 +340,8 @@
         "media_mobile_alignment_offset": 0,
         "text_alignment": "center",
         "subheading": "WITH THE SUMMIT",
-        "title": "Celebrate Spring",
-        "content": "<p>Spring has Sprung at The Summit in Kirkwood Farmers Market. </p><p>Come celebrate Spring with The Summit! Whether your shopping or just stopping in,  we promise a mood boosting experience. </p><p>From the bounty of our fresh local produce and foods, to our vast array of plants, The Summit is the place to be for the outstanding selection and service you deserve. </p><p></p><p> </p><p></p><p></p>",
+        "title": "<strong>Celebrate Spring</strong>",
+        "content": "<p><strong>Spring brings more than just May flowers!</strong></p><p>At Summit, you’ll find a vibrant selection of blooming annuals in flats and pots (3”–8”), plus mixed planters in all sizes. Our <strong>premium perennials</strong> are locally grown and include both classic and new varieties, along with a strong lineup of <strong>Missouri and US native plants</strong> for low-maintenance gardens.</p><p>We offer <strong>hanging baskets</strong> (10–14”) for sun or shade, including colorful blooms and lush ferns. The <strong>herb collection</strong> is extensive, with culinary and specialty varieties in 3”, 4”, and gallon pots.</p><p><strong>Tropicals</strong> abound—Mandevilla, Hibiscus, Banana Trees, Cannas, and more—perfect for decking out your patio. As the season cools, we transition to <strong>fall favorites</strong> like hardy mums, aster, pansies, and flowering kale.</p><p>Our friendly, knowledgeable staff is always ready with gardening advice. We also carry pottery (lightweight and ceramic), basket liners, and top-quality soils like local favorite <span style=\"text-decoration:underline\"><em>Mark’s Magic Soil</em></span>.</p>",
         "button_1_text": "",
         "button_1_link": "",
         "button_1_style": "solid",
@@ -892,6 +893,7 @@
     },
     "countdown_cYNFpL": {
       "type": "countdown",
+      "disabled": true,
       "name": "t:sections.countdown_timer.presets.countdown_timer.name",
       "settings": {
         "color_scheme": "scheme-4",
