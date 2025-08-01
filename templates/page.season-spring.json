@@ -340,8 +340,8 @@
           "settings": {
             "image": "shopify://shop_images/FBA64CC5-1ACA-4920-9AEA-AED558A06774.jpg",
             "mobile_image": "shopify://shop_images/FBA64CC5-1ACA-4920-9AEA-AED558A06774.jpg",
-            "subheading": "WITH THE SUMMIT",
-            "title": "Celebrate Spring",
+            "subheading": "",
+            "title": "",
             "mobile_text_position": "place-self-start-center text-center",
             "desktop_text_position": "sm:place-self-start-center sm:text-center",
             "content_max_width": 780,
