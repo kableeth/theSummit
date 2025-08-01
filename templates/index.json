@@ -776,7 +776,7 @@
             "image": "shopify://shop_images/Collection_Tile_Image_for_SPRING_PRODUCE.jpg",
             "subheading": "",
             "title": "<strong>Summer</strong>",
-            "content": "<p><strong>Experience the best of Midwest summer at The Summit in downtown Kirkwood! Our market is brimming with local produce, fresh bakery goods, craft foods, and the irresistible scent of ripe peaches, just-picked tomatoes, and sweet melons. Taste seasonal favorites like berries and cherries as you explore. Enjoy perfectly crisp sweet corn—often harvested that very morning—and discover treasures in our summer boutique or garden shop. Every visit offers something new, and our friendly staff will always make you feel like family.</strong></p>",
+            "content": "<p>Experience the best of Midwest summer at The Summit in downtown Kirkwood! Our market is brimming with <strong>local produce</strong>, <strong>fresh bakery goods</strong>, <strong>craft foods</strong>, and the irresistible scent of <strong>ripe peaches</strong>, <strong>just-picked tomatoes</strong>, and <strong>sweet</strong> <strong>melons</strong>. Taste seasonal favorites like <strong>berries</strong> and <strong>cherries</strong> as you explore. Enjoy perfectly crisp <strong>sweet corn</strong>—often <strong>harvested that very morning</strong>—and discover treasures in our summer <strong>boutique</strong> or <strong>garden shop</strong>. Every visit offers something new, and our friendly staff will always make you feel like family.</p>",
             "link_text": "Learn More",
             "link_url": "",
             "link_style": "solid"
@@ -788,7 +788,7 @@
             "image": "shopify://shop_images/TheSummit-History.png",
             "subheading": "",
             "title": "Fall",
-            "content": "<p>Falling leaves, towering cornstalks, golden straw bales & a pumpkin buffet set the stage for <strong>The Great Pumpkin Patch</strong> & <strong>Fall Fun Zone Experience</strong> at <strong>The Summit</strong> All Seasons Market in Kirkwood Farmers Market.</p>",
+            "content": "<p>Falling leaves, towering cornstalks, golden straw bales & a pumpkin buffet set the stage for <a href=\"/pages/fall-season\" title=\"Fall Season\"><strong>The Great Pumpkin Patch</strong> & <strong>Fall Fun Zone Experience</strong></a> at <strong>The Summit</strong> All Seasons Market in Kirkwood Farmers Market.</p>",
             "link_text": "Learn More",
             "link_url": "",
             "link_style": "solid"
@@ -800,7 +800,7 @@
             "image": "shopify://shop_images/Summit_KirkwoodMarket_Winter_6bae9f83-5930-4d85-b258-57351fb606dd.png",
             "subheading": "",
             "title": "Christmas",
-            "content": "<p><strong>Christmas at The Summit is pure holiday magic.</strong> With the scent of fresh evergreens in the air and a feeling of old-fashioned cheer, the market transforms into a festive wonderland. Explore a bountiful selection of trees, garlands, décor, handmade bows, stocking stuffers, sweet treats, and thousands of ornaments that make the season unforgettable.</p>",
+            "content": "<p>Christmas at The Summit is pure holiday magic<strong>.</strong> With the scent of fresh evergreens in the air and a feeling of old-fashioned cheer, the market transforms into a festive wonderland. Explore a bountiful selection of <strong>trees</strong>, <strong>garlands</strong>, <strong>décor</strong>, <strong>handmade bows</strong>, <strong>stocking stuffers</strong>, <strong>sweet treats</strong>, and thousands of <strong>ornaments</strong> that make the season unforgettable.</p>",
             "link_text": "Learn More",
             "link_url": "",
             "link_style": "solid"
@@ -858,7 +858,7 @@
         "after"
       ],
       "settings": {
-        "color_scheme": "scheme-4",
+        "color_scheme": "scheme-1",
         "separate_section_with_border": true,
         "subheading": "Same Market, Different Vibes, Every Season.",
         "title": "",
