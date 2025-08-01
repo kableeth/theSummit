@@ -96,7 +96,7 @@
         "subheading_g7yeiC",
         "richtext_ji6gRF"
       ],
-      "name": "t:sections.rich_text.presets.rich_text.name",
+      "name": "Mobile: Spring & Summer Hours",
       "settings": {
         "color_scheme": "",
         "separate_section_with_border": true,
@@ -120,7 +120,7 @@
         "subheading_fPnHhF": {
           "type": "subheading",
           "settings": {
-            "text": "OPEN MARCH 29OPEN LATE SEPTEMBER (TBA)"
+            "text": "OPEN MID-NOV"
           }
         },
         "richtext_ttT7ig": {
@@ -135,7 +135,46 @@
         "subheading_fPnHhF",
         "richtext_ttT7ig"
       ],
-      "name": "t:sections.rich_text.presets.rich_text.name",
+      "name": "Mobile: Fall Hours",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "content_width": "sm",
+        "text_position": "center",
+        "remove_vertical_spacing": true,
+        "show_on_desktop": false,
+        "show_on_mobile": true
+      }
+    },
+    "rich_text_KgAYpe": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_cpH9Yi": {
+          "type": "heading",
+          "settings": {
+            "text": "<strong>Holiday Season Hours</strong>",
+            "heading_tag": "h1"
+          }
+        },
+        "subheading_VC88ET": {
+          "type": "subheading",
+          "settings": {
+            "text": "OPEN MARCH 29OPEN LATE SEPTEMBER (TBA)"
+          }
+        },
+        "richtext_eLhawG": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p><strong>GINGERBREAD SHOPPE OPENS MID-NOV</strong></p><p><strong>TREE LOT OPENS Mid-NOV</strong></p><p><strong>Hours: Everyday</strong>: 9am- 9pm</p><h6>*The Summit Is Closed on Christmas</h6>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_cpH9Yi",
+        "subheading_VC88ET",
+        "richtext_eLhawG"
+      ],
+      "name": "Mobile: Christmas Hours",
       "settings": {
         "color_scheme": "",
         "separate_section_with_border": true,
@@ -174,7 +213,7 @@
         "subheading_exFrHh",
         "richtext_GgAxxE"
       ],
-      "name": "t:sections.image_with_text.presets.image_with_text.name",
+      "name": "Desktop: Spring & Summer Hours",
       "settings": {
         "color_scheme": "",
         "separate_section_with_border": true,
@@ -215,7 +254,7 @@
         "subheading_KQ8Uqx",
         "richtext_ibY7fK"
       ],
-      "name": "t:sections.image_with_text.presets.image_with_text.name",
+      "name": "Desktop: Fall Hours",
       "settings": {
         "color_scheme": "",
         "separate_section_with_border": true,
@@ -225,7 +264,7 @@
         "content_width": "sm",
         "remove_vertical_spacing": true,
         "show_on_desktop": true,
-        "show_on_mobile": true
+        "show_on_mobile": false
       }
     },
     "image_with_text_zYXCTn": {
@@ -256,7 +295,7 @@
         "subheading_hdttYh",
         "richtext_aYijCw"
       ],
-      "name": "t:sections.image_with_text.presets.image_with_text.name",
+      "name": "Desktop: Christmas Hours",
       "settings": {
         "color_scheme": "",
         "separate_section_with_border": true,
@@ -266,7 +305,7 @@
         "content_width": "sm",
         "remove_vertical_spacing": false,
         "show_on_desktop": true,
-        "show_on_mobile": true
+        "show_on_mobile": false
       }
     },
     "contact-form": {
@@ -302,6 +341,7 @@
     "image_with_text_overlay_3t4VLB",
     "rich_text_w8mXpG",
     "rich_text_dGHJC6",
+    "rich_text_KgAYpe",
     "image_with_text_mhB7LL",
     "image_with_text_mhabyD",
     "image_with_text_zYXCTn",
