@@ -154,7 +154,6 @@
     },
     "countdown_cYNFpL": {
       "type": "countdown",
-      "disabled": true,
       "name": "t:sections.countdown_timer.presets.countdown_timer.name",
       "settings": {
         "color_scheme": "scheme-4",
