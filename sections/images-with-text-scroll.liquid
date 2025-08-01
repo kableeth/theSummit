@@ -1,4 +1,13 @@
 {%- if section.blocks.size > 0 -%}
+  {%- comment -%} Create visibility classes {%- endcomment -%}
+  {%- assign visibility_classes = '' -%}
+  {%- unless section.settings.show_on_desktop -%}
+    {%- assign visibility_classes = visibility_classes | append: ' hidden-desktop' -%}
+  {%- endunless -%}
+  {%- unless section.settings.show_on_mobile -%}
+    {%- assign visibility_classes = visibility_classes | append: ' hidden-mobile' -%}
+  {%- endunless -%}
+  
   {%- assign section_carousel_id = 'section-carousel-' | append: section.id -%}
 
   <style>
@@ -14,7 +23,8 @@
     }
   </style>
 
-  <images-with-text-scroll id="{{ section_carousel_id }}" class="images-with-text-scroll {% if section.settings.image_position == 'end' %}images-with-text-scroll--reverse{% endif %} color-scheme color-scheme--{{ section.settings.color_scheme.id }}">
+  <div class="section-spacing{% unless section.settings.remove_vertical_spacing %}{% endunless %}{{ visibility_classes }}">
+    <images-with-text-scroll id="{{ section_carousel_id }}" class="images-with-text-scroll {% if section.settings.image_position == 'end' %}images-with-text-scroll--reverse{% endif %} color-scheme color-scheme--{{ section.settings.color_scheme.id }}">
     {%- if section.settings.background_image or section.settings.mobile_background_image -%}
       <picture class="contents {% if section.settings.background_image == blank %}md:hidden{% endif %}">
         {%- if section.settings.mobile_background_image -%}
@@ -82,6 +92,7 @@
       {%- endif -%}
     </div>
   </images-with-text-scroll>
+  </div>
 {%- endif -%}
 
 {% schema %}
@@ -206,6 +217,12 @@
       "step": 1,
       "unit": "%",
       "default": 0
+    },
+    {
+      "type": "checkbox",
+      "id": "remove_vertical_spacing",
+      "label": "t:global.spacing.remove_vertical_spacing",
+      "default": false
     },
     {
       "type": "header",
