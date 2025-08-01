@@ -152,30 +152,6 @@
         "button_2_style": "link"
       }
     },
-    "countdown_cYNFpL": {
-      "type": "countdown",
-      "name": "t:sections.countdown_timer.presets.countdown_timer.name",
-      "settings": {
-        "color_scheme": "scheme-4",
-        "separate_section_with_border": true,
-        "image": "shopify://shop_images/D87B951F-A4CF-42F1-ABDA-E6B858C8E6A4.jpg",
-        "image_size": "sm",
-        "subheading": "<strong>Kid's Fun Zone</strong> & <strong>The Great Pumpkin Patch</strong> Opening Soon!",
-        "title": "<strong>Fall Season Kickoff! 🎃🍂</strong>",
-        "content": "<p>Mark your calendar and bring the whole family. From hay bales to pumpkins and play zones to photo ops—fall at The Summit is where memories are made!</p>",
-        "button_link": "shopify://pages/fall-season",
-        "button_text": "Opens Oct 1st",
-        "expiration_date": "2025-10-01",
-        "expiration_behavior": "leave",
-        "timer_position": "end",
-        "animate_number": true,
-        "flip_background": "",
-        "flip_background_opacity": 50,
-        "flip_text_color": "",
-        "overlay_color": "#000000",
-        "overlay_opacity": 40
-      }
-    },
     "media_grid_34CEgj": {
       "type": "media-grid",
       "blocks": {
@@ -858,7 +834,7 @@
       ],
       "settings": {
         "color_scheme": "scheme-1",
-        "separate_section_with_border": true,
+        "separate_section_with_border": false,
         "subheading": "Same Market, Different Vibes, Every Season.",
         "title": "",
         "content": "",
@@ -868,19 +844,20 @@
         "cursor_arrows_color": "#f6f8f8"
       }
     },
-    "countdown_tEhazb": {
+    "countdown_cYNFpL": {
       "type": "countdown",
-      "disabled": true,
+      "name": "t:sections.countdown_timer.presets.countdown_timer.name",
       "settings": {
-        "color_scheme": "scheme-2",
+        "color_scheme": "scheme-4",
         "separate_section_with_border": true,
-        "image_size": "auto",
-        "subheading": "Embrace the crisp air, falling leaves, and cozy vibes!",
-        "title": "Countdown to Fall begins!",
-        "content": "<h5>Fall Season Starts October 1st!</h5>",
-        "button_link": "",
-        "button_text": "",
-        "expiration_date": "2025-09-30",
+        "image": "shopify://shop_images/D87B951F-A4CF-42F1-ABDA-E6B858C8E6A4.jpg",
+        "image_size": "sm",
+        "subheading": "<strong>Kid's Fun Zone</strong> & <strong>The Great Pumpkin Patch</strong> Opening Soon!",
+        "title": "<strong>Fall Season Kickoff! 🎃🍂</strong>",
+        "content": "<p>Mark your calendar and bring the whole family. From hay bales to pumpkins and play zones to photo ops—fall at The Summit is where memories are made!</p>",
+        "button_link": "shopify://pages/fall-season",
+        "button_text": "Opens Oct 1st",
+        "expiration_date": "2025-10-01",
         "expiration_behavior": "leave",
         "timer_position": "end",
         "animate_number": true,
@@ -888,7 +865,7 @@
         "flip_background_opacity": 50,
         "flip_text_color": "",
         "overlay_color": "#000000",
-        "overlay_opacity": 30
+        "overlay_opacity": 40
       }
     },
     "scrolling_content_kjP9qm": {
@@ -1140,7 +1117,6 @@
     "slideshow",
     "text_with_icons_qa6AkH",
     "multiple_media_with_text_YrgALm",
-    "countdown_cYNFpL",
     "media_grid_34CEgj",
     "rich_text_DbT6QH",
     "slideshow_FahUhK",
@@ -1152,7 +1128,7 @@
     "rich_text_AKcGBb",
     "image-with-text-scroll",
     "before-after",
-    "countdown_tEhazb",
+    "countdown_cYNFpL",
     "scrolling_content_kjP9qm",
     "slideshow_744GEQ",
     "scrolling_content_iGAeV6",
