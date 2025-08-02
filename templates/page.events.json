@@ -118,7 +118,7 @@
         "image_gNgX8G": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/header-christmas_89936b20-4bb7-4fd2-9a01-c077420701df.png",
+            "image": "shopify://shop_images/SUMMIT_GINGERBREAD_SHOPPE_-063.jpg",
             "rotation": 0
           }
         },
@@ -155,81 +155,6 @@
         "button_2_text": "",
         "button_2_link": "",
         "button_2_style": "solid"
-      }
-    },
-    "media_grid_PcKiFY": {
-      "type": "media-grid",
-      "blocks": {
-        "image_i7dJm4": {
-          "type": "image",
-          "settings": {
-            "color_scheme": "",
-            "column_count": "8",
-            "row_count": 2,
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_text": "",
-            "link_url": "",
-            "link_style": "link",
-            "text_position": "place-self-center text-center",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "image_6NQjCR": {
-          "type": "image",
-          "settings": {
-            "color_scheme": "",
-            "column_count": "4",
-            "row_count": 1,
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_text": "",
-            "link_url": "",
-            "link_style": "link",
-            "text_position": "place-self-center text-center",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "image_JEByiw": {
-          "type": "image",
-          "settings": {
-            "color_scheme": "",
-            "column_count": "4",
-            "row_count": 1,
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_text": "",
-            "link_url": "",
-            "link_style": "link",
-            "text_position": "place-self-center text-center",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        }
-      },
-      "block_order": [
-        "image_i7dJm4",
-        "image_6NQjCR",
-        "image_JEByiw"
-      ],
-      "name": "t:sections.media_grid.presets.media_grid.name",
-      "settings": {
-        "color_scheme": "",
-        "separate_section_with_border": true,
-        "desktop_row_height": 290,
-        "mobile_row_height": 180,
-        "section_width": "lg",
-        "spacing": "md",
-        "subheading": "",
-        "title": "",
-        "content": "",
-        "show_on_desktop": true,
-        "show_on_mobile": true
       }
     },
     "multiple_media_with_text_kXyxye": {
@@ -372,7 +297,6 @@
     "slideshow_JL39KN",
     "multiple_media_with_text_qrfrrm",
     "multiple_media_with_text_KNwDFA",
-    "media_grid_PcKiFY",
     "multiple_media_with_text_kXyxye",
     "media_grid_gnirTn",
     "newsletter_99MUHa"
