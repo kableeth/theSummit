@@ -1142,6 +1142,7 @@
     }
   },
   "order": [
+    "main",
     "slideshow",
     "text_with_icons_qa6AkH",
     "rich_text_JzJWTT",
