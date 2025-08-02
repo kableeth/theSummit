@@ -106,6 +106,34 @@
         "text_alignment": "center"
       }
     },
+    "rich_text_JzJWTT": {
+      "type": "rich-text",
+      "blocks": {
+        "button_W3WMpx": {
+          "type": "button",
+          "settings": {
+            "style": "solid",
+            "text": "Open Daily - Hours Below",
+            "url": "",
+            "background": "",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "button_W3WMpx"
+      ],
+      "name": "t:sections.rich_text.presets.rich_text.name",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "content_width": "sm",
+        "text_position": "center",
+        "remove_vertical_spacing": false,
+        "show_on_desktop": true,
+        "show_on_mobile": true
+      }
+    },
     "multiple_media_with_text_YrgALm": {
       "type": "multiple-media-with-text",
       "blocks": {
@@ -1116,6 +1144,7 @@
   "order": [
     "slideshow",
     "text_with_icons_qa6AkH",
+    "rich_text_JzJWTT",
     "multiple_media_with_text_YrgALm",
     "media_grid_34CEgj",
     "rich_text_DbT6QH",

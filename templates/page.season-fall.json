@@ -31,7 +31,7 @@
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
             "content_max_width": 600,
-            "button_1_text": "EXPLORE FALL FESTIVITIES",
+            "button_1_text": "BRINGING THE BEST OF EVERY SEASON SINCE 1978",
             "button_1_link": "shopify://pages/fall-season",
             "button_1_style": "outline",
             "button_1_background": "#ffffff",
@@ -105,6 +105,7 @@
         "item_yJaQ3Q",
         "item_84GbCt"
       ],
+      "disabled": true,
       "name": "t:sections.text_with_icons.presets.text_with_icons.name",
       "settings": {
         "color_scheme": "scheme-1",
