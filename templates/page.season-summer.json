@@ -495,30 +495,6 @@
         "show_on_mobile": true
       }
     },
-    "countdown_cYNFpL": {
-      "type": "countdown",
-      "name": "t:sections.countdown_timer.presets.countdown_timer.name",
-      "settings": {
-        "color_scheme": "scheme-4",
-        "separate_section_with_border": true,
-        "image": "shopify://shop_images/D87B951F-A4CF-42F1-ABDA-E6B858C8E6A4.jpg",
-        "image_size": "sm",
-        "subheading": "SAVE THE DATE!",
-        "title": "<strong>Peach Festival</strong>",
-        "content": "<p>Mark your calendar and bring the whole family. From hay bales to pumpkins and play zones to photo ops—fall at The Summit is where memories are made!</p>",
-        "button_link": "shopify://pages/fall-season",
-        "button_text": "Starts Oct 1st",
-        "expiration_date": "2025-10-01",
-        "expiration_behavior": "leave",
-        "timer_position": "end",
-        "animate_number": true,
-        "flip_background": "",
-        "flip_background_opacity": 50,
-        "flip_text_color": "",
-        "overlay_color": "#000000",
-        "overlay_opacity": 40
-      }
-    },
     "multiple_media_with_text_zDdYa6": {
       "type": "multiple-media-with-text",
       "blocks": {
@@ -532,7 +508,7 @@
         "image_DypqaD": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/401E6D35-F4BC-47A8-B885-4BE64CC81F23.jpg",
+            "image": "shopify://shop_images/FC0612D6-9517-4BBD-B15A-FFBB92A610A7_09bbf584-d109-4776-8efd-3569da80af2b.jpg",
             "rotation": 0
           }
         }
@@ -1177,7 +1153,6 @@
     "multiple_media_with_text_Nfdye3",
     "media_grid_34CEgj",
     "slideshow_FahUhK",
-    "countdown_cYNFpL",
     "multiple_media_with_text_zDdYa6",
     "image_with_text_block_R6Rkmx",
     "rich_text_bWNXHA",
