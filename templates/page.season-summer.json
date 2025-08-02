@@ -163,23 +163,15 @@
     "multiple_media_with_text_Nfdye3": {
       "type": "multiple-media-with-text",
       "blocks": {
-        "image_LhRFAW": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/DJI_0656_1.jpg",
-            "rotation": 0
-          }
-        },
         "image_MXbpT4": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Enorm-Gallery75712-SPRING-GENERAL-IMAGE-7-1642797158-61eb1866a07fe.webp",
+            "image": "shopify://shop_images/A11EE6A7-0E09-4886-9DE9-CD61BB9C70D8.jpg",
             "rotation": 0
           }
         }
       },
       "block_order": [
-        "image_LhRFAW",
         "image_MXbpT4"
       ],
       "name": "Image Showcase",
@@ -194,8 +186,8 @@
         "media_alignment_offset": 0,
         "media_mobile_alignment_offset": 0,
         "text_alignment": "center",
-        "subheading": "<strong>Spring brings more than just May flowers!</strong>",
-        "title": "<strong>At The Summit</strong>",
+        "subheading": "<strong>At The Summit</strong>",
+        "title": "<strong>Summer</strong>",
         "content": "<p>A visit to The Summit, in beautiful downtown Kirkwood, always includes the scents and sights of a Midwest summer farmers market! The sweet scent of <strong>ripe peaches</strong>, the fresh off the vine <strong>tomatoes</strong>, and <strong>sweet melons</strong> just arriving from <strong>local</strong> farms make summer at our market an exciting time of year. Taste the melons, the <strong>berries</strong>, <strong>cherries</strong> and more as you peruse our market. Feel the perfectly crisp fresh <strong>sweet corn</strong> often times just picked <em>that morning</em>. Find something wonderful in our little summer <strong>boutique</strong>, or a beautiful plant for your <strong>garden</strong> or home. A trip the our market always offers something new.</p><p>The Summit's fun and friendly staff will treat you like family!</p>",
         "button_1_text": "",
         "button_1_link": "",
@@ -212,7 +204,7 @@
           "type": "image",
           "settings": {
             "color_scheme": "",
-            "image": "shopify://shop_images/A796F8A9-AB26-406F-8D0C-075E2D81F895.jpg",
+            "image": "shopify://shop_images/1C73E3BD-66C5-4FBF-9E3E-7CAABADBEB97.jpg",
             "column_count": "6",
             "row_count": 3,
             "title": "",
@@ -230,7 +222,7 @@
           "type": "image",
           "settings": {
             "color_scheme": "",
-            "image": "shopify://shop_images/AE1BC874-9723-442A-A8BF-5933DA3AFD11.jpg",
+            "image": "shopify://shop_images/B62B5E28-ED72-416F-9239-D4C031395BB4_f8ac8513-b52d-411f-820b-d2e3eee569a9.jpg",
             "column_count": "3",
             "row_count": 3,
             "title": "",
@@ -248,7 +240,7 @@
           "type": "image",
           "settings": {
             "color_scheme": "scheme-4",
-            "image": "shopify://shop_images/F9094695-776F-498F-A0E2-0619457B3E2C.jpg",
+            "image": "shopify://shop_images/5C56784B-50B2-44F3-BD49-A9023AC7A8EE.jpg",
             "column_count": "3",
             "row_count": 2,
             "title": "",
@@ -266,7 +258,7 @@
           "type": "image",
           "settings": {
             "color_scheme": "scheme-4",
-            "image": "shopify://shop_images/C8028405-9386-441F-B0B9-65D994784542_e534460e-5d3e-4588-b106-9f0d8207f0c3.jpg",
+            "image": "shopify://shop_images/DC2092AC-D470-4A63-A3CA-5306D902AD53.jpg",
             "column_count": "3",
             "row_count": 2,
             "title": "",
@@ -284,7 +276,7 @@
           "type": "image",
           "settings": {
             "color_scheme": "",
-            "image": "shopify://shop_images/C9A33DBD-AA47-4B82-A1C2-78478E9774D3.jpg",
+            "image": "shopify://shop_images/5E007E98-FC59-44A5-AEBC-36D08FEB1E2A.jpg",
             "column_count": "3",
             "row_count": 2,
             "title": "",
@@ -302,7 +294,7 @@
           "type": "image",
           "settings": {
             "color_scheme": "",
-            "image": "shopify://shop_images/3011831B-5DA3-4D9A-AE6E-AA4DEB81E18E.jpg",
+            "image": "shopify://shop_images/9B592B10-3378-4135-AD0D-E9B8A7E2BCDA.jpg",
             "column_count": "6",
             "row_count": 2,
             "title": "",
@@ -320,7 +312,7 @@
           "type": "image",
           "settings": {
             "color_scheme": "",
-            "image": "shopify://shop_images/D46F5359-A9E1-4530-A625-1D27819857CB.jpg",
+            "image": "shopify://shop_images/293A255B-5075-4C3B-B43D-9F094FE879B7.jpg",
             "column_count": "3",
             "row_count": 1,
             "title": "",
@@ -344,7 +336,7 @@
         "image_EGyJm8",
         "image_T3Bwfg"
       ],
-      "name": "Media Grid Display",
+      "name": "Desktop: Grid",
       "settings": {
         "color_scheme": "",
         "separate_section_with_border": false,
