@@ -11,6 +11,7 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "color_scheme": "",
         "show_title": true,
@@ -23,7 +24,7 @@
         "slide-1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/header-spring_2.png",
+            "image": "shopify://shop_images/B62B5E28-ED72-416F-9239-D4C031395BB4_a60094a2-aca3-4c3d-977a-c08d1ead99da.jpg",
             "subheading": "WITH THE SUMMIT",
             "title": "<strong>Celebrate The Best of Summer</strong>",
             "mobile_text_position": "place-self-center text-center",
