@@ -328,6 +328,19 @@
         "show_on_mobile": false
       }
     },
+    "video_haB9xU": {
+      "type": "video",
+      "name": "t:sections.video.presets.video.name",
+      "settings": {
+        "autoplay": true,
+        "show_controls": false,
+        "video_size": "sm",
+        "video": "shopify://files/videos/Kirkwood Farmers Market Play Area.mp4",
+        "mobile_video": "shopify://files/videos/Kirkwood Farmers Market Play Area.mp4",
+        "external_video_url": "",
+        "text_color": "#ffffff"
+      }
+    },
     "slideshow_xBrznX": {
       "type": "slideshow",
       "blocks": {
@@ -784,6 +797,7 @@
     "countdown_cYNFpL",
     "rich_text_md8Yca",
     "media_grid_34CEgj",
+    "video_haB9xU",
     "slideshow_xBrznX",
     "before-after",
     "scrolling_content_kjP9qm",
