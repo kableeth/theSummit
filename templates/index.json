@@ -888,6 +888,45 @@
         "overlay_opacity": 40
       }
     },
+    "rich_text_xX7hLG": {
+      "type": "rich-text",
+      "blocks": {
+        "button_JW83Cw": {
+          "type": "button",
+          "settings": {
+            "style": "solid",
+            "text": "Instagram",
+            "url": "https://www.instagram.com/thesummitallseasonsmarket/",
+            "background": "",
+            "text_color": ""
+          }
+        },
+        "button_wiBFm4": {
+          "type": "button",
+          "settings": {
+            "style": "outline",
+            "text": "Facebook",
+            "url": "https://www.facebook.com/summitproducekirkwood/",
+            "background": "",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "button_JW83Cw",
+        "button_wiBFm4"
+      ],
+      "name": "t:sections.rich_text.presets.rich_text.name",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "content_width": "sm",
+        "text_position": "center",
+        "remove_vertical_spacing": false,
+        "show_on_desktop": true,
+        "show_on_mobile": true
+      }
+    },
     "scrolling_content_kjP9qm": {
       "type": "scrolling-content",
       "blocks": {
@@ -1150,6 +1189,7 @@
     "image-with-text-scroll",
     "before-after",
     "countdown_cYNFpL",
+    "rich_text_xX7hLG",
     "scrolling_content_kjP9qm",
     "slideshow_744GEQ",
     "scrolling_content_iGAeV6",
