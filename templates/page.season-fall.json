@@ -328,19 +328,6 @@
         "show_on_mobile": false
       }
     },
-    "video_haB9xU": {
-      "type": "video",
-      "name": "t:sections.video.presets.video.name",
-      "settings": {
-        "autoplay": true,
-        "show_controls": false,
-        "video_size": "sm",
-        "video": "shopify://files/videos/Fall Season Drone.mp4",
-        "mobile_video": "shopify://files/videos/Fall Season Drone.mp4",
-        "external_video_url": "",
-        "text_color": "#ffffff"
-      }
-    },
     "before-after": {
       "type": "before-after",
       "blocks": {
@@ -824,7 +811,6 @@
     "countdown_cYNFpL",
     "rich_text_md8Yca",
     "media_grid_34CEgj",
-    "video_haB9xU",
     "before-after",
     "slideshow_xBrznX",
     "scrolling_content_kjP9qm",
