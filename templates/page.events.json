@@ -112,81 +112,6 @@
         "button_2_style": "link"
       }
     },
-    "media_grid_FNeMBP": {
-      "type": "media-grid",
-      "blocks": {
-        "image_WPBEHi": {
-          "type": "image",
-          "settings": {
-            "color_scheme": "",
-            "column_count": "8",
-            "row_count": 2,
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_text": "",
-            "link_url": "",
-            "link_style": "link",
-            "text_position": "place-self-center text-center",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "image_kyXeJz": {
-          "type": "image",
-          "settings": {
-            "color_scheme": "",
-            "column_count": "4",
-            "row_count": 1,
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_text": "",
-            "link_url": "",
-            "link_style": "link",
-            "text_position": "place-self-center text-center",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "image_emtjxg": {
-          "type": "image",
-          "settings": {
-            "color_scheme": "",
-            "column_count": "4",
-            "row_count": 1,
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_text": "",
-            "link_url": "",
-            "link_style": "link",
-            "text_position": "place-self-center text-center",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        }
-      },
-      "block_order": [
-        "image_WPBEHi",
-        "image_kyXeJz",
-        "image_emtjxg"
-      ],
-      "name": "t:sections.media_grid.presets.media_grid.name",
-      "settings": {
-        "color_scheme": "",
-        "separate_section_with_border": true,
-        "desktop_row_height": 200,
-        "mobile_row_height": 180,
-        "section_width": "sm",
-        "spacing": "sm",
-        "subheading": "",
-        "title": "",
-        "content": "",
-        "show_on_desktop": true,
-        "show_on_mobile": true
-      }
-    },
     "multiple_media_with_text_KNwDFA": {
       "type": "multiple-media-with-text",
       "blocks": {
@@ -446,7 +371,6 @@
     "main",
     "slideshow_JL39KN",
     "multiple_media_with_text_qrfrrm",
-    "media_grid_FNeMBP",
     "multiple_media_with_text_KNwDFA",
     "media_grid_PcKiFY",
     "multiple_media_with_text_kXyxye",
