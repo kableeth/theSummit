@@ -11,7 +11,6 @@
   "sections": {
     "main": {
       "type": "main-page",
-      "disabled": false,
       "settings": {
         "color_scheme": "",
         "show_title": true,
@@ -26,7 +25,7 @@
           "settings": {
             "image": "shopify://shop_images/header-spring_2.png",
             "subheading": "WITH THE SUMMIT",
-            "title": "\u003cstrong\u003eCelebrate Spring\u003c/strong\u003e",
+            "title": "<strong>Celebrate The Best of Summer</strong>",
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
             "content_max_width": 600,
@@ -75,7 +74,7 @@
             "icon_width": 24,
             "mobile_icon_width": 24,
             "title": "Family-Owned",
-            "content": "\u003cp\u003eProudly rooted in 4 generations of Care\u003c/p\u003e"
+            "content": "<p>Proudly rooted in 4 generations of Care</p>"
           }
         },
         "item_yJaQ3Q": {
@@ -84,8 +83,8 @@
             "icon": "picto-tree",
             "icon_width": 24,
             "mobile_icon_width": 24,
-            "title": "Local Produce \u0026 Goods",
-            "content": "\u003cp\u003eSourced from across the Midwest—and Always Fresh\u003c/p\u003e"
+            "title": "Local Produce & Goods",
+            "content": "<p>Sourced from across the Midwest—and Always Fresh</p>"
           }
         },
         "item_84GbCt": {
@@ -95,7 +94,7 @@
             "icon_width": 24,
             "mobile_icon_width": 24,
             "title": "Open All 4 Seasons",
-            "content": "\u003cp\u003eCelebrate something new every Season\u003c/p\u003e"
+            "content": "<p>Celebrate something new every Season</p>"
           }
         }
       },
@@ -104,6 +103,7 @@
         "item_yJaQ3Q",
         "item_84GbCt"
       ],
+      "disabled": true,
       "name": "Icon Text with Highlights",
       "settings": {
         "color_scheme": "scheme-1",
@@ -136,6 +136,7 @@
         "image_BfdNYU",
         "image_G74QjW"
       ],
+      "disabled": true,
       "name": "Multiple Media Display",
       "settings": {
         "color_scheme": "",
@@ -148,9 +149,9 @@
         "media_alignment_offset": 0,
         "media_mobile_alignment_offset": 0,
         "text_alignment": "center",
-        "subheading": "\u003cstrong\u003eKid's Fun Zone\u003c/strong\u003e \u0026 \u003cstrong\u003eThe Great Pumpkin Patch\u003c/strong\u003e Opening Soon!",
-        "title": "\u003cstrong\u003eFall Season Kickoff! 🎃🍂\u003c/strong\u003e",
-        "content": "\u003cp\u003eMark your calendar and bring the whole family. From hay bales to pumpkins and play zones to photo ops—fall at The Summit is where memories are made!\u003c/p\u003e",
+        "subheading": "<strong>Kid's Fun Zone</strong> & <strong>The Great Pumpkin Patch</strong> Opening Soon!",
+        "title": "<strong>Fall Season Kickoff! 🎃🍂</strong>",
+        "content": "<p>Mark your calendar and bring the whole family. From hay bales to pumpkins and play zones to photo ops—fall at The Summit is where memories are made!</p>",
         "button_1_text": "Starts Oct 1st",
         "button_1_link": "",
         "button_1_style": "solid",
@@ -193,9 +194,9 @@
         "media_alignment_offset": 0,
         "media_mobile_alignment_offset": 0,
         "text_alignment": "center",
-        "subheading": "\u003cstrong\u003eSpring brings more than just May flowers!\u003c/strong\u003e",
-        "title": "\u003cstrong\u003eAt The Summit\u003c/strong\u003e",
-        "content": "\u003cp\u003e\u003c/p\u003e\u003cp\u003eYou’ll find a vibrant selection of blooming annuals in flats and pots (3”–8”), plus mixed planters in all sizes. Our \u003cstrong\u003epremium perennials\u003c/strong\u003e are locally grown and include both classic and new varieties, along with a strong lineup of \u003cstrong\u003eMissouri and US native plants\u003c/strong\u003e for low-maintenance gardens.\u003c/p\u003e\u003cp\u003eWe offer \u003cstrong\u003ehanging baskets\u003c/strong\u003e (10–14”) for sun or shade, including colorful blooms and lush ferns. The \u003cstrong\u003eherb collection\u003c/strong\u003e is extensive, with culinary and specialty varieties in 3”, 4”, and gallon pots.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eTropicals\u003c/strong\u003e abound—Mandevilla, Hibiscus, Banana Trees, Cannas, and more—perfect for decking out your patio. As the season cools, we transition to \u003cstrong\u003efall favorites\u003c/strong\u003e like hardy mums, aster, pansies, and flowering kale.\u003c/p\u003e\u003cp\u003eOur friendly, knowledgeable staff is always ready with gardening advice. We also carry pottery (lightweight and ceramic), basket liners, and top-quality soils like local favorite \u003cspan style=\"text-decoration:underline\"\u003e\u003cem\u003eMark’s Magic Soil\u003c/em\u003e\u003c/span\u003e.\u003c/p\u003e",
+        "subheading": "<strong>Spring brings more than just May flowers!</strong>",
+        "title": "<strong>At The Summit</strong>",
+        "content": "<p>A visit to The Summit, in beautiful downtown Kirkwood, always includes the scents and sights of a Midwest summer farmers market! The sweet scent of <strong>ripe peaches</strong>, the fresh off the vine <strong>tomatoes</strong>, and <strong>sweet melons</strong> just arriving from <strong>local</strong> farms make summer at our market an exciting time of year. Taste the melons, the <strong>berries</strong>, <strong>cherries</strong> and more as you peruse our market. Feel the perfectly crisp fresh <strong>sweet corn</strong> often times just picked <em>that morning</em>. Find something wonderful in our little summer <strong>boutique</strong>, or a beautiful plant for your <strong>garden</strong> or home. A trip the our market always offers something new.</p><p>The Summit's fun and friendly staff will treat you like family!</p>",
         "button_1_text": "",
         "button_1_link": "",
         "button_1_style": "solid",
@@ -525,7 +526,7 @@
         "heading_GCDmFj": {
           "type": "heading",
           "settings": {
-            "text": "\u003cstrong\u003e🌱 Open All Seasons, Always Fresh 🌻\u003c/strong\u003e",
+            "text": "<strong>🌱 Open All Seasons, Always Fresh 🌻</strong>",
             "heading_tag": "h4"
           }
         }
@@ -551,13 +552,13 @@
         "richtext_8DegpP": {
           "type": "richtext",
           "settings": {
-            "content": "\u003ch3\u003e\u003cstrong\u003eSpring\u003c/strong\u003e\u003c/h3\u003e"
+            "content": "<h3><strong>Spring</strong></h3>"
           }
         },
         "richtext_i6WqV6": {
           "type": "richtext",
           "settings": {
-            "content": "\u003cp\u003eFrom vibrant \u003cstrong\u003elocal produce\u003c/strong\u003e to a lush selection of \u003cstrong\u003eplants\u003c/strong\u003e, the market comes alive with color, flavor, and \u003cstrong\u003ecommunity spirit. \u003c/strong\u003eMaking it a season you won’t want to miss.\u003c/p\u003e"
+            "content": "<p>From vibrant <strong>local produce</strong> to a lush selection of <strong>plants</strong>, the market comes alive with color, flavor, and <strong>community spirit. </strong>Making it a season you won’t want to miss.</p>"
           }
         },
         "link_gfycCM": {
@@ -623,13 +624,13 @@
         "richtext_PzidBb": {
           "type": "richtext",
           "settings": {
-            "content": "\u003ch3\u003eSummer\u003c/h3\u003e"
+            "content": "<h3>Summer</h3>"
           }
         },
         "richtext_rqWMYz": {
           "type": "richtext",
           "settings": {
-            "content": "\u003cp\u003eShop \u003cstrong\u003efresh produce\u003c/strong\u003e, \u003cstrong\u003ebaked goods\u003c/strong\u003e, and seasonal favorites. Explore the \u003cstrong\u003eboutique\u003c/strong\u003e and \u003cstrong\u003egarden shop\u003c/strong\u003e—there's always something new and welcoming.\u003c/p\u003e"
+            "content": "<p>Shop <strong>fresh produce</strong>, <strong>baked goods</strong>, and seasonal favorites. Explore the <strong>boutique</strong> and <strong>garden shop</strong>—there's always something new and welcoming.</p>"
           }
         },
         "link_ycYNch": {
@@ -667,13 +668,13 @@
         "richtext_67P3Jh": {
           "type": "richtext",
           "settings": {
-            "content": "\u003ch3\u003eFall\u003c/h3\u003e"
+            "content": "<h3>Fall</h3>"
           }
         },
         "richtext_qJqnQV": {
           "type": "richtext",
           "settings": {
-            "content": "\u003cp\u003eFalling leaves, towering cornstalks, golden straw bales \u0026 a pumpkin buffet set the stage for \u003ca href=\"/pages/fall-season\" title=\"Fall Season\"\u003e\u003cstrong\u003eThe Great Pumpkin Patch\u003c/strong\u003e \u0026 \u003cstrong\u003eFall Fun Zone Experience\u003c/strong\u003e\u003c/a\u003e at The Summit All Seasons Market in Kirkwood Farmers Market.\u003c/p\u003e"
+            "content": "<p>Falling leaves, towering cornstalks, golden straw bales & a pumpkin buffet set the stage for <a href=\"/pages/fall-season\" title=\"Fall Season\"><strong>The Great Pumpkin Patch</strong> & <strong>Fall Fun Zone Experience</strong></a> at The Summit All Seasons Market in Kirkwood Farmers Market.</p>"
           }
         },
         "link_nNg7x9": {
@@ -711,13 +712,13 @@
         "richtext_UPtd6W": {
           "type": "richtext",
           "settings": {
-            "content": "\u003ch3\u003eChristmas\u003c/h3\u003e"
+            "content": "<h3>Christmas</h3>"
           }
         },
         "richtext_nN68p6": {
           "type": "richtext",
           "settings": {
-            "content": "\u003cp\u003e\u003cstrong\u003eChristmas at The Summit is holiday magic.\u003c/strong\u003e Enjoy the scent of evergreens and festive cheer as you shop trees, garlands, décor, bows, treats, and thousands of ornaments.\u003c/p\u003e"
+            "content": "<p><strong>Christmas at The Summit is holiday magic.</strong> Enjoy the scent of evergreens and festive cheer as you shop trees, garlands, décor, bows, treats, and thousands of ornaments.</p>"
           }
         },
         "link_6JrmQG": {
@@ -761,7 +762,7 @@
         "heading_iKtkk6": {
           "type": "heading",
           "settings": {
-            "text": "\u003cstrong\u003e🌱 Open All Seasons, Always Fresh 🌻\u003c/strong\u003e",
+            "text": "<strong>🌱 Open All Seasons, Always Fresh 🌻</strong>",
             "heading_tag": "h1"
           }
         },
@@ -798,7 +799,7 @@
             "image": "shopify://shop_images/OPTION_2_Collection_Tile_Image_for_SPRING_PLANTS_FLOWERS.jpg",
             "subheading": "",
             "title": "Spring",
-            "content": "\u003cp\u003eFrom vibrant \u003cstrong\u003elocal produce\u003c/strong\u003e to a lush selection of \u003cstrong\u003eplants\u003c/strong\u003e, the market comes alive with color, flavor, and \u003cstrong\u003ecommunity spirit\u003c/strong\u003e—making it a season you won't want to miss.\u003c/p\u003e",
+            "content": "<p>From vibrant <strong>local produce</strong> to a lush selection of <strong>plants</strong>, the market comes alive with color, flavor, and <strong>community spirit</strong>—making it a season you won't want to miss.</p>",
             "link_text": "See More",
             "link_url": "shopify://pages/spring-off-season",
             "link_style": "solid"
@@ -809,8 +810,8 @@
           "settings": {
             "image": "shopify://shop_images/Collection_Tile_Image_for_SPRING_PRODUCE.jpg",
             "subheading": "",
-            "title": "\u003cstrong\u003eSummer\u003c/strong\u003e",
-            "content": "\u003cp\u003eExperience the best of Midwest summer at The Summit in downtown Kirkwood! Our market is brimming with \u003cstrong\u003elocal produce\u003c/strong\u003e, \u003cstrong\u003efresh bakery goods\u003c/strong\u003e, \u003cstrong\u003ecraft foods\u003c/strong\u003e, and the irresistible scent of \u003cstrong\u003eripe peaches\u003c/strong\u003e, \u003cstrong\u003ejust-picked tomatoes\u003c/strong\u003e, and \u003cstrong\u003esweet\u003c/strong\u003e \u003cstrong\u003emelons\u003c/strong\u003e. Taste seasonal favorites like \u003cstrong\u003eberries\u003c/strong\u003e and \u003cstrong\u003echerries\u003c/strong\u003e as you explore. Enjoy perfectly crisp \u003cstrong\u003esweet corn\u003c/strong\u003e—often \u003cstrong\u003eharvested that very morning\u003c/strong\u003e—and discover treasures in our summer \u003cstrong\u003eboutique\u003c/strong\u003e or \u003cstrong\u003egarden shop\u003c/strong\u003e. Every visit offers something new, and our friendly staff will always make you feel like family.\u003c/p\u003e",
+            "title": "<strong>Summer</strong>",
+            "content": "<p>Experience the best of Midwest summer at The Summit in downtown Kirkwood! Our market is brimming with <strong>local produce</strong>, <strong>fresh bakery goods</strong>, <strong>craft foods</strong>, and the irresistible scent of <strong>ripe peaches</strong>, <strong>just-picked tomatoes</strong>, and <strong>sweet</strong> <strong>melons</strong>. Taste seasonal favorites like <strong>berries</strong> and <strong>cherries</strong> as you explore. Enjoy perfectly crisp <strong>sweet corn</strong>—often <strong>harvested that very morning</strong>—and discover treasures in our summer <strong>boutique</strong> or <strong>garden shop</strong>. Every visit offers something new, and our friendly staff will always make you feel like family.</p>",
             "link_text": "See More",
             "link_url": "shopify://pages/summer-season",
             "link_style": "solid"
@@ -822,7 +823,7 @@
             "image": "shopify://shop_images/TheSummit-History.png",
             "subheading": "",
             "title": "Fall",
-            "content": "\u003cp\u003eFalling leaves, towering cornstalks, golden straw bales \u0026 a pumpkin buffet set the stage for \u003ca href=\"/pages/fall-season\" title=\"Fall Season\"\u003e\u003cstrong\u003eThe Great Pumpkin Patch\u003c/strong\u003e \u0026 \u003cstrong\u003eFall Fun Zone Experience\u003c/strong\u003e\u003c/a\u003e at \u003cstrong\u003eThe Summit\u003c/strong\u003e All Seasons Market in Kirkwood Farmers Market.\u003c/p\u003e",
+            "content": "<p>Falling leaves, towering cornstalks, golden straw bales & a pumpkin buffet set the stage for <a href=\"/pages/fall-season\" title=\"Fall Season\"><strong>The Great Pumpkin Patch</strong> & <strong>Fall Fun Zone Experience</strong></a> at <strong>The Summit</strong> All Seasons Market in Kirkwood Farmers Market.</p>",
             "link_text": "See More",
             "link_url": "shopify://pages/fall-season",
             "link_style": "solid"
@@ -834,7 +835,7 @@
             "image": "shopify://shop_images/Summit_KirkwoodMarket_Winter_6bae9f83-5930-4d85-b258-57351fb606dd.png",
             "subheading": "",
             "title": "Christmas",
-            "content": "\u003cp\u003eChristmas at The Summit is pure holiday magic\u003cstrong\u003e.\u003c/strong\u003e With the scent of fresh evergreens in the air and a feeling of old-fashioned cheer, the market transforms into a festive wonderland. Explore a bountiful selection of \u003cstrong\u003etrees\u003c/strong\u003e, \u003cstrong\u003egarlands\u003c/strong\u003e, \u003cstrong\u003edécor\u003c/strong\u003e, \u003cstrong\u003ehandmade bows\u003c/strong\u003e, \u003cstrong\u003estocking stuffers\u003c/strong\u003e, \u003cstrong\u003esweet treats\u003c/strong\u003e, and thousands of \u003cstrong\u003eornaments\u003c/strong\u003e that make the season unforgettable.\u003c/p\u003e",
+            "content": "<p>Christmas at The Summit is pure holiday magic<strong>.</strong> With the scent of fresh evergreens in the air and a feeling of old-fashioned cheer, the market transforms into a festive wonderland. Explore a bountiful selection of <strong>trees</strong>, <strong>garlands</strong>, <strong>décor</strong>, <strong>handmade bows</strong>, <strong>stocking stuffers</strong>, <strong>sweet treats</strong>, and thousands of <strong>ornaments</strong> that make the season unforgettable.</p>",
             "link_text": "See More",
             "link_url": "shopify://pages/christmas-season",
             "link_style": "solid"
@@ -914,9 +915,9 @@
         "separate_section_with_border": true,
         "image": "shopify://shop_images/D87B951F-A4CF-42F1-ABDA-E6B858C8E6A4.jpg",
         "image_size": "sm",
-        "subheading": "\u003cstrong\u003eKid's Fun Zone\u003c/strong\u003e \u0026 \u003cstrong\u003eThe Great Pumpkin Patch\u003c/strong\u003e Starts Soon!",
-        "title": "\u003cstrong\u003eFall Season Kickoff! 🎃🍂\u003c/strong\u003e",
-        "content": "\u003cp\u003eMark your calendar and bring the whole family. From hay bales to pumpkins and play zones to photo ops—fall at The Summit is where memories are made!\u003c/p\u003e",
+        "subheading": "<strong>Kid's Fun Zone</strong> & <strong>The Great Pumpkin Patch</strong> Starts Soon!",
+        "title": "<strong>Fall Season Kickoff! 🎃🍂</strong>",
+        "content": "<p>Mark your calendar and bring the whole family. From hay bales to pumpkins and play zones to photo ops—fall at The Summit is where memories are made!</p>",
         "button_link": "shopify://pages/fall-season",
         "button_text": "Starts Oct 1st",
         "expiration_date": "2025-10-01",
@@ -1168,8 +1169,8 @@
         "image_size": "sm",
         "image": "shopify://shop_images/header-spring_2.png",
         "subheading": "Keep me updated!",
-        "title": "\u003cstrong\u003eNewsletter\u003c/strong\u003e",
-        "content": "\u003ch6\u003eSubscribe to receive updates, access to exclusive deals, and events!\u003c/h6\u003e",
+        "title": "<strong>Newsletter</strong>",
+        "content": "<h6>Subscribe to receive updates, access to exclusive deals, and events!</h6>",
         "button_text": "Subscribe",
         "overlay_color": "#000000",
         "overlay_opacity": 43
