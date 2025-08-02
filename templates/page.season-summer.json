@@ -115,52 +115,6 @@
         "text_alignment": "center"
       }
     },
-    "multiple_media_with_text_YrgALm": {
-      "type": "multiple-media-with-text",
-      "blocks": {
-        "image_BfdNYU": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/D87B951F-A4CF-42F1-ABDA-E6B858C8E6A4.jpg",
-            "rotation": 0
-          }
-        },
-        "image_G74QjW": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/166C24AC-2972-484C-AAF2-480347EAD668.jpg",
-            "rotation": 0
-          }
-        }
-      },
-      "block_order": [
-        "image_BfdNYU",
-        "image_G74QjW"
-      ],
-      "disabled": true,
-      "name": "Multiple Media Display",
-      "settings": {
-        "color_scheme": "",
-        "reveal_on_scroll": true,
-        "separate_section_with_border": false,
-        "media_position_desktop": "before_text",
-        "media_position_mobile": "before_text",
-        "media_layout": "overlap",
-        "media_alignment": "center",
-        "media_alignment_offset": 0,
-        "media_mobile_alignment_offset": 0,
-        "text_alignment": "center",
-        "subheading": "<strong>Kid's Fun Zone</strong> & <strong>The Great Pumpkin Patch</strong> Opening Soon!",
-        "title": "<strong>Fall Season Kickoff! 🎃🍂</strong>",
-        "content": "<p>Mark your calendar and bring the whole family. From hay bales to pumpkins and play zones to photo ops—fall at The Summit is where memories are made!</p>",
-        "button_1_text": "Starts Oct 1st",
-        "button_1_link": "",
-        "button_1_style": "solid",
-        "button_2_text": "Learn More",
-        "button_2_link": "",
-        "button_2_style": "link"
-      }
-    },
     "multiple_media_with_text_Nfdye3": {
       "type": "multiple-media-with-text",
       "blocks": {
@@ -358,12 +312,12 @@
         "image_GEPzHc": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/A796F8A9-AB26-406F-8D0C-075E2D81F895.jpg",
-            "mobile_image": "shopify://shop_images/A796F8A9-AB26-406F-8D0C-075E2D81F895.jpg",
+            "image": "shopify://shop_images/1C73E3BD-66C5-4FBF-9E3E-7CAABADBEB97.jpg",
+            "mobile_image": "shopify://shop_images/1C73E3BD-66C5-4FBF-9E3E-7CAABADBEB97.jpg",
             "subheading": "",
             "title": "",
-            "mobile_text_position": "place-self-start-center text-center",
-            "desktop_text_position": "sm:place-self-start-center sm:text-center",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
             "content_max_width": 780,
             "button_1_text": "",
             "button_1_link": "shopify://pages/about-us",
@@ -385,8 +339,8 @@
         "image_PLNzck": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/FBA64CC5-1ACA-4920-9AEA-AED558A06774.jpg",
-            "mobile_image": "shopify://shop_images/FBA64CC5-1ACA-4920-9AEA-AED558A06774.jpg",
+            "image": "shopify://shop_images/5E007E98-FC59-44A5-AEBC-36D08FEB1E2A.jpg",
+            "mobile_image": "shopify://shop_images/5E007E98-FC59-44A5-AEBC-36D08FEB1E2A.jpg",
             "subheading": "",
             "title": "",
             "mobile_text_position": "place-self-start-center text-center",
@@ -412,12 +366,12 @@
         "image_jpk9fT": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/thesummitallseasonsmarket_1684356521_3104929997025433379_4788839409.jpg",
-            "mobile_image": "shopify://shop_images/thesummitallseasonsmarket_1684356521_3104929997025433379_4788839409.jpg",
+            "image": "shopify://shop_images/5C56784B-50B2-44F3-BD49-A9023AC7A8EE.jpg",
+            "mobile_image": "shopify://shop_images/5C56784B-50B2-44F3-BD49-A9023AC7A8EE.jpg",
             "subheading": "",
             "title": "",
-            "mobile_text_position": "place-self-start-center text-center",
-            "desktop_text_position": "sm:place-self-start-center sm:text-center",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
             "content_max_width": 780,
             "button_1_text": "",
             "button_1_link": "",
@@ -439,8 +393,8 @@
         "image_iHfLwW": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/C8028405-9386-441F-B0B9-65D994784542_e534460e-5d3e-4588-b106-9f0d8207f0c3.jpg",
-            "mobile_image": "shopify://shop_images/C8028405-9386-441F-B0B9-65D994784542_e534460e-5d3e-4588-b106-9f0d8207f0c3.jpg",
+            "image": "shopify://shop_images/DC2092AC-D470-4A63-A3CA-5306D902AD53.jpg",
+            "mobile_image": "shopify://shop_images/DC2092AC-D470-4A63-A3CA-5306D902AD53.jpg",
             "subheading": "",
             "title": "",
             "mobile_text_position": "place-self-center text-center",
@@ -466,12 +420,39 @@
         "image_fxEjdN": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/D46F5359-A9E1-4530-A625-1D27819857CB.jpg",
-            "mobile_image": "shopify://shop_images/D46F5359-A9E1-4530-A625-1D27819857CB.jpg",
+            "image": "shopify://shop_images/9B592B10-3378-4135-AD0D-E9B8A7E2BCDA.jpg",
+            "mobile_image": "shopify://shop_images/9B592B10-3378-4135-AD0D-E9B8A7E2BCDA.jpg",
             "subheading": "",
             "title": "",
             "mobile_text_position": "place-self-center-end text-end",
             "desktop_text_position": "sm:place-self-center-end sm:text-end",
+            "content_max_width": 780,
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_1_style": "solid",
+            "button_1_background": "#ffffff",
+            "button_1_text_color": "#000000",
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_style": "outline",
+            "button_2_background": "#ffffff",
+            "button_2_text_color": "#000000",
+            "background": "",
+            "background_opacity": 50,
+            "text_color": "#ffffff",
+            "border_color": "",
+            "gradient_overlay": "linear-gradient(180deg, rgba(54, 54, 54, 0.2), rgba(4, 4, 4, 0.65) 100%)"
+          }
+        },
+        "image_H8KYnz": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/293A255B-5075-4C3B-B43D-9F094FE879B7.jpg",
+            "mobile_image": "shopify://shop_images/293A255B-5075-4C3B-B43D-9F094FE879B7.jpg",
+            "subheading": "",
+            "title": "",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
             "content_max_width": 780,
             "button_1_text": "",
             "button_1_link": "",
@@ -496,7 +477,8 @@
         "image_PLNzck",
         "image_jpk9fT",
         "image_iHfLwW",
-        "image_fxEjdN"
+        "image_fxEjdN",
+        "image_H8KYnz"
       ],
       "name": "Mobile: Slideshow",
       "settings": {
@@ -509,7 +491,7 @@
         "cycle_speed": 4,
         "background": "#000000",
         "controls_color": "#ffffff",
-        "show_on_desktop": false,
+        "show_on_desktop": true,
         "show_on_mobile": true
       }
     },
@@ -1174,7 +1156,6 @@
     "main",
     "slideshow",
     "text_with_icons_qa6AkH",
-    "multiple_media_with_text_YrgALm",
     "multiple_media_with_text_Nfdye3",
     "media_grid_34CEgj",
     "slideshow_FahUhK",
