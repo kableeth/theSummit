@@ -322,15 +322,22 @@
     "rich_text_DbT6QH": {
       "type": "rich-text",
       "blocks": {
+        "subheading_eajem6": {
+          "type": "subheading",
+          "settings": {
+            "text": "Open Daily"
+          }
+        },
         "heading_GCDmFj": {
           "type": "heading",
           "settings": {
-            "text": "<strong>🌱Open Daily, All Seasons, Always Fresh 🌻</strong>",
+            "text": "<strong>🌱All Seasons, Always Fresh 🌻</strong>",
             "heading_tag": "h4"
           }
         }
       },
       "block_order": [
+        "subheading_eajem6",
         "heading_GCDmFj"
       ],
       "name": "t:sections.rich_text.presets.rich_text.name",
