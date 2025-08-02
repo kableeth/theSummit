@@ -66,54 +66,49 @@
         "show_on_mobile": true
       }
     },
-    "text_with_icons_qa6AkH": {
-      "type": "text-with-icons",
+    "multiple_media_with_text_fGJ6mk": {
+      "type": "multiple-media-with-text",
       "blocks": {
-        "item_BMVQkz": {
-          "type": "item",
+        "image_YTpgMr": {
+          "type": "image",
           "settings": {
-            "icon": "picto-love",
-            "icon_width": 24,
-            "mobile_icon_width": 24,
-            "title": "Family-Owned",
-            "content": "<p>Proudly rooted in 3 generations of Care</p>"
+            "image": "shopify://shop_images/B360BDDA-6EBB-4D1B-95E9-BF98DEE95947_8c7c1924-e99d-4669-8356-6755b8ad2e8c.jpg",
+            "rotation": 0
           }
         },
-        "item_yJaQ3Q": {
-          "type": "item",
+        "image_M7RY7x": {
+          "type": "image",
           "settings": {
-            "icon": "picto-tree",
-            "icon_width": 24,
-            "mobile_icon_width": 24,
-            "title": "Local Produce & Goods",
-            "content": "<p>Sourced from across the Midwest—and Always Fresh</p>"
-          }
-        },
-        "item_84GbCt": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-calendar",
-            "icon_width": 24,
-            "mobile_icon_width": 24,
-            "title": "Open All 4 Seasons",
-            "content": "<p>Celebrate something new every Season</p>"
+            "image": "shopify://shop_images/406525F1-A378-4053-B341-78AC97C2A2C8.jpg",
+            "rotation": 0
           }
         }
       },
       "block_order": [
-        "item_BMVQkz",
-        "item_yJaQ3Q",
-        "item_84GbCt"
+        "image_YTpgMr",
+        "image_M7RY7x"
       ],
-      "disabled": true,
-      "name": "t:sections.text_with_icons.presets.text_with_icons.name",
+      "name": "t:sections.multiple_media_with_text.presets.multiple_media_with_text.name",
       "settings": {
-        "color_scheme": "scheme-1",
+        "color_scheme": "",
+        "reveal_on_scroll": true,
         "separate_section_with_border": true,
-        "stack_on_mobile": false,
-        "icon_color": "",
-        "text_color": "",
-        "text_alignment": "center"
+        "media_position_desktop": "before_text",
+        "media_position_mobile": "before_text",
+        "media_layout": "overlap",
+        "media_alignment": "center",
+        "media_alignment_offset": 0,
+        "media_mobile_alignment_offset": 0,
+        "text_alignment": "center",
+        "subheading": "with The Summit",
+        "title": "Celebrate Fall",
+        "content": "<p>Oh how we love Fall in Missouri....</p><p>As the summer winds down & the crisp weather moves in, The Summit begins to build the fall experience at the Kirkwood Farmers' Market.</p><p>While the market shed continues to accommodate our <strong>great</strong> <strong>produce</strong> and <strong>local foods</strong>, an added <strong>150 + kinds of candy and treats</strong>, as well as a great selection of <strong>seasonal décor</strong> round out the under roof selections.</p><p>The Summit fills the rest of the market with all things Fresh Midwest Fall, like pumpkins, mums, pansies and more.</p><p>Treat yourself to a fun hour or a two... perusing the more than <strong>30 kinds of pumpkins</strong>, hundreds of <strong>treats</strong>, as well as all the accruements to <strong>deck your halls</strong> for fall (not to mention your front porch).</p>",
+        "button_1_text": "",
+        "button_1_link": "",
+        "button_1_style": "solid",
+        "button_2_text": "",
+        "button_2_link": "",
+        "button_2_style": "solid"
       }
     },
     "countdown_cYNFpL": {
@@ -470,7 +465,7 @@
   "order": [
     "main",
     "slideshow",
-    "text_with_icons_qa6AkH",
+    "multiple_media_with_text_fGJ6mk",
     "countdown_cYNFpL",
     "media_grid_34CEgj",
     "rich_text_DbT6QH",
