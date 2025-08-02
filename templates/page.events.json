@@ -18,41 +18,79 @@
         "page_width": "xs"
       }
     },
-    "image_with_text_block_aJRDhC": {
-      "type": "image-with-text-block",
+    "slideshow_JL39KN": {
+      "type": "slideshow",
       "blocks": {
-        "liquid_9ymDF3": {
-          "type": "liquid",
+        "image_DKYQUx": {
+          "type": "image",
           "settings": {
-            "liquid": "<img \n  src=\"{{ 'Stamp_AllSeasonsTheSummit.png' | file_url }}\" \n  alt=\"The Summit All Seasons Stamp\" \n  srcset=\"{{ 'Stamp_AllSeasonsTheSummit.png' | file_url }}?width=250 250w, {{ 'Stamp_AllSeasonsTheSummit.png' | file_url }}?width=350 350w\" \n  width=\"350\" \n  height=\"350\" \n  sizes=\"250px\" \n  style=\"--image-max-width: 250px\" \n  class=\"constrained-image\" />"
+            "image": "shopify://shop_images/WINTER_e48dfbbf-25c8-4f6a-a27c-1fed6b29ab4e.png",
+            "mobile_image": "shopify://shop_images/WINTER_e48dfbbf-25c8-4f6a-a27c-1fed6b29ab4e.png",
+            "subheading": "",
+            "title": "Events",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "content_max_width": 780,
+            "button_1_text": "Year-round celebrations",
+            "button_1_link": "",
+            "button_1_style": "outline",
+            "button_1_background": "#ffffff",
+            "button_1_text_color": "#000000",
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_style": "outline",
+            "button_2_background": "#ffffff",
+            "button_2_text_color": "#000000",
+            "background": "",
+            "background_opacity": 50,
+            "text_color": "#ffffff",
+            "border_color": "",
+            "gradient_overlay": "linear-gradient(180deg, rgba(54, 54, 54, 0.2), rgba(4, 4, 4, 0.65) 100%)"
           }
         },
-        "liquid_J98pQg": {
-          "type": "liquid",
+        "image_fcfAre": {
+          "type": "image",
           "settings": {
-            "liquid": "<h1>Events</h1>"
-          }
-        },
-        "liquid_9f3TqX": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<button type=\"button\" class=\"button button--outline\" style=\"--button-background: 255 255 255; --button-outline-color: 255 255 255; --button-text-color: 0 0 0;\">\n  <strong>Year-Round Celebrations</strong>\n</button>"
+            "subheading": "Tell your story",
+            "title": "Slide 2",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "content_max_width": 780,
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_1_style": "solid",
+            "button_1_background": "#ffffff",
+            "button_1_text_color": "#000000",
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_style": "outline",
+            "button_2_background": "#ffffff",
+            "button_2_text_color": "#000000",
+            "background": "",
+            "background_opacity": 50,
+            "text_color": "#ffffff",
+            "border_color": "",
+            "gradient_overlay": "linear-gradient(180deg, rgba(54, 54, 54, 0.2) 0%, rgba(4, 4, 4, 0.65) 100%)"
           }
         }
       },
       "block_order": [
-        "liquid_9ymDF3",
-        "liquid_J98pQg",
-        "liquid_9f3TqX"
+        "image_DKYQUx",
+        "image_fcfAre"
       ],
-      "name": "t:sections.image_with_text_block.presets.image_with_text_block.name",
+      "name": "t:sections.slideshow.presets.slideshow.name",
       "settings": {
-        "color_scheme": "scheme-4",
-        "image_size": "sm",
-        "image": "shopify://shop_images/WINTER_e48dfbbf-25c8-4f6a-a27c-1fed6b29ab4e.png",
-        "content_width": "sm",
-        "enable_parallax": true,
-        "remove_vertical_spacing": true
+        "allow_transparent_header": true,
+        "show_next_section_button": true,
+        "media_size": "auto",
+        "show_initial_transition": false,
+        "autoplay": true,
+        "autoplay_pause_on_video": true,
+        "cycle_speed": 5,
+        "background": "#000000",
+        "controls_color": "#ffffff",
+        "show_on_desktop": true,
+        "show_on_mobile": true
       }
     },
     "multiple_media_with_text_qrfrrm": {
@@ -170,7 +208,9 @@
         "spacing": "sm",
         "subheading": "",
         "title": "",
-        "content": ""
+        "content": "",
+        "show_on_desktop": true,
+        "show_on_mobile": true
       }
     },
     "multiple_media_with_text_KNwDFA": {
@@ -288,7 +328,9 @@
         "spacing": "md",
         "subheading": "",
         "title": "",
-        "content": ""
+        "content": "",
+        "show_on_desktop": true,
+        "show_on_mobile": true
       }
     },
     "multiple_media_with_text_kXyxye": {
@@ -404,7 +446,9 @@
         "spacing": "md",
         "subheading": "",
         "title": "",
-        "content": ""
+        "content": "",
+        "show_on_desktop": true,
+        "show_on_mobile": true
       }
     },
     "newsletter_99MUHa": {
@@ -426,7 +470,7 @@
   },
   "order": [
     "main",
-    "image_with_text_block_aJRDhC",
+    "slideshow_JL39KN",
     "multiple_media_with_text_qrfrrm",
     "media_grid_FNeMBP",
     "multiple_media_with_text_KNwDFA",
