@@ -9,56 +9,1186 @@
  */
 {
   "sections": {
-    "main": {
-      "type": "main-page",
-      "disabled": true,
-      "settings": {
-        "color_scheme": "",
-        "show_title": true,
-        "page_width": "xs"
-      }
-    },
-    "image_with_text_j3j4H4": {
-      "type": "image-with-text",
+    "slideshow": {
+      "type": "slideshow",
       "blocks": {
-        "subheading_pDdejU": {
-          "type": "subheading",
+        "slide-1": {
+          "type": "image",
           "settings": {
-            "text": "Subheading"
-          }
-        },
-        "heading_PL4yji": {
-          "type": "heading",
-          "settings": {
-            "text": "Image with text",
-            "heading_tag": "h1"
-          }
-        },
-        "richtext_8fA836": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "image": "shopify://shop_images/header-spring_2.png",
+            "subheading": "WITH THE SUMMIT",
+            "title": "\u003cstrong\u003eCelebrate Spring\u003c/strong\u003e",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "content_max_width": 600,
+            "button_1_text": "BRINGING THE BEST OF EVERY SEASON SINCE 1978",
+            "button_1_link": "shopify://pages/about-us",
+            "button_1_style": "outline",
+            "button_1_background": "#ffffff",
+            "button_1_text_color": "#000000",
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_style": "outline",
+            "button_2_background": "#ffffff",
+            "button_2_text_color": "#000000",
+            "background": "",
+            "background_opacity": 50,
+            "text_color": "#ffffff",
+            "border_color": "",
+            "gradient_overlay": "linear-gradient(180deg, rgba(54, 54, 54, 0.2), rgba(4, 4, 4, 0.65) 100%)"
           }
         }
       },
       "block_order": [
-        "subheading_pDdejU",
-        "heading_PL4yji",
-        "richtext_8fA836"
+        "slide-1"
       ],
-      "name": "t:sections.image_with_text.presets.image_with_text.name",
+      "settings": {
+        "allow_transparent_header": true,
+        "show_next_section_button": true,
+        "media_size": "sm",
+        "show_initial_transition": true,
+        "autoplay": true,
+        "autoplay_pause_on_video": true,
+        "cycle_speed": 5,
+        "background": "#000000",
+        "controls_color": "#ffffff",
+        "show_on_desktop": true,
+        "show_on_mobile": true
+      }
+    },
+    "text_with_icons_qa6AkH": {
+      "type": "text-with-icons",
+      "blocks": {
+        "item_BMVQkz": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-love",
+            "icon_width": 24,
+            "mobile_icon_width": 24,
+            "title": "Family-Owned",
+            "content": "\u003cp\u003eProudly rooted in 4 generations of Care\u003c/p\u003e"
+          }
+        },
+        "item_yJaQ3Q": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-tree",
+            "icon_width": 24,
+            "mobile_icon_width": 24,
+            "title": "Local Produce \u0026 Goods",
+            "content": "\u003cp\u003eSourced from across the Midwest—and Always Fresh\u003c/p\u003e"
+          }
+        },
+        "item_84GbCt": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-calendar",
+            "icon_width": 24,
+            "mobile_icon_width": 24,
+            "title": "Open All 4 Seasons",
+            "content": "\u003cp\u003eCelebrate something new every Season\u003c/p\u003e"
+          }
+        }
+      },
+      "block_order": [
+        "item_BMVQkz",
+        "item_yJaQ3Q",
+        "item_84GbCt"
+      ],
+      "disabled": true,
+      "name": "Icon Text with Highlights",
+      "settings": {
+        "color_scheme": "scheme-1",
+        "separate_section_with_border": true,
+        "stack_on_mobile": false,
+        "icon_color": "",
+        "text_color": "",
+        "text_alignment": "center"
+      }
+    },
+    "multiple_media_with_text_YrgALm": {
+      "type": "multiple-media-with-text",
+      "blocks": {
+        "image_BfdNYU": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/D87B951F-A4CF-42F1-ABDA-E6B858C8E6A4.jpg",
+            "rotation": 0
+          }
+        },
+        "image_G74QjW": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/166C24AC-2972-484C-AAF2-480347EAD668.jpg",
+            "rotation": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_BfdNYU",
+        "image_G74QjW"
+      ],
+      "disabled": true,
+      "name": "Multiple Media Display",
+      "settings": {
+        "color_scheme": "",
+        "reveal_on_scroll": true,
+        "separate_section_with_border": false,
+        "media_position_desktop": "before_text",
+        "media_position_mobile": "before_text",
+        "media_layout": "overlap",
+        "media_alignment": "center",
+        "media_alignment_offset": 0,
+        "media_mobile_alignment_offset": 0,
+        "text_alignment": "center",
+        "subheading": "\u003cstrong\u003eKid's Fun Zone\u003c/strong\u003e \u0026 \u003cstrong\u003eThe Great Pumpkin Patch\u003c/strong\u003e Opening Soon!",
+        "title": "\u003cstrong\u003eFall Season Kickoff! 🎃🍂\u003c/strong\u003e",
+        "content": "\u003cp\u003eMark your calendar and bring the whole family. From hay bales to pumpkins and play zones to photo ops—fall at The Summit is where memories are made!\u003c/p\u003e",
+        "button_1_text": "Starts Oct 1st",
+        "button_1_link": "",
+        "button_1_style": "solid",
+        "button_2_text": "Learn More",
+        "button_2_link": "",
+        "button_2_style": "link"
+      }
+    },
+    "multiple_media_with_text_Nfdye3": {
+      "type": "multiple-media-with-text",
+      "blocks": {
+        "image_LhRFAW": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/DJI_0656_1.jpg",
+            "rotation": 0
+          }
+        },
+        "image_MXbpT4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Enorm-Gallery75712-SPRING-GENERAL-IMAGE-7-1642797158-61eb1866a07fe.webp",
+            "rotation": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_LhRFAW",
+        "image_MXbpT4"
+      ],
+      "name": "Image Showcase",
+      "settings": {
+        "color_scheme": "",
+        "reveal_on_scroll": true,
+        "separate_section_with_border": true,
+        "media_position_desktop": "after_text",
+        "media_position_mobile": "before_text",
+        "media_layout": "overlap",
+        "media_alignment": "center",
+        "media_alignment_offset": 0,
+        "media_mobile_alignment_offset": 0,
+        "text_alignment": "center",
+        "subheading": "\u003cstrong\u003eSpring brings more than just May flowers!\u003c/strong\u003e",
+        "title": "\u003cstrong\u003eAt The Summit\u003c/strong\u003e",
+        "content": "\u003cp\u003e\u003c/p\u003e\u003cp\u003eYou’ll find a vibrant selection of blooming annuals in flats and pots (3”–8”), plus mixed planters in all sizes. Our \u003cstrong\u003epremium perennials\u003c/strong\u003e are locally grown and include both classic and new varieties, along with a strong lineup of \u003cstrong\u003eMissouri and US native plants\u003c/strong\u003e for low-maintenance gardens.\u003c/p\u003e\u003cp\u003eWe offer \u003cstrong\u003ehanging baskets\u003c/strong\u003e (10–14”) for sun or shade, including colorful blooms and lush ferns. The \u003cstrong\u003eherb collection\u003c/strong\u003e is extensive, with culinary and specialty varieties in 3”, 4”, and gallon pots.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eTropicals\u003c/strong\u003e abound—Mandevilla, Hibiscus, Banana Trees, Cannas, and more—perfect for decking out your patio. As the season cools, we transition to \u003cstrong\u003efall favorites\u003c/strong\u003e like hardy mums, aster, pansies, and flowering kale.\u003c/p\u003e\u003cp\u003eOur friendly, knowledgeable staff is always ready with gardening advice. We also carry pottery (lightweight and ceramic), basket liners, and top-quality soils like local favorite \u003cspan style=\"text-decoration:underline\"\u003e\u003cem\u003eMark’s Magic Soil\u003c/em\u003e\u003c/span\u003e.\u003c/p\u003e",
+        "button_1_text": "",
+        "button_1_link": "",
+        "button_1_style": "solid",
+        "button_2_text": "",
+        "button_2_link": "",
+        "button_2_style": "solid"
+      }
+    },
+    "media_grid_34CEgj": {
+      "type": "media-grid",
+      "blocks": {
+        "image_aeQyNw": {
+          "type": "image",
+          "settings": {
+            "color_scheme": "",
+            "image": "shopify://shop_images/A796F8A9-AB26-406F-8D0C-075E2D81F895.jpg",
+            "column_count": "6",
+            "row_count": 3,
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "place-self-center text-center",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "image_WF4cTC": {
+          "type": "image",
+          "settings": {
+            "color_scheme": "",
+            "image": "shopify://shop_images/AE1BC874-9723-442A-A8BF-5933DA3AFD11.jpg",
+            "column_count": "3",
+            "row_count": 3,
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "place-self-center text-center",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "image_xamyQT": {
+          "type": "image",
+          "settings": {
+            "color_scheme": "scheme-4",
+            "image": "shopify://shop_images/F9094695-776F-498F-A0E2-0619457B3E2C.jpg",
+            "column_count": "3",
+            "row_count": 2,
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "place-self-center text-center",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "image_JU3afc": {
+          "type": "image",
+          "settings": {
+            "color_scheme": "scheme-4",
+            "image": "shopify://shop_images/C8028405-9386-441F-B0B9-65D994784542_e534460e-5d3e-4588-b106-9f0d8207f0c3.jpg",
+            "column_count": "3",
+            "row_count": 2,
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "place-self-center text-center",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "image_yrbcf4": {
+          "type": "image",
+          "settings": {
+            "color_scheme": "",
+            "image": "shopify://shop_images/C9A33DBD-AA47-4B82-A1C2-78478E9774D3.jpg",
+            "column_count": "3",
+            "row_count": 2,
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "place-self-center text-center",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "image_EGyJm8": {
+          "type": "image",
+          "settings": {
+            "color_scheme": "",
+            "image": "shopify://shop_images/3011831B-5DA3-4D9A-AE6E-AA4DEB81E18E.jpg",
+            "column_count": "6",
+            "row_count": 2,
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "place-self-center text-center",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "image_T3Bwfg": {
+          "type": "image",
+          "settings": {
+            "color_scheme": "",
+            "image": "shopify://shop_images/D46F5359-A9E1-4530-A625-1D27819857CB.jpg",
+            "column_count": "3",
+            "row_count": 1,
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "place-self-center text-center",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_aeQyNw",
+        "image_WF4cTC",
+        "image_xamyQT",
+        "image_JU3afc",
+        "image_yrbcf4",
+        "image_EGyJm8",
+        "image_T3Bwfg"
+      ],
+      "name": "Media Grid Display",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": false,
+        "desktop_row_height": 140,
+        "mobile_row_height": 150,
+        "section_width": "sm",
+        "spacing": "xs",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "show_on_desktop": true,
+        "show_on_mobile": false
+      }
+    },
+    "slideshow_FahUhK": {
+      "type": "slideshow",
+      "blocks": {
+        "image_GEPzHc": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/A796F8A9-AB26-406F-8D0C-075E2D81F895.jpg",
+            "mobile_image": "shopify://shop_images/A796F8A9-AB26-406F-8D0C-075E2D81F895.jpg",
+            "subheading": "",
+            "title": "",
+            "mobile_text_position": "place-self-start-center text-center",
+            "desktop_text_position": "sm:place-self-start-center sm:text-center",
+            "content_max_width": 780,
+            "button_1_text": "",
+            "button_1_link": "shopify://pages/about-us",
+            "button_1_style": "outline",
+            "button_1_background": "#ffffff",
+            "button_1_text_color": "#000000",
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_style": "outline",
+            "button_2_background": "#ffffff",
+            "button_2_text_color": "#000000",
+            "background": "",
+            "background_opacity": 50,
+            "text_color": "#ffffff",
+            "border_color": "",
+            "gradient_overlay": "linear-gradient(180deg, rgba(54, 54, 54, 0.2), rgba(4, 4, 4, 0.65) 100%)"
+          }
+        },
+        "image_PLNzck": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/FBA64CC5-1ACA-4920-9AEA-AED558A06774.jpg",
+            "mobile_image": "shopify://shop_images/FBA64CC5-1ACA-4920-9AEA-AED558A06774.jpg",
+            "subheading": "",
+            "title": "",
+            "mobile_text_position": "place-self-start-center text-center",
+            "desktop_text_position": "sm:place-self-start-center sm:text-center",
+            "content_max_width": 780,
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_1_style": "solid",
+            "button_1_background": "#ffffff",
+            "button_1_text_color": "#000000",
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_style": "outline",
+            "button_2_background": "#ffffff",
+            "button_2_text_color": "#000000",
+            "background": "",
+            "background_opacity": 50,
+            "text_color": "#ffffff",
+            "border_color": "",
+            "gradient_overlay": "linear-gradient(180deg, rgba(54, 54, 54, 0.2), rgba(4, 4, 4, 0.65) 100%)"
+          }
+        },
+        "image_jpk9fT": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/thesummitallseasonsmarket_1684356521_3104929997025433379_4788839409.jpg",
+            "mobile_image": "shopify://shop_images/thesummitallseasonsmarket_1684356521_3104929997025433379_4788839409.jpg",
+            "subheading": "",
+            "title": "",
+            "mobile_text_position": "place-self-start-center text-center",
+            "desktop_text_position": "sm:place-self-start-center sm:text-center",
+            "content_max_width": 780,
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_1_style": "solid",
+            "button_1_background": "#ffffff",
+            "button_1_text_color": "#000000",
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_style": "outline",
+            "button_2_background": "#ffffff",
+            "button_2_text_color": "#000000",
+            "background": "",
+            "background_opacity": 50,
+            "text_color": "#ffffff",
+            "border_color": "",
+            "gradient_overlay": "linear-gradient(180deg, rgba(54, 54, 54, 0.2), rgba(4, 4, 4, 0.65) 100%)"
+          }
+        },
+        "image_iHfLwW": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/C8028405-9386-441F-B0B9-65D994784542_e534460e-5d3e-4588-b106-9f0d8207f0c3.jpg",
+            "mobile_image": "shopify://shop_images/C8028405-9386-441F-B0B9-65D994784542_e534460e-5d3e-4588-b106-9f0d8207f0c3.jpg",
+            "subheading": "",
+            "title": "",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "content_max_width": 780,
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_1_style": "solid",
+            "button_1_background": "#ffffff",
+            "button_1_text_color": "#000000",
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_style": "outline",
+            "button_2_background": "#ffffff",
+            "button_2_text_color": "#000000",
+            "background": "",
+            "background_opacity": 50,
+            "text_color": "#ffffff",
+            "border_color": "",
+            "gradient_overlay": "linear-gradient(180deg, rgba(54, 54, 54, 0.2), rgba(4, 4, 4, 0.65) 100%)"
+          }
+        },
+        "image_fxEjdN": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/D46F5359-A9E1-4530-A625-1D27819857CB.jpg",
+            "mobile_image": "shopify://shop_images/D46F5359-A9E1-4530-A625-1D27819857CB.jpg",
+            "subheading": "",
+            "title": "",
+            "mobile_text_position": "place-self-center-end text-end",
+            "desktop_text_position": "sm:place-self-center-end sm:text-end",
+            "content_max_width": 780,
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_1_style": "solid",
+            "button_1_background": "#ffffff",
+            "button_1_text_color": "#000000",
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_style": "outline",
+            "button_2_background": "#ffffff",
+            "button_2_text_color": "#000000",
+            "background": "",
+            "background_opacity": 50,
+            "text_color": "#ffffff",
+            "border_color": "",
+            "gradient_overlay": "linear-gradient(180deg, rgba(54, 54, 54, 0.2), rgba(4, 4, 4, 0.65) 100%)"
+          }
+        }
+      },
+      "block_order": [
+        "image_GEPzHc",
+        "image_PLNzck",
+        "image_jpk9fT",
+        "image_iHfLwW",
+        "image_fxEjdN"
+      ],
+      "name": "Mobile: Slideshow",
+      "settings": {
+        "allow_transparent_header": false,
+        "show_next_section_button": true,
+        "media_size": "sm",
+        "show_initial_transition": false,
+        "autoplay": true,
+        "autoplay_pause_on_video": false,
+        "cycle_speed": 4,
+        "background": "#000000",
+        "controls_color": "#ffffff",
+        "show_on_desktop": false,
+        "show_on_mobile": true
+      }
+    },
+    "rich_text_DbT6QH": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_GCDmFj": {
+          "type": "heading",
+          "settings": {
+            "text": "\u003cstrong\u003e🌱 Open All Seasons, Always Fresh 🌻\u003c/strong\u003e",
+            "heading_tag": "h4"
+          }
+        }
+      },
+      "block_order": [
+        "heading_GCDmFj"
+      ],
+      "disabled": true,
+      "name": "Rich Text Header",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": false,
+        "content_width": "sm",
+        "text_position": "center",
+        "remove_vertical_spacing": false,
+        "show_on_desktop": false,
+        "show_on_mobile": true
+      }
+    },
+    "image_with_text_block_R6Rkmx": {
+      "type": "image-with-text-block",
+      "blocks": {
+        "richtext_8DegpP": {
+          "type": "richtext",
+          "settings": {
+            "content": "\u003ch3\u003e\u003cstrong\u003eSpring\u003c/strong\u003e\u003c/h3\u003e"
+          }
+        },
+        "richtext_i6WqV6": {
+          "type": "richtext",
+          "settings": {
+            "content": "\u003cp\u003eFrom vibrant \u003cstrong\u003elocal produce\u003c/strong\u003e to a lush selection of \u003cstrong\u003eplants\u003c/strong\u003e, the market comes alive with color, flavor, and \u003cstrong\u003ecommunity spirit. \u003c/strong\u003eMaking it a season you won’t want to miss.\u003c/p\u003e"
+          }
+        },
+        "link_gfycCM": {
+          "type": "link",
+          "settings": {
+            "text": "See More",
+            "url": "shopify://pages/spring-off-season"
+          }
+        }
+      },
+      "block_order": [
+        "richtext_8DegpP",
+        "richtext_i6WqV6",
+        "link_gfycCM"
+      ],
+      "disabled": true,
+      "name": "Spring Highlight",
+      "settings": {
+        "color_scheme": "scheme-4",
+        "image_size": "sm",
+        "image": "shopify://shop_images/4BEF2A59-56AA-4E37-97B1-01AAE8047FB0.jpg",
+        "content_width": "md",
+        "enable_parallax": true,
+        "remove_vertical_spacing": true,
+        "overlay_color": "#000000",
+        "overlay_opacity": 30,
+        "show_on_desktop": false,
+        "show_on_mobile": true
+      }
+    },
+    "rich_text_bWNXHA": {
+      "type": "rich-text",
+      "blocks": {
+        "button_68UmRd": {
+          "type": "button",
+          "settings": {
+            "style": "outline",
+            "text": "Every Season Tells a Story",
+            "url": "",
+            "background": "",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "button_68UmRd"
+      ],
+      "disabled": true,
+      "name": "Mobile: Rich Text Header",
       "settings": {
         "color_scheme": "",
         "separate_section_with_border": true,
-        "reveal_on_scroll": true,
-        "image_position": "start",
         "content_width": "sm",
-        "remove_vertical_spacing": true
+        "text_position": "center",
+        "remove_vertical_spacing": false,
+        "show_on_desktop": false,
+        "show_on_mobile": true
+      }
+    },
+    "image_with_text_block_KTemAB": {
+      "type": "image-with-text-block",
+      "blocks": {
+        "richtext_PzidBb": {
+          "type": "richtext",
+          "settings": {
+            "content": "\u003ch3\u003eSummer\u003c/h3\u003e"
+          }
+        },
+        "richtext_rqWMYz": {
+          "type": "richtext",
+          "settings": {
+            "content": "\u003cp\u003eShop \u003cstrong\u003efresh produce\u003c/strong\u003e, \u003cstrong\u003ebaked goods\u003c/strong\u003e, and seasonal favorites. Explore the \u003cstrong\u003eboutique\u003c/strong\u003e and \u003cstrong\u003egarden shop\u003c/strong\u003e—there's always something new and welcoming.\u003c/p\u003e"
+          }
+        },
+        "link_ycYNch": {
+          "type": "link",
+          "settings": {
+            "text": "See More",
+            "url": "shopify://pages/summer-season"
+          }
+        }
+      },
+      "block_order": [
+        "richtext_PzidBb",
+        "richtext_rqWMYz",
+        "link_ycYNch"
+      ],
+      "disabled": true,
+      "name": "Mobile: Summer Highlight",
+      "settings": {
+        "color_scheme": "scheme-4",
+        "image_size": "sm",
+        "image": "shopify://shop_images/header_summer_with_black_opacity.png",
+        "mobile_image": "shopify://shop_images/header_summer_with_black_opacity.png",
+        "content_width": "md",
+        "enable_parallax": true,
+        "remove_vertical_spacing": true,
+        "overlay_color": "#000000",
+        "overlay_opacity": 0,
+        "show_on_desktop": false,
+        "show_on_mobile": true
+      }
+    },
+    "image_with_text_block_hpEmVQ": {
+      "type": "image-with-text-block",
+      "blocks": {
+        "richtext_67P3Jh": {
+          "type": "richtext",
+          "settings": {
+            "content": "\u003ch3\u003eFall\u003c/h3\u003e"
+          }
+        },
+        "richtext_qJqnQV": {
+          "type": "richtext",
+          "settings": {
+            "content": "\u003cp\u003eFalling leaves, towering cornstalks, golden straw bales \u0026 a pumpkin buffet set the stage for \u003ca href=\"/pages/fall-season\" title=\"Fall Season\"\u003e\u003cstrong\u003eThe Great Pumpkin Patch\u003c/strong\u003e \u0026 \u003cstrong\u003eFall Fun Zone Experience\u003c/strong\u003e\u003c/a\u003e at The Summit All Seasons Market in Kirkwood Farmers Market.\u003c/p\u003e"
+          }
+        },
+        "link_nNg7x9": {
+          "type": "link",
+          "settings": {
+            "text": "See More",
+            "url": "shopify://pages/fall-season"
+          }
+        }
+      },
+      "block_order": [
+        "richtext_67P3Jh",
+        "richtext_qJqnQV",
+        "link_nNg7x9"
+      ],
+      "disabled": true,
+      "name": "Mobile: Fall Highlight",
+      "settings": {
+        "color_scheme": "scheme-4",
+        "image_size": "sm",
+        "image": "shopify://shop_images/header-fall.jpg",
+        "mobile_image": "shopify://shop_images/header-fall.jpg",
+        "content_width": "md",
+        "enable_parallax": true,
+        "remove_vertical_spacing": true,
+        "overlay_color": "#000000",
+        "overlay_opacity": 40,
+        "show_on_desktop": false,
+        "show_on_mobile": true
+      }
+    },
+    "image_with_text_block_MbHTCx": {
+      "type": "image-with-text-block",
+      "blocks": {
+        "richtext_UPtd6W": {
+          "type": "richtext",
+          "settings": {
+            "content": "\u003ch3\u003eChristmas\u003c/h3\u003e"
+          }
+        },
+        "richtext_nN68p6": {
+          "type": "richtext",
+          "settings": {
+            "content": "\u003cp\u003e\u003cstrong\u003eChristmas at The Summit is holiday magic.\u003c/strong\u003e Enjoy the scent of evergreens and festive cheer as you shop trees, garlands, décor, bows, treats, and thousands of ornaments.\u003c/p\u003e"
+          }
+        },
+        "link_6JrmQG": {
+          "type": "link",
+          "settings": {
+            "text": "See More",
+            "url": "shopify://pages/christmas-season"
+          }
+        }
+      },
+      "block_order": [
+        "richtext_UPtd6W",
+        "richtext_nN68p6",
+        "link_6JrmQG"
+      ],
+      "disabled": true,
+      "name": "Mobile: Christmas Highlight",
+      "settings": {
+        "color_scheme": "scheme-4",
+        "image_size": "sm",
+        "image": "shopify://shop_images/Summit_KirkwoodMarket_Winter_6bae9f83-5930-4d85-b258-57351fb606dd.png",
+        "mobile_image": "shopify://shop_images/Summit_KirkwoodMarket_Winter_6bae9f83-5930-4d85-b258-57351fb606dd.png",
+        "content_width": "md",
+        "enable_parallax": true,
+        "remove_vertical_spacing": true,
+        "overlay_color": "#000000",
+        "overlay_opacity": 26,
+        "show_on_desktop": false,
+        "show_on_mobile": true
+      }
+    },
+    "rich_text_AKcGBb": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_K9qPUF": {
+          "type": "subheading",
+          "settings": {
+            "text": "Every Season Tells a Story"
+          }
+        },
+        "heading_iKtkk6": {
+          "type": "heading",
+          "settings": {
+            "text": "\u003cstrong\u003e🌱 Open All Seasons, Always Fresh 🌻\u003c/strong\u003e",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_3FjKVd": {
+          "type": "richtext",
+          "settings": {
+            "content": ""
+          }
+        }
+      },
+      "block_order": [
+        "subheading_K9qPUF",
+        "heading_iKtkk6",
+        "richtext_3FjKVd"
+      ],
+      "disabled": true,
+      "name": "Desktop: Rich Text Header",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": false,
+        "content_width": "sm",
+        "text_position": "center",
+        "remove_vertical_spacing": true,
+        "show_on_desktop": true,
+        "show_on_mobile": false
+      }
+    },
+    "image-with-text-scroll": {
+      "type": "images-with-text-scroll",
+      "blocks": {
+        "image_with_text_GqnChV": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify://shop_images/OPTION_2_Collection_Tile_Image_for_SPRING_PLANTS_FLOWERS.jpg",
+            "subheading": "",
+            "title": "Spring",
+            "content": "\u003cp\u003eFrom vibrant \u003cstrong\u003elocal produce\u003c/strong\u003e to a lush selection of \u003cstrong\u003eplants\u003c/strong\u003e, the market comes alive with color, flavor, and \u003cstrong\u003ecommunity spirit\u003c/strong\u003e—making it a season you won't want to miss.\u003c/p\u003e",
+            "link_text": "See More",
+            "link_url": "shopify://pages/spring-off-season",
+            "link_style": "solid"
+          }
+        },
+        "item-1": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify://shop_images/Collection_Tile_Image_for_SPRING_PRODUCE.jpg",
+            "subheading": "",
+            "title": "\u003cstrong\u003eSummer\u003c/strong\u003e",
+            "content": "\u003cp\u003eExperience the best of Midwest summer at The Summit in downtown Kirkwood! Our market is brimming with \u003cstrong\u003elocal produce\u003c/strong\u003e, \u003cstrong\u003efresh bakery goods\u003c/strong\u003e, \u003cstrong\u003ecraft foods\u003c/strong\u003e, and the irresistible scent of \u003cstrong\u003eripe peaches\u003c/strong\u003e, \u003cstrong\u003ejust-picked tomatoes\u003c/strong\u003e, and \u003cstrong\u003esweet\u003c/strong\u003e \u003cstrong\u003emelons\u003c/strong\u003e. Taste seasonal favorites like \u003cstrong\u003eberries\u003c/strong\u003e and \u003cstrong\u003echerries\u003c/strong\u003e as you explore. Enjoy perfectly crisp \u003cstrong\u003esweet corn\u003c/strong\u003e—often \u003cstrong\u003eharvested that very morning\u003c/strong\u003e—and discover treasures in our summer \u003cstrong\u003eboutique\u003c/strong\u003e or \u003cstrong\u003egarden shop\u003c/strong\u003e. Every visit offers something new, and our friendly staff will always make you feel like family.\u003c/p\u003e",
+            "link_text": "See More",
+            "link_url": "shopify://pages/summer-season",
+            "link_style": "solid"
+          }
+        },
+        "item-2": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify://shop_images/TheSummit-History.png",
+            "subheading": "",
+            "title": "Fall",
+            "content": "\u003cp\u003eFalling leaves, towering cornstalks, golden straw bales \u0026 a pumpkin buffet set the stage for \u003ca href=\"/pages/fall-season\" title=\"Fall Season\"\u003e\u003cstrong\u003eThe Great Pumpkin Patch\u003c/strong\u003e \u0026 \u003cstrong\u003eFall Fun Zone Experience\u003c/strong\u003e\u003c/a\u003e at \u003cstrong\u003eThe Summit\u003c/strong\u003e All Seasons Market in Kirkwood Farmers Market.\u003c/p\u003e",
+            "link_text": "See More",
+            "link_url": "shopify://pages/fall-season",
+            "link_style": "solid"
+          }
+        },
+        "item-3": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify://shop_images/Summit_KirkwoodMarket_Winter_6bae9f83-5930-4d85-b258-57351fb606dd.png",
+            "subheading": "",
+            "title": "Christmas",
+            "content": "\u003cp\u003eChristmas at The Summit is pure holiday magic\u003cstrong\u003e.\u003c/strong\u003e With the scent of fresh evergreens in the air and a feeling of old-fashioned cheer, the market transforms into a festive wonderland. Explore a bountiful selection of \u003cstrong\u003etrees\u003c/strong\u003e, \u003cstrong\u003egarlands\u003c/strong\u003e, \u003cstrong\u003edécor\u003c/strong\u003e, \u003cstrong\u003ehandmade bows\u003c/strong\u003e, \u003cstrong\u003estocking stuffers\u003c/strong\u003e, \u003cstrong\u003esweet treats\u003c/strong\u003e, and thousands of \u003cstrong\u003eornaments\u003c/strong\u003e that make the season unforgettable.\u003c/p\u003e",
+            "link_text": "See More",
+            "link_url": "shopify://pages/christmas-season",
+            "link_style": "solid"
+          }
+        }
+      },
+      "block_order": [
+        "image_with_text_GqnChV",
+        "item-1",
+        "item-2",
+        "item-3"
+      ],
+      "disabled": true,
+      "name": "Desktop: Seasons Highlight",
+      "settings": {
+        "color_scheme": "",
+        "background_image": "shopify://shop_images/Collection_Tile_Image_for_WINTER_PLANTS_tinted.png",
+        "image_position": "start",
+        "text_alignment": "center",
+        "heading_tag": "h2",
+        "overlay_color": "#000000",
+        "overlay_opacity": 38,
+        "remove_vertical_spacing": false,
+        "show_on_desktop": true,
+        "show_on_mobile": false
+      }
+    },
+    "before-after": {
+      "type": "before-after",
+      "blocks": {
+        "before": {
+          "type": "before",
+          "settings": {
+            "color_scheme": "",
+            "image": "shopify://shop_images/SPRING-3.png",
+            "text": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link"
+          }
+        },
+        "after": {
+          "type": "after",
+          "settings": {
+            "color_scheme": "",
+            "image": "shopify://shop_images/FALL.png",
+            "text": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "before",
+        "after"
+      ],
+      "disabled": true,
+      "settings": {
+        "color_scheme": "scheme-1",
+        "separate_section_with_border": false,
+        "subheading": "Same Market, Different Vibes, Every Season.",
+        "title": "",
+        "content": "",
+        "cursor_direction": "horizontal",
+        "cursor_initial_position": 50,
+        "cursor_background": "#e32c2b",
+        "cursor_arrows_color": "#f6f8f8"
+      }
+    },
+    "countdown_cYNFpL": {
+      "type": "countdown",
+      "disabled": true,
+      "name": "t:sections.countdown_timer.presets.countdown_timer.name",
+      "settings": {
+        "color_scheme": "scheme-4",
+        "separate_section_with_border": true,
+        "image": "shopify://shop_images/D87B951F-A4CF-42F1-ABDA-E6B858C8E6A4.jpg",
+        "image_size": "sm",
+        "subheading": "\u003cstrong\u003eKid's Fun Zone\u003c/strong\u003e \u0026 \u003cstrong\u003eThe Great Pumpkin Patch\u003c/strong\u003e Starts Soon!",
+        "title": "\u003cstrong\u003eFall Season Kickoff! 🎃🍂\u003c/strong\u003e",
+        "content": "\u003cp\u003eMark your calendar and bring the whole family. From hay bales to pumpkins and play zones to photo ops—fall at The Summit is where memories are made!\u003c/p\u003e",
+        "button_link": "shopify://pages/fall-season",
+        "button_text": "Starts Oct 1st",
+        "expiration_date": "2025-10-01",
+        "expiration_behavior": "leave",
+        "timer_position": "end",
+        "animate_number": true,
+        "flip_background": "",
+        "flip_background_opacity": 50,
+        "flip_text_color": "",
+        "overlay_color": "#000000",
+        "overlay_opacity": 40
+      }
+    },
+    "scrolling_content_kjP9qm": {
+      "type": "scrolling-content",
+      "blocks": {
+        "image_JkPLje": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/cheese.png"
+          }
+        },
+        "image_ByanVj": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/istockphoto-153577261-612x612.png"
+          }
+        },
+        "image_b4AgEr": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/pickles.png"
+          }
+        },
+        "image_LFihcz": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Bacon.jpg_copy.png"
+          }
+        },
+        "text_iJ4cGF": {
+          "type": "text",
+          "settings": {
+            "text": "Grocery"
+          }
+        },
+        "image_UwU3Ab": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/bread.png"
+          }
+        },
+        "image_z4Xze3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Sexy_Chicken.png"
+          }
+        },
+        "image_XxntjQ": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/eggs_in_a_basket.png"
+          }
+        },
+        "image_FLXLht": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/SummerSausage_67127153-f764-4d1e-97f5-83095ec14cba_1.webp"
+          }
+        },
+        "image_BeVLth": {
+          "type": "image",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "image_JkPLje",
+        "image_ByanVj",
+        "image_b4AgEr",
+        "image_LFihcz",
+        "text_iJ4cGF",
+        "image_UwU3Ab",
+        "image_z4Xze3",
+        "image_XxntjQ",
+        "image_FLXLht",
+        "image_BeVLth"
+      ],
+      "settings": {
+        "separate_section_with_border": true,
+        "scrolling_speed": 0.3,
+        "scroll_direction": "left",
+        "pause_on_hover": false,
+        "text_font": "heading",
+        "text_font_size_mobile": 40,
+        "text_font_size_desktop": 72,
+        "section_vertical_spacing_mobile": 40,
+        "section_vertical_spacing_desktop": 60,
+        "item_horizontal_spacing_mobile": 80,
+        "item_horizontal_spacing_desktop": 120,
+        "background": "",
+        "text_color": ""
+      }
+    },
+    "slideshow_744GEQ": {
+      "type": "slideshow",
+      "blocks": {
+        "image_Nt8jwj": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/6.jpg",
+            "mobile_image": "shopify://shop_images/6.jpg",
+            "subheading": "",
+            "title": "",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "content_max_width": 780,
+            "button_1_text": "Hours & Location",
+            "button_1_link": "shopify://pages/contact",
+            "button_1_style": "solid",
+            "button_1_background": "#d24a4f",
+            "button_1_text_color": "#f6f8f8",
+            "button_2_text": "",
+            "button_2_link": "shopify://pages/contact",
+            "button_2_style": "outline",
+            "button_2_background": "#ffffff",
+            "button_2_text_color": "#000000",
+            "background": "",
+            "background_opacity": 50,
+            "text_color": "#ffffff",
+            "border_color": "",
+            "gradient_overlay": "linear-gradient(180deg, rgba(54, 54, 54, 0.2), rgba(4, 4, 4, 0.65) 100%)"
+          }
+        }
+      },
+      "block_order": [
+        "image_Nt8jwj"
+      ],
+      "name": "t:sections.slideshow.presets.slideshow.name",
+      "settings": {
+        "allow_transparent_header": true,
+        "show_next_section_button": false,
+        "media_size": "sm",
+        "show_initial_transition": false,
+        "autoplay": true,
+        "autoplay_pause_on_video": true,
+        "cycle_speed": 5,
+        "background": "#000000",
+        "controls_color": "#ffffff",
+        "show_on_desktop": true,
+        "show_on_mobile": true
+      }
+    },
+    "scrolling_content_iGAeV6": {
+      "type": "scrolling-content",
+      "blocks": {
+        "image_FEbMJB": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Stonie_s_Logo.png"
+          }
+        },
+        "image_ii7C4w": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Earth_Candy.avif"
+          }
+        },
+        "text_ekc4jt": {
+          "type": "text",
+          "settings": {
+            "text": "Local Brands"
+          }
+        },
+        "image_HNPyDW": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Hemeebrothers_logo.png"
+          }
+        },
+        "image_DwREhx": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Blue_Hive_Honey_Logo.avif"
+          }
+        },
+        "image_qGQkTH": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/FarrarOutFarm_Logo_2.png"
+          }
+        },
+        "image_kREAtr": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/fazios_with_date-455w.webp"
+          }
+        },
+        "image_ErchNk": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/ButtonwoodFarmLogo_24-02_1798a8d6-b5ec-45d0-a0da-4ed3eeff20f3.png"
+          }
+        },
+        "image_e3MhRq": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Two_Men_And_A_Garden_Logo-Medium.png"
+          }
+        },
+        "image_LazUzE": {
+          "type": "image",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "image_FEbMJB",
+        "image_ii7C4w",
+        "text_ekc4jt",
+        "image_HNPyDW",
+        "image_DwREhx",
+        "image_qGQkTH",
+        "image_kREAtr",
+        "image_ErchNk",
+        "image_e3MhRq",
+        "image_LazUzE"
+      ],
+      "settings": {
+        "separate_section_with_border": true,
+        "scrolling_speed": 0.3,
+        "scroll_direction": "right",
+        "pause_on_hover": false,
+        "text_font": "heading",
+        "text_font_size_mobile": 40,
+        "text_font_size_desktop": 72,
+        "section_vertical_spacing_mobile": 40,
+        "section_vertical_spacing_desktop": 60,
+        "item_horizontal_spacing_mobile": 80,
+        "item_horizontal_spacing_desktop": 120,
+        "background": "",
+        "text_color": ""
+      }
+    },
+    "newsletter": {
+      "type": "newsletter",
+      "disabled": true,
+      "settings": {
+        "color_scheme": "scheme-2",
+        "separate_section_with_border": true,
+        "image_size": "sm",
+        "image": "shopify://shop_images/header-spring_2.png",
+        "subheading": "Keep me updated!",
+        "title": "\u003cstrong\u003eNewsletter\u003c/strong\u003e",
+        "content": "\u003ch6\u003eSubscribe to receive updates, access to exclusive deals, and events!\u003c/h6\u003e",
+        "button_text": "Subscribe",
+        "overlay_color": "#000000",
+        "overlay_opacity": 43
       }
     }
   },
   "order": [
-    "main",
-    "image_with_text_j3j4H4"
+    "slideshow",
+    "text_with_icons_qa6AkH",
+    "multiple_media_with_text_YrgALm",
+    "multiple_media_with_text_Nfdye3",
+    "media_grid_34CEgj",
+    "slideshow_FahUhK",
+    "rich_text_DbT6QH",
+    "image_with_text_block_R6Rkmx",
+    "rich_text_bWNXHA",
+    "image_with_text_block_KTemAB",
+    "image_with_text_block_hpEmVQ",
+    "image_with_text_block_MbHTCx",
+    "rich_text_AKcGBb",
+    "image-with-text-scroll",
+    "before-after",
+    "countdown_cYNFpL",
+    "scrolling_content_kjP9qm",
+    "slideshow_744GEQ",
+    "scrolling_content_iGAeV6",
+    "newsletter"
   ]
 }
