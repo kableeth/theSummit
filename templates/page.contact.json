@@ -339,7 +339,7 @@
           "type": "tab",
           "settings": {
             "title": "<span style=\"text-decoration:underline\"><strong>Holiday Hours </strong></span>",
-            "content": "<p><strong>GINGERBREAD SHOPPE & TREE LOT OPENS MID-NOV</strong></p><p></p><p><strong>Hours: Everyday</strong>: 9am- 9pm</p><h6>*The Summit is Closed on Christmas</h6>",
+            "content": "<p><strong>GINGERBREAD SHOPPE & TREE LOT OPENS MID-NOV</strong></p><p></p><p><strong>Hours: Everyday</strong>: 9am- 9pm</p><h6><em>*The Summit is Closed on Christmas</em></h6>",
             "page": "",
             "open_on_mobile": false
           }
