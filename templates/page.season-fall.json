@@ -80,7 +80,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/406525F1-A378-4053-B341-78AC97C2A2C8.jpg",
-            "rotation": 0
+            "rotation": -15
           }
         }
       },
