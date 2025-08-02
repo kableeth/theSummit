@@ -68,9 +68,9 @@
           "background": "rgba(0,0,0,0)",
           "background_gradient": "",
           "text_color": "#ffffff",
-          "primary_button_background": "#e32c2b",
+          "primary_button_background": "#d24a4f",
           "primary_button_text_color": "#f6f8f8",
-          "circle_button_background": "#e32c2b",
+          "circle_button_background": "#cb2b2b",
           "circle_button_icon": "#f6f8f8"
         }
       },
