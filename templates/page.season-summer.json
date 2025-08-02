@@ -531,13 +531,13 @@
         "text_alignment": "center",
         "subheading": "SAVE THE DATE",
         "title": "<strong>Peach Festival</strong>",
-        "content": "<p>A juicy tradition returns—fresh peaches, live music, and summer vibes at the heart of Kirkwood.</p><p></p><p>Mark your calendars for one of the sweetest events of the season! The <strong>Peach Festival</strong> at <strong>Kirkwood Farmers’ Market</strong> is back, celebrating all things peach with farm-fresh produce, peach-infused treats, and family-friendly fun. Enjoy live music, sample local specialties, and take in the vibrant atmosphere as downtown Kirkwood comes alive with summer flavor.</p><p>Whether you’re a peach pie purist or just here for the vibes, this beloved community tradition has something for everyone.</p><p><a href=\"https://share.google/1QUfTa2CCKxl26hCs\" target=\"_blank\" title=\"https://share.google/1QUfTa2CCKxl26hCs\">📍 Kirkwood Farmers’ Market</a></p>",
+        "content": "<p>A juicy tradition returns—fresh peaches, live music, and summer vibes at the heart of Kirkwood.</p><p></p><p>Mark your calendars for one of the sweetest events of the season! The <strong>Peach Festival</strong> at <strong>Kirkwood Farmers’ Market</strong> is back, celebrating all things peach with farm-fresh produce, peach-infused treats, and family-friendly fun. Enjoy live music, sample local specialties, and take in the vibrant atmosphere as downtown Kirkwood comes alive with summer flavor.</p><p>Whether you’re a peach pie purist or just here for the vibes, this beloved community tradition has something for everyone.</p><p></p>",
         "button_1_text": "TBD 2026",
         "button_1_link": "",
         "button_1_style": "solid",
-        "button_2_text": "",
+        "button_2_text": "📍 Kirkwood Farmers’ Market",
         "button_2_link": "",
-        "button_2_style": "solid"
+        "button_2_style": "link"
       }
     },
     "image_with_text_block_R6Rkmx": {
