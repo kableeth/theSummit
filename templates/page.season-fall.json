@@ -532,7 +532,6 @@
         "before",
         "after"
       ],
-      "disabled": true,
       "settings": {
         "color_scheme": "scheme-1",
         "separate_section_with_border": false,
@@ -798,8 +797,8 @@
     "rich_text_md8Yca",
     "media_grid_34CEgj",
     "video_haB9xU",
-    "slideshow_xBrznX",
     "before-after",
+    "slideshow_xBrznX",
     "scrolling_content_kjP9qm",
     "newsletter",
     "slideshow_744GEQ",
