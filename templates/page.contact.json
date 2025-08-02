@@ -371,6 +371,7 @@
         },
         "image_aUmjaK": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/D87EFA47-5A07-4C73-BDC5-C2CF2E0BCBDB.jpg",
             "rotation": 0
