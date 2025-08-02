@@ -64,11 +64,13 @@
       "settings": {
         "color_scheme": "",
         "separate_section_with_border": true,
-        "image": "shopify://shop_images/Stamp_AllSeasonsTheSummit.png",
+        "image": "shopify://shop_images/Stamp_AllSeasonsTheSummit_76bcc9c4-aa90-48bf-87cf-2f8c02d33c63.png",
         "reveal_on_scroll": true,
         "image_position": "start",
         "content_width": "sm",
-        "remove_vertical_spacing": false
+        "remove_vertical_spacing": false,
+        "show_on_desktop": true,
+        "show_on_mobile": true
       }
     },
     "timeline_Xg9pAA": {
@@ -294,7 +296,9 @@
         "reveal_on_scroll": true,
         "image_position": "start",
         "content_width": "sm",
-        "remove_vertical_spacing": true
+        "remove_vertical_spacing": true,
+        "show_on_desktop": true,
+        "show_on_mobile": true
       }
     },
     "media_grid_4pbAx4": {
@@ -427,7 +431,9 @@
         "spacing": "md",
         "subheading": "",
         "title": "",
-        "content": ""
+        "content": "",
+        "show_on_desktop": true,
+        "show_on_mobile": true
       }
     },
     "newsletter_KtGK4P": {
