@@ -510,7 +510,7 @@
         "show_initial_transition": false,
         "autoplay": true,
         "autoplay_pause_on_video": true,
-        "cycle_speed": 5,
+        "cycle_speed": 4,
         "background": "#000000",
         "controls_color": "#ffffff",
         "show_on_desktop": false,
@@ -649,7 +649,23 @@
         "background": "",
         "text_color": ""
       }
-    },"slideshow_744GEQ": {
+    },
+    "newsletter": {
+      "type": "newsletter",
+      "settings": {
+        "color_scheme": "scheme-2",
+        "separate_section_with_border": true,
+        "image_size": "sm",
+        "image": "shopify://shop_images/header-fall.jpg",
+        "subheading": "Keep me updated!",
+        "title": "<strong>Newsletter</strong>",
+        "content": "<h6>Subscribe to receive updates, access to exclusive deals, and events!</h6>",
+        "button_text": "Subscribe",
+        "overlay_color": "#000000",
+        "overlay_opacity": 43
+      }
+    },
+    "slideshow_744GEQ": {
       "type": "slideshow",
       "blocks": {
         "image_Nt8jwj": {
@@ -786,21 +802,6 @@
         "item_horizontal_spacing_desktop": 120,
         "background": "",
         "text_color": ""
-      }
-    },
-    "newsletter": {
-      "type": "newsletter",
-      "settings": {
-        "color_scheme": "scheme-2",
-        "separate_section_with_border": true,
-        "image_size": "sm",
-        "image": "shopify://shop_images/header-fall.jpg",
-        "subheading": "Keep me updated!",
-        "title": "<strong>Newsletter</strong>",
-        "content": "<h6>Subscribe to receive updates, access to exclusive deals, and events!</h6>",
-        "button_text": "Subscribe",
-        "overlay_color": "#000000",
-        "overlay_opacity": 43
       }
     }
   },
