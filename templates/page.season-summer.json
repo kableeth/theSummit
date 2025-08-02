@@ -9,6 +9,15 @@
  */
 {
   "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": false,
+      "settings": {
+        "color_scheme": "",
+        "show_title": true,
+        "page_width": "xs"
+      }
+    },
     "slideshow": {
       "type": "slideshow",
       "blocks": {
@@ -95,7 +104,6 @@
         "item_yJaQ3Q",
         "item_84GbCt"
       ],
-      "disabled": true,
       "name": "Icon Text with Highlights",
       "settings": {
         "color_scheme": "scheme-1",
@@ -128,7 +136,6 @@
         "image_BfdNYU",
         "image_G74QjW"
       ],
-      "disabled": true,
       "name": "Multiple Media Display",
       "settings": {
         "color_scheme": "",
@@ -1170,6 +1177,7 @@
     }
   },
   "order": [
+    "main",
     "slideshow",
     "text_with_icons_qa6AkH",
     "multiple_media_with_text_YrgALm",
