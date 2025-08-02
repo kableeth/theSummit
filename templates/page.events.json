@@ -163,12 +163,14 @@
         "image_WYpztz": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/C70E12C3-F90A-4640-8AE4-FC57624672A2_60c2102a-9225-4e59-9cce-47711adf8d41.jpg",
             "rotation": 0
           }
         },
         "image_FF4m7T": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/FC0612D6-9517-4BBD-B15A-FFBB92A610A7.jpg",
             "rotation": 0
           }
         }
@@ -192,87 +194,12 @@
         "subheading": "Spring at The Summit",
         "title": "Peach Festival",
         "content": "<p>A Peachy Good Time Awaits - A celebration of all things sweet, local, and peachy! From fresh fruit, sidewalk sales, to live music and much more! It's a summer event you won't want to miss.</p>",
-        "button_1_text": "",
+        "button_1_text": "Details TBA 2026",
         "button_1_link": "",
         "button_1_style": "solid",
         "button_2_text": "",
         "button_2_link": "",
         "button_2_style": "solid"
-      }
-    },
-    "media_grid_gnirTn": {
-      "type": "media-grid",
-      "blocks": {
-        "image_BfaAxp": {
-          "type": "image",
-          "settings": {
-            "color_scheme": "",
-            "column_count": "8",
-            "row_count": 2,
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_text": "",
-            "link_url": "",
-            "link_style": "link",
-            "text_position": "place-self-center text-center",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "image_EKLMdx": {
-          "type": "image",
-          "settings": {
-            "color_scheme": "",
-            "column_count": "4",
-            "row_count": 1,
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_text": "",
-            "link_url": "",
-            "link_style": "link",
-            "text_position": "place-self-center text-center",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "image_QJ7pBc": {
-          "type": "image",
-          "settings": {
-            "color_scheme": "",
-            "column_count": "4",
-            "row_count": 1,
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_text": "",
-            "link_url": "",
-            "link_style": "link",
-            "text_position": "place-self-center text-center",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        }
-      },
-      "block_order": [
-        "image_BfaAxp",
-        "image_EKLMdx",
-        "image_QJ7pBc"
-      ],
-      "name": "t:sections.media_grid.presets.media_grid.name",
-      "settings": {
-        "color_scheme": "",
-        "separate_section_with_border": true,
-        "desktop_row_height": 290,
-        "mobile_row_height": 180,
-        "section_width": "lg",
-        "spacing": "md",
-        "subheading": "",
-        "title": "",
-        "content": "",
-        "show_on_desktop": true,
-        "show_on_mobile": true
       }
     },
     "newsletter_99MUHa": {
@@ -298,7 +225,6 @@
     "multiple_media_with_text_qrfrrm",
     "multiple_media_with_text_KNwDFA",
     "multiple_media_with_text_kXyxye",
-    "media_grid_gnirTn",
     "newsletter_99MUHa"
   ]
 }
