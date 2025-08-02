@@ -328,31 +328,6 @@
         "show_on_mobile": false
       }
     },
-    "rich_text_DbT6QH": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_GCDmFj": {
-          "type": "heading",
-          "settings": {
-            "text": "<strong>🎃 Fall Fun Zone & Great Pumpkin Patch 🍂</strong>",
-            "heading_tag": "h4"
-          }
-        }
-      },
-      "block_order": [
-        "heading_GCDmFj"
-      ],
-      "name": "t:sections.rich_text.presets.rich_text.name",
-      "settings": {
-        "color_scheme": "",
-        "separate_section_with_border": false,
-        "content_width": "sm",
-        "text_position": "center",
-        "remove_vertical_spacing": false,
-        "show_on_desktop": false,
-        "show_on_mobile": true
-      }
-    },
     "before-after": {
       "type": "before-after",
       "blocks": {
@@ -383,6 +358,7 @@
         "before",
         "after"
       ],
+      "disabled": true,
       "settings": {
         "color_scheme": "scheme-1",
         "separate_section_with_border": false,
@@ -508,7 +484,6 @@
     "countdown_cYNFpL",
     "rich_text_md8Yca",
     "media_grid_34CEgj",
-    "rich_text_DbT6QH",
     "before-after",
     "scrolling_content_kjP9qm",
     "newsletter"
