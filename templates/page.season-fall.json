@@ -69,10 +69,10 @@
     "multiple_media_with_text_fGJ6mk": {
       "type": "multiple-media-with-text",
       "blocks": {
-        "image_YTpgMr": {
-          "type": "image",
+        "video_7cQTxX": {
+          "type": "video",
           "settings": {
-            "image": "shopify://shop_images/B360BDDA-6EBB-4D1B-95E9-BF98DEE95947_8c7c1924-e99d-4669-8356-6755b8ad2e8c.jpg",
+            "video": "shopify://files/videos/Fall Season Drone.mp4",
             "rotation": 0
           }
         },
@@ -85,7 +85,7 @@
         }
       },
       "block_order": [
-        "image_YTpgMr",
+        "video_7cQTxX",
         "image_M7RY7x"
       ],
       "name": "t:sections.multiple_media_with_text.presets.multiple_media_with_text.name",
@@ -335,64 +335,10 @@
         "autoplay": true,
         "show_controls": false,
         "video_size": "sm",
-        "video": "shopify://files/videos/Kirkwood Farmers Market Play Area.mp4",
-        "mobile_video": "shopify://files/videos/Kirkwood Farmers Market Play Area.mp4",
+        "video": "shopify://files/videos/Fall Season Drone.mp4",
+        "mobile_video": "shopify://files/videos/Fall Season Drone.mp4",
         "external_video_url": "",
         "text_color": "#ffffff"
-      }
-    },
-    "multi_column_dnYdjJ": {
-      "type": "multi-column",
-      "blocks": {
-        "image_with_text_JDmDKK": {
-          "type": "image_with_text",
-          "settings": {
-            "title": "",
-            "heading_tag": "h6",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "link_url": "",
-            "link_text": ""
-          }
-        },
-        "image_with_text_h3RRdW": {
-          "type": "image_with_text",
-          "settings": {
-            "title": "Column title",
-            "heading_tag": "h3",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "link_url": "",
-            "link_text": ""
-          }
-        },
-        "image_with_text_LTNf7A": {
-          "type": "image_with_text",
-          "settings": {
-            "title": "Column title",
-            "heading_tag": "h3",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "link_url": "",
-            "link_text": ""
-          }
-        }
-      },
-      "block_order": [
-        "image_with_text_JDmDKK",
-        "image_with_text_h3RRdW",
-        "image_with_text_LTNf7A"
-      ],
-      "name": "t:sections.multi_column.presets.multi_column.name",
-      "settings": {
-        "color_scheme": "",
-        "separate_section_with_border": true,
-        "columns_per_row": 3,
-        "stack_on_mobile": false,
-        "overlap_image": false,
-        "content_alignment": "start",
-        "text_alignment": "start",
-        "spacing": "md",
-        "subheading": "About",
-        "title": "Multi-column",
-        "content": ""
       }
     },
     "before-after": {
@@ -441,6 +387,32 @@
     "slideshow_xBrznX": {
       "type": "slideshow",
       "blocks": {
+        "video_meyUqR": {
+          "type": "video",
+          "settings": {
+            "allow_sound": true,
+            "subheading": "Tell your story",
+            "title": "Video slide",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "content_max_width": 780,
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_1_style": "solid",
+            "button_1_background": "#ffffff",
+            "button_1_text_color": "#000000",
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_style": "outline",
+            "button_2_background": "#ffffff",
+            "button_2_text_color": "#000000",
+            "background": "",
+            "background_opacity": 50,
+            "text_color": "#ffffff",
+            "border_color": "",
+            "gradient_overlay": "linear-gradient(180deg, rgba(54, 54, 54, 0.2), rgba(4, 4, 4, 0.65) 100%)"
+          }
+        },
         "image_brWtcE": {
           "type": "image",
           "settings": {
@@ -578,6 +550,7 @@
         }
       },
       "block_order": [
+        "video_meyUqR",
         "image_brWtcE",
         "image_YajVjA",
         "image_jTircU",
@@ -852,7 +825,6 @@
     "rich_text_md8Yca",
     "media_grid_34CEgj",
     "video_haB9xU",
-    "multi_column_dnYdjJ",
     "before-after",
     "slideshow_xBrznX",
     "scrolling_content_kjP9qm",
