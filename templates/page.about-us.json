@@ -422,7 +422,7 @@
         "image_ryGYzA",
         "image_XKxQUY"
       ],
-      "name": "t:sections.media_grid.presets.media_grid.name",
+      "name": "Desktop: Media grid",
       "settings": {
         "color_scheme": "",
         "separate_section_with_border": true,
@@ -434,7 +434,7 @@
         "title": "",
         "content": "",
         "show_on_desktop": true,
-        "show_on_mobile": true
+        "show_on_mobile": false
       }
     },
     "slideshow_zCyV7g": {
