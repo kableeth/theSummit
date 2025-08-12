@@ -81,8 +81,8 @@
           "settings": {
             "mobile_image": "shopify://shop_images/bins-of-apples-at-a-farmer-s-market.jpg",
             "label": "The Story",
-            "subheading": "FOUNDED IN 1978",
-            "title": "The Story",
+            "subheading": "",
+            "title": "FOUNDED IN 1978",
             "content": "<p>The Summit All Seasons Market located in Kirkwood Farmers Market, is a family run business started in 1978 by Carol Mitchell. Today The Summit is owned and operated by Carols kids Dan Mitchell & Kris Clark, who are mentoring the 3rd generation, Carols grandson., Zach Clark.</p>",
             "link_text": "",
             "link_url": "",
@@ -94,7 +94,7 @@
           "type": "item",
           "settings": {
             "label": "1978",
-            "subheading": "Early 1978",
+            "subheading": "",
             "title": "<strong>The Dream</strong>",
             "content": "<p>In early 1978, Carol Mitchell, a stay-at-home mom of three, set out to bring fresh, local produce to her hometown of Gray Summit, Missouri. Drawing on experience working for her brothers in the produce business, she decided to build her own stand.</p>",
             "link_text": "",
@@ -107,7 +107,7 @@
           "type": "item",
           "settings": {
             "label": "1978",
-            "subheading": "Spring, 1978",
+            "subheading": "",
             "title": "<strong>Brave First Steps </strong>",
             "content": "<p>Once the idea took hold, Carol was determined to make it happen. Her handy husband built her first stand, and her brother Mick Moore, who was a buyer for Moon Produce, guided her through the male-dominated business. She named it <em>Summit Produce</em> after the Gray Summit area, pairing it with the slogan “Peak of Perfection” to promise quality.</p>",
             "link_text": "",
@@ -120,7 +120,7 @@
           "type": "item",
           "settings": {
             "label": "1978-1984",
-            "subheading": "1978-1984",
+            "subheading": "",
             "title": "<strong>The peak of perfection</strong>",
             "content": "<p>Over the next few years, Carol’s hard work and quality products kept customers coming back. She built strong relationships with local farmers, partnering with them to offer fresh, seasonal produce.</p>",
             "link_text": "",
@@ -133,7 +133,7 @@
           "type": "item",
           "settings": {
             "label": "1984",
-            "subheading": "1984",
+            "subheading": "",
             "title": "<strong>The Kirkwood opportunity</strong>",
             "content": "<p>Carol received a phone call from her brother Johnny who advised her that a spot had become available in the Kirkwood Farmers Market.  Although taking it on would be a risk, she decided to be brave and took the plunge! She kept the Gray Summit stand, opening ‘Summit Produce’ in Kirkwood as a second location.</p>",
             "link_text": "",
@@ -146,7 +146,7 @@
           "type": "item",
           "settings": {
             "label": "1984",
-            "subheading": "1984",
+            "subheading": "",
             "title": "<strong>\"Show me\" tomato</strong>",
             "content": "<p>Carol set up near the market’s east end, competing with many large produce stands. To stand out, she featured the local ‘Show Me’ tomato—large, vibrant, and delicious—which drew customers from far and wide. She also introduced unique items no one else offered.</p>",
             "link_text": "",
@@ -159,7 +159,7 @@
           "type": "item",
           "settings": {
             "label": "1988",
-            "subheading": "1988",
+            "subheading": "",
             "title": "<strong>Expanding Family</strong>",
             "content": "<p>As the business grew, Carol expanded her team, hiring only family and close friends who shared her passion for <em>Summit Produce</em>. She put customers first, valuing honesty and integrity, and passed on her knowledge with infectious enthusiasm. Her team made it a great place to work and shop, fueling the business’s growth.</p>",
             "link_text": "",
@@ -172,7 +172,7 @@
           "type": "item",
           "settings": {
             "label": "1989",
-            "subheading": "1989",
+            "subheading": "",
             "title": "<strong>Growth</strong>",
             "content": "<p>Over the years ‘Summit Produce’ grew from a small produce stand, which was only open three days per week, into a full-service, four-season store, open seven days a week from April until Christmas. This achievement is with thanks to the support of the wonderful employees and loyal customers.</p>",
             "link_text": "",
@@ -185,7 +185,7 @@
           "type": "item",
           "settings": {
             "label": "1998",
-            "subheading": "1998",
+            "subheading": "",
             "title": "<strong>Fresh Direction</strong>",
             "content": "<p>In 1998, Carol's son Dan, a longtime employee, came on board as business partner and took \"Summit Produce\" at the market to a new level with his creative ideas and enthusiasm for fun.</p>",
             "link_text": "",
@@ -198,7 +198,7 @@
           "type": "item",
           "settings": {
             "label": "2009",
-            "subheading": "2009",
+            "subheading": "",
             "title": "<strong>Retirement</strong>",
             "content": "<p>In 2009, when Carol decided to retire, her daughter Kristine, also a long-time employee came on as Dan’s business partner. Although enjoying her retirement, Carol still stops in from time to time, helping out and advising on produce and suppliers. </p>",
             "link_text": "",
@@ -211,7 +211,7 @@
           "type": "item",
           "settings": {
             "label": "2021",
-            "subheading": "2021",
+            "subheading": "",
             "title": "Presenting \"The Summit\"",
             "content": "<p>In step with a new era, <em>Summit Produce</em> is now <strong>The Summit All Seasons Market</strong>, introducing a “fifth season” with our new Winter Market. What began as a produce stand has grown into a destination for plants, pumpkins, Christmas trees, seasonal décor, local foods, baked goods, and family experiences year-round. </p>",
             "link_text": "",
