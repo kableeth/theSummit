@@ -1071,12 +1071,6 @@
             "image": "shopify://shop_images/Stonie_s_Logo.png"
           }
         },
-        "image_ii7C4w": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Earth_Candy.avif"
-          }
-        },
         "text_ekc4jt": {
           "type": "text",
           "settings": {
@@ -1126,7 +1120,6 @@
       },
       "block_order": [
         "image_FEbMJB",
-        "image_ii7C4w",
         "text_ekc4jt",
         "image_HNPyDW",
         "image_DwREhx",
