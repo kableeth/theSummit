@@ -79,7 +79,6 @@
         "item_p3iE4R": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/bins-of-apples-at-a-farmer-s-market.jpg",
             "mobile_image": "shopify://shop_images/bins-of-apples-at-a-farmer-s-market.jpg",
             "label": "The Story",
             "subheading": "FOUNDED IN 1978",
@@ -94,7 +93,6 @@
         "item_TPzLCf": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/thesummitallseasonsmarket_1738985059_3563187394254726843_4788839409_9b4ac12f-c161-4da8-984b-b6024f1d7111.png",
             "label": "1978",
             "subheading": "Early 1978",
             "title": "<strong>The Dream</strong>",
@@ -108,11 +106,10 @@
         "item_wXD8fG": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/1646002066426.jpg",
             "label": "1978",
             "subheading": "Spring, 1978",
             "title": "<strong>Brave First Steps </strong>",
-            "content": "<p>Once the idea was in her head, Carol was determined to make it happen. One big blessing was that her crafty husband had a flair for building. With a personal carpenter on hand, she began to design and build her first stand. </p><p>The next blessing was that her “big” brother, Mick Moore was a buyer for Moon Produce, one of the most successful produce houses in Saint Louis. He guided her, making sure that she was well taken care of in a male-dominated business.</p><p>Carol decided that her little stand should be called ‘Summit Produce’ since it was in the Gray Summit area of town. She also liked the slogan, “Peak of Perfection” which complimented the company name and gave her customers the reassurance of the quality that her produce would have. </p><p>In the spring of 1978 Carol’s first stand opened to the public.</p>",
+            "content": "<p>Once the idea took hold, Carol was determined to make it happen. Her handy husband built her first stand, and her brother Mick Moore—buyer for Moon Produce—guided her through the male-dominated business. She named it <em>Summit Produce</em> after the Gray Summit area, pairing it with the slogan “Peak of Perfection” to promise quality. In spring 1978, Carol’s first stand opened to the public.</p>",
             "link_text": "",
             "link_url": "",
             "link_style": "link",
@@ -122,7 +119,6 @@
         "item_DpcxD4": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/family-history_e41e1f60-269a-4212-bb52-fa9f33ec38bf.png",
             "label": "1978-1984",
             "subheading": "1978-1984",
             "title": "<strong>The peak of perfection</strong>",
@@ -136,7 +132,6 @@
         "item_rcQ6LQ": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/D59B4808-90A0-4370-AD42-8004CC6AED78.jpg",
             "label": "1984",
             "subheading": "1984",
             "title": "<strong>The Kirkwood opportunity</strong>",
@@ -150,11 +145,10 @@
         "item_GWnzrR": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/thesummitallseasonsmarket_1623975329_2598415851779277617_4788839409.jpg",
             "label": "1984",
             "subheading": "1984",
             "title": "<strong>\"Show me\" tomato</strong>",
-            "content": "<p>Carol set up shop close to the east end of the market. Back in those days, there were many large produce stands for shoppers to choose from. She knew she needed an iconic item to get the customers to stop and shop at her stall. </p><p>A Gray Summit farmer, Joe Marquardt, had supplied her in the past with the ‘Show Me’ tomato. Large, vibrant red, and delicious. It became one of the cornerstone products of Carol’s business, with people coming from far and wide to get their hands on the local delicacy. </p><p>She also worked hard to bring new and unusual items to her stall that no one else offered.</p>",
+            "content": "<p>Carol set up near the market’s east end, competing with many large produce stands. To stand out, she featured the local ‘Show Me’ tomato—large, vibrant, and delicious—which drew customers from far and wide. She also introduced unique items no one else offered.</p>",
             "link_text": "",
             "link_url": "",
             "link_style": "link",
@@ -164,11 +158,10 @@
         "item_MNmR3n": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/jeffrey-hamilton-WkspaGKC88U-unsplash.jpg",
             "label": "1988",
             "subheading": "1988",
             "title": "<strong>Expanding Family</strong>",
-            "content": "<p>As the business grew, so did the need to expand on her team. In a bid to make sure the people she hired care about \"Summit Produce\" as much as she did, Carol only took on her family and close friends as her fellow team members. </p><p>It was incredibly important to her that the customer’s needs came first. And to her, honesty and integrity were the key to success. Carol trained her team in her knowledge, and her infectious enthusiasm made it a great place to work. </p><p>In turn, the employees made Carol’s stand a fun place to shop and the business grew.</p>",
+            "content": "<p>As the business grew, Carol expanded her team, hiring only family and close friends who shared her passion for <em>Summit Produce</em>. She put customers first, valuing honesty and integrity, and passed on her knowledge with infectious enthusiasm. Her team made it a great place to work and shop, fueling the business’s growth.</p>",
             "link_text": "",
             "link_url": "",
             "link_style": "link",
@@ -178,7 +171,6 @@
         "item_jbR4zD": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Collection_Tile_Image_for_FALL_PLANTS.jpg",
             "label": "1989",
             "subheading": "1989",
             "title": "<strong>Growth</strong>",
@@ -192,7 +184,6 @@
         "item_AtPjWr": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/family-history.png",
             "label": "1998",
             "subheading": "1998",
             "title": "<strong>Fresh Direction</strong>",
@@ -206,7 +197,6 @@
         "item_6EhKW8": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/20240905-103518.jpg",
             "label": "2009",
             "subheading": "2009",
             "title": "<strong>Retirement</strong>",
@@ -220,11 +210,10 @@
         "item_9gLGHe": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Stamp_AllSeasonsTheSummit_website.png",
             "label": "2021",
             "subheading": "2021",
             "title": "Presenting \"The Summit\"",
-            "content": "<p>In line with a new era, \"Summit Produce\" is rebranding as The Summit All Seasons Market and adding a 'fifth season' in our all new Winter Market.</p><p>As we have grown and expanded our products over the years, from produce only back in the day, to today's vast selection of plants, pumpkins, Christmas trees, seasonal décor, local foods, baked goods, and seasonal experiences for the family, the new name, \"The Summit All Seasons Market\" and our new logo, seek to reflect and better represent our growth and transformation over the years!</p><p>Working hard to never take success or a customer for granted and holding on to the business practices of honesty and integrity in all things.</p><p>And most importantly, old-fashioned service with a smile.  </p>",
+            "content": "<p>In step with a new era, <em>Summit Produce</em> is now <strong>The Summit All Seasons Market</strong>, introducing a “fifth season” with our new Winter Market. What began as a produce stand has grown into a destination for plants, pumpkins, Christmas trees, seasonal décor, local foods, baked goods, and family experiences year-round. Our new name and logo reflect this evolution—while we remain committed to honesty, integrity, and old-fashioned service with a smile.</p>",
             "link_text": "",
             "link_url": "",
             "link_style": "link",
@@ -234,7 +223,6 @@
         "item_etjEAK": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/1505465F-46AD-4F3E-89B1-03D9E1E8EF60.jpg",
             "label": "2022",
             "subheading": "2022 - Onwards",
             "title": "The Future",
