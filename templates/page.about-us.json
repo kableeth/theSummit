@@ -136,6 +136,7 @@
         "item_rcQ6LQ": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/summit1.png",
             "label": "1984",
             "subheading": "",
             "title": "<strong>The Kirkwood opportunity</strong>",
@@ -149,6 +150,7 @@
         "item_GWnzrR": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/5B17A1FB-14AE-4956-8684-D88CAE6D229D.png",
             "label": "1984",
             "subheading": "",
             "title": "<strong>\"Show me\" tomato</strong>",
@@ -162,6 +164,7 @@
         "item_MNmR3n": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/family-history_9b157ef5-8f30-4d2f-97f5-880216c483d5.png",
             "label": "1988",
             "subheading": "",
             "title": "<strong>Expanding Family</strong>",
