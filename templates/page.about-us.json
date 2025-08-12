@@ -94,7 +94,7 @@
         "item_TPzLCf": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/thesummitallseasonsmarket_1738985059_3563187394254726843_4788839409_9b4ac12f-c161-4da8-984b-b6024f1d7111.png",
+            "image": "shopify://shop_images/family-history_be8e703b-a4a7-4b67-89c1-9b1ff1f58639.png",
             "label": "1978",
             "subheading": "",
             "title": "<strong>The Dream</strong>",
@@ -108,6 +108,7 @@
         "item_wXD8fG": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/thesummitallseasonsmarket_1738985059_3563187394254726843_4788839409_9b4ac12f-c161-4da8-984b-b6024f1d7111.png",
             "label": "1978",
             "subheading": "",
             "title": "<strong>Brave First Steps </strong>",
@@ -121,6 +122,7 @@
         "item_DpcxD4": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/bright-yellow-blossoming-flower-close-up.png",
             "label": "1978-1984",
             "subheading": "",
             "title": "<strong>The peak of perfection</strong>",
