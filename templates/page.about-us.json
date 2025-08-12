@@ -79,6 +79,7 @@
         "item_p3iE4R": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/bins-of-apples-at-a-farmer-s-market.jpg",
             "mobile_image": "shopify://shop_images/bins-of-apples-at-a-farmer-s-market.jpg",
             "label": "The Story",
             "subheading": "",
@@ -93,6 +94,7 @@
         "item_TPzLCf": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/thesummitallseasonsmarket_1738985059_3563187394254726843_4788839409_9b4ac12f-c161-4da8-984b-b6024f1d7111.png",
             "label": "1978",
             "subheading": "",
             "title": "<strong>The Dream</strong>",
