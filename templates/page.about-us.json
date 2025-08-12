@@ -568,6 +568,7 @@
     },
     "newsletter_KtGK4P": {
       "type": "newsletter",
+      "disabled": true,
       "name": "t:sections.newsletter.presets.newsletter.name",
       "settings": {
         "color_scheme": "scheme-2",
