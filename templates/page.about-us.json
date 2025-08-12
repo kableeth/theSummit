@@ -178,6 +178,7 @@
         "item_jbR4zD": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/D59B4808-90A0-4370-AD42-8004CC6AED78.png",
             "label": "1989",
             "subheading": "",
             "title": "<strong>Growth</strong>",
@@ -191,6 +192,7 @@
         "item_AtPjWr": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/0084136F-A35C-4A17-958D-28216B995BDD.jpg",
             "label": "1998",
             "subheading": "",
             "title": "<strong>Fresh Direction</strong>",
@@ -204,6 +206,7 @@
         "item_6EhKW8": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/thesummitallseasonsmarket_1750709138_3661536094883342173_4788839409_ba126f50-6381-4564-a02c-c957e9ee1087.jpg",
             "label": "2009",
             "subheading": "",
             "title": "<strong>Retirement</strong>",
@@ -217,6 +220,7 @@
         "item_9gLGHe": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/the_summit_logo_with_padding.png",
             "label": "2021",
             "subheading": "",
             "title": "Presenting \"The Summit\"",
@@ -230,6 +234,7 @@
         "item_etjEAK": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/1505465F-46AD-4F3E-89B1-03D9E1E8EF60.png",
             "label": "2022",
             "subheading": "",
             "title": "The Future",
