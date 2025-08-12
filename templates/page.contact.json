@@ -330,7 +330,7 @@
           "type": "tab",
           "settings": {
             "title": "<span style=\"text-decoration:underline\">Fall Hours</span>",
-            "content": "<p><strong>OPEN LATE SEPTEMBER (TBA)</strong></p><p><strong>Sunday - Thursday:</strong> 9am - 6pm<br/><strong>Fridays: 9</strong>am - 8pm<br/><strong>Saturdays: 8</strong>am - 6pm</p><p><strong>Fun Zone Grand Opening </strong>on Sept 28th!</p><h6>*The Summit is Closed Thanksgiving</h6>",
+            "content": "<p><strong>OPEN LATE SEPTEMBER (TBA)</strong></p><p><strong>Sunday - Thursday:</strong> 9am - 6pm<br/><strong>Fridays: </strong>9am - 8pm<br/><strong>Saturdays: </strong>8am - 6pm</p><p><strong>Fun Zone Grand Opening </strong>on Sept 28th!</p><h6>*The Summit is Closed Thanksgiving</h6>",
             "page": "",
             "open_on_mobile": false
           }
