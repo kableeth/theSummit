@@ -17,25 +17,33 @@
         "image_JkPLje": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/cheese.png"
+            "image": "shopify://shop_images/cheese.png",
+            "display_width_mobile": 92,
+            "display_width_desktop": 180
           }
         },
         "image_ByanVj": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/istockphoto-153577261-612x612.png"
+            "image": "shopify://shop_images/istockphoto-153577261-612x612.png",
+            "display_width_mobile": 92,
+            "display_width_desktop": 180
           }
         },
         "image_b4AgEr": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/pickles.png"
+            "image": "shopify://shop_images/pickles.png",
+            "display_width_mobile": 92,
+            "display_width_desktop": 180
           }
         },
         "image_LFihcz": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Bacon.jpg_copy.png"
+            "image": "shopify://shop_images/Bacon.jpg_copy.png",
+            "display_width_mobile": 92,
+            "display_width_desktop": 180
           }
         },
         "text_iJ4cGF": {
@@ -47,30 +55,41 @@
         "image_UwU3Ab": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/bread.png"
+            "image": "shopify://shop_images/bread.png",
+            "display_width_mobile": 92,
+            "display_width_desktop": 180
           }
         },
         "image_z4Xze3": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Sexy_Chicken.png"
+            "image": "shopify://shop_images/Sexy_Chicken.png",
+            "display_width_mobile": 92,
+            "display_width_desktop": 180
           }
         },
         "image_XxntjQ": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/eggs_in_a_basket.png"
+            "image": "shopify://shop_images/eggs_in_a_basket.png",
+            "display_width_mobile": 92,
+            "display_width_desktop": 180
           }
         },
         "image_FLXLht": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/SummerSausage_67127153-f764-4d1e-97f5-83095ec14cba_1.webp"
+            "image": "shopify://shop_images/SummerSausage_67127153-f764-4d1e-97f5-83095ec14cba_1.webp",
+            "display_width_mobile": 92,
+            "display_width_desktop": 180
           }
         },
         "image_BeVLth": {
           "type": "image",
-          "settings": {}
+          "settings": {
+            "display_width_mobile": 92,
+            "display_width_desktop": 180
+          }
         }
       },
       "block_order": [
@@ -157,8 +176,8 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/Stonie_s_Logo.png",
-            "display_width_mobile": 120,
-            "display_width_desktop": 220
+            "display_width_mobile": 240,
+            "display_width_desktop": 300
           }
         },
         "text_ekc4jt": {
@@ -171,53 +190,56 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/Hemeebrothers_logo.png",
-            "display_width_mobile": 120,
-            "display_width_desktop": 220
+            "display_width_mobile": 92,
+            "display_width_desktop": 180
           }
         },
         "image_DwREhx": {
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/Blue_Hive_Honey_Logo.avif",
-            "display_width_mobile": 120,
-            "display_width_desktop": 220
+            "display_width_mobile": 92,
+            "display_width_desktop": 180
           }
         },
         "image_qGQkTH": {
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/FarrarOutFarm_Logo_2.png",
-            "display_width_mobile": 120,
-            "display_width_desktop": 220
+            "display_width_mobile": 92,
+            "display_width_desktop": 180
           }
         },
         "image_kREAtr": {
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/fazios_with_date-455w.webp",
-            "display_width_mobile": 120,
-            "display_width_desktop": 220
+            "display_width_mobile": 92,
+            "display_width_desktop": 180
           }
         },
         "image_ErchNk": {
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/ButtonwoodFarmLogo_24-02_1798a8d6-b5ec-45d0-a0da-4ed3eeff20f3.png",
-            "display_width_mobile": 120,
-            "display_width_desktop": 220
+            "display_width_mobile": 92,
+            "display_width_desktop": 180
           }
         },
         "image_e3MhRq": {
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/Two_Men_And_A_Garden_Logo-Medium.png",
-            "display_width_mobile": 120,
-            "display_width_desktop": 220
+            "display_width_mobile": 92,
+            "display_width_desktop": 180
           }
         },
         "image_LazUzE": {
           "type": "image",
-          "settings": {}
+          "settings": {
+            "display_width_mobile": 92,
+            "display_width_desktop": 180
+          }
         }
       },
       "block_order": [
