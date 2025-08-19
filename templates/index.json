@@ -15,8 +15,8 @@
         "slide-1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/header_summer_with_black_opacity.png",
-            "mobile_image": "shopify://shop_images/header_summer_with_black_opacity.png",
+            "image": "shopify://shop_images/header-summer_f0e2728d-ae23-42e9-96fd-d72f032903d7.jpg",
+            "mobile_image": "shopify://shop_images/header-summer.jpg",
             "subheading": "",
             "title": "<strong>Welcome to The Summit</strong>",
             "mobile_text_position": "place-self-center text-center",
