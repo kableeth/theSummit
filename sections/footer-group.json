@@ -156,7 +156,9 @@
         "image_FEbMJB": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Stonie_s_Logo.png"
+            "image": "shopify://shop_images/Stonie_s_Logo.png",
+            "display_width_mobile": 120,
+            "display_width_desktop": 220
           }
         },
         "text_ekc4jt": {
@@ -168,37 +170,49 @@
         "image_HNPyDW": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Hemeebrothers_logo.png"
+            "image": "shopify://shop_images/Hemeebrothers_logo.png",
+            "display_width_mobile": 120,
+            "display_width_desktop": 220
           }
         },
         "image_DwREhx": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Blue_Hive_Honey_Logo.avif"
+            "image": "shopify://shop_images/Blue_Hive_Honey_Logo.avif",
+            "display_width_mobile": 120,
+            "display_width_desktop": 220
           }
         },
         "image_qGQkTH": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/FarrarOutFarm_Logo_2.png"
+            "image": "shopify://shop_images/FarrarOutFarm_Logo_2.png",
+            "display_width_mobile": 120,
+            "display_width_desktop": 220
           }
         },
         "image_kREAtr": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/fazios_with_date-455w.webp"
+            "image": "shopify://shop_images/fazios_with_date-455w.webp",
+            "display_width_mobile": 120,
+            "display_width_desktop": 220
           }
         },
         "image_ErchNk": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/ButtonwoodFarmLogo_24-02_1798a8d6-b5ec-45d0-a0da-4ed3eeff20f3.png"
+            "image": "shopify://shop_images/ButtonwoodFarmLogo_24-02_1798a8d6-b5ec-45d0-a0da-4ed3eeff20f3.png",
+            "display_width_mobile": 120,
+            "display_width_desktop": 220
           }
         },
         "image_e3MhRq": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Two_Men_And_A_Garden_Logo-Medium.png"
+            "image": "shopify://shop_images/Two_Men_And_A_Garden_Logo-Medium.png",
+            "display_width_mobile": 120,
+            "display_width_desktop": 220
           }
         },
         "image_LazUzE": {
