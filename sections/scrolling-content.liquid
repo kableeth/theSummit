@@ -17,15 +17,11 @@
           {%- case block.type -%}
             {%- when 'image' -%}
               {%- if block.settings.image -%}
-                <div class="scrolling-content__image" {{ block.shopify_attributes }} style="--logo-width: clamp({{ block.settings.display_width_mobile }}px, calc({{ block.settings.display_width_mobile }}px + ({{ block.settings.display_width_desktop }} - {{ block.settings.display_width_mobile }}) * ((100vw - 375px) / (1400 - 375))), {{ block.settings.display_width_desktop }}px);">
-                  {{-
-                    block.settings.image
-                    | image_url: width: block.settings.image.width
-                    | image_tag:
-                      sizes: '(max-width: 699px) ' | append: block.settings.display_width_mobile | append: 'px, ' | append: block.settings.display_width_desktop | append: 'px',
-                      widths: '90,120,150,180,210,240,270,300,360,540',
-                      style: 'width: var(--logo-width); height: auto;'
-                  -}}
+                {%- assign logo_mobile_w = block.settings.display_width_mobile | default: 90 -%}
+                {%- assign logo_desktop_w = block.settings.display_width_desktop | default: 180 -%}
+                {%- capture logo_sizes -%}(max-width: 699px) {{ logo_mobile_w }}px, {{ logo_desktop_w }}px{%- endcapture -%}
+                <div class="scrolling-content__image" {{ block.shopify_attributes }} style="--logo-width: clamp({{ logo_mobile_w }}px, calc({{ logo_mobile_w }}px + ({{ logo_desktop_w }} - {{ logo_mobile_w }}) * ((100vw - 375px) / (1400 - 375))), {{ logo_desktop_w }}px);">
+                  {{- block.settings.image | image_url: width: block.settings.image.width | image_tag: sizes: logo_sizes, widths: '90,120,150,180,210,240,270,300,360,540', style: 'width: var(--logo-width); height: auto;' -}}
                 </div>
               {%- endif -%}
 
