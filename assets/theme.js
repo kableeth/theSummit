@@ -4909,6 +4909,26 @@ var ImagesWithTextScroll = class extends EffectCarousel {
       __privateGet(this, _imageElements).forEach((imageElement) => imageElement.removeAttribute("loading"));
     });
     __privateMethod(this, _ImagesWithTextScroll_instances, setupScrollObservers_fn).call(this);
+
+    // Ensure reliability inside Shopify theme editor where sections are re-rendered dynamically
+    if (Shopify && Shopify.designMode) {
+      const sectionEl = this.closest('.shopify-section');
+      if (sectionEl) {
+        sectionEl.addEventListener('shopify:section:load', (event) => {
+          // Reset any running animations and reinitialize observers/state
+          this.getAnimations({ subtree: true }).forEach((animation) => animation.cancel());
+          __privateSet(this, _itemElements, Array.from(this.querySelectorAll('.images-with-text-scroll__item')));
+          __privateSet(this, _imageElements, Array.from(this.querySelectorAll('.images-with-text-scroll__image')));
+          __privateSet(this, _textElements, Array.from(this.querySelectorAll('.images-with-text-scroll__text')));
+          __privateSet(this, _visibleImageElement, __privateGet(this, _imageElements)[0]);
+          // Ensure a consistent initial visual state
+          __privateGet(this, _imageElements).forEach((img, index) => {
+            img.style.opacity = index === 0 ? '1' : '0';
+          });
+          __privateMethod(this, _ImagesWithTextScroll_instances, setupScrollObservers_fn).call(this);
+        });
+      }
+    }
   }
   /**
    * Override the "cellSelector". In this component, what makes a "slide" (on mobile) is the piece of text
