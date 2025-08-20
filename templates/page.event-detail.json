@@ -16,7 +16,7 @@
           "type": "video",
           "settings": {
             "video": "shopify://files/videos/Fall Season Drone.mp4",
-            "allow_sound": true,
+            "allow_sound": false,
             "subheading": "Welcome to the",
             "title": "Kids Fall Fun Zone",
             "mobile_text_position": "place-self-center text-center",
