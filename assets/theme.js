@@ -4146,6 +4146,27 @@ onKeyboardNavigation_fn2 = function(event) {
     newPosition = event.code === "ArrowLeft" ? currentPosition - 1 : currentPosition + 1;
   }
   this.style.setProperty("--before-after-cursor-position", `${Math.min(Math.max(newPosition, 0), 100)}%`);
+  // Update layered after clips (supports up to 3 overlay layers)
+  const p = Math.min(Math.max(newPosition, 0), 100);
+  const afterCount = parseInt(this.dataset.afterCount || "1");
+  const seg = afterCount > 1 ? 100 / afterCount : 100;
+  let clip1, clip2, clip3;
+  if (p < seg) {
+    clip1 = 100 - (p / seg) * 100;
+    clip2 = 100;
+    clip3 = 100;
+  } else if (p < 2 * seg) {
+    clip1 = 0;
+    clip2 = 100 - ((p - seg) / seg) * 100;
+    clip3 = 100;
+  } else {
+    clip1 = 0;
+    clip2 = 0;
+    clip3 = 100 - ((p - 2 * seg) / seg) * 100;
+  }
+  this.style.setProperty("--ba-clip-after1", `${clip1}%`);
+  this.style.setProperty("--ba-clip-after2", `${clip2}%`);
+  this.style.setProperty("--ba-clip-after3", `${clip3}%`);
 };
 calculatePosition_fn = function(event) {
   let rectangle = this.getBoundingClientRect(), percentage;
@@ -4155,11 +4176,54 @@ calculatePosition_fn = function(event) {
     percentage = (event.clientX - rectangle.left) / this.clientWidth * 100;
     percentage = document.dir === "rtl" ? 100 - percentage : percentage;
   }
-  this.style.setProperty("--before-after-cursor-position", `${Math.min(Math.max(percentage, 0), 100)}%`);
+  const p = Math.min(Math.max(percentage, 0), 100);
+  this.style.setProperty("--before-after-cursor-position", `${p}%`);
+  // Update layered after clips (supports up to 3 overlay layers)
+  const afterCount = parseInt(this.dataset.afterCount || "1");
+  const seg = afterCount > 1 ? 100 / afterCount : 100;
+  let clip1, clip2, clip3;
+  if (p < seg) {
+    clip1 = 100 - (p / seg) * 100;
+    clip2 = 100;
+    clip3 = 100;
+  } else if (p < 2 * seg) {
+    clip1 = 0;
+    clip2 = 100 - ((p - seg) / seg) * 100;
+    clip3 = 100;
+  } else {
+    clip1 = 0;
+    clip2 = 0;
+    clip3 = 100 - ((p - 2 * seg) / seg) * 100;
+  }
+  this.style.setProperty("--ba-clip-after1", `${clip1}%`);
+  this.style.setProperty("--ba-clip-after2", `${clip2}%`);
+  this.style.setProperty("--ba-clip-after3", `${clip3}%`);
 };
 animateInitialPosition_fn = function() {
   animate12((progress) => {
     this.style.setProperty("--before-after-cursor-position", `calc(var(--before-after-initial-cursor-position) * ${progress})`);
+    // Also animate layered clips from 0 based on initial position
+    const initial = parseFloat(getComputedStyle(this).getPropertyValue("--before-after-initial-cursor-position"));
+    const p = Math.min(Math.max(initial * progress, 0), 100);
+    const afterCount = parseInt(this.dataset.afterCount || "1");
+    const seg = afterCount > 1 ? 100 / afterCount : 100;
+    let clip1, clip2, clip3;
+    if (p < seg) {
+      clip1 = 100 - (p / seg) * 100;
+      clip2 = 100;
+      clip3 = 100;
+    } else if (p < 2 * seg) {
+      clip1 = 0;
+      clip2 = 100 - ((p - seg) / seg) * 100;
+      clip3 = 100;
+    } else {
+      clip1 = 0;
+      clip2 = 0;
+      clip3 = 100 - ((p - 2 * seg) / seg) * 100;
+    }
+    this.style.setProperty("--ba-clip-after1", `${clip1}%`);
+    this.style.setProperty("--ba-clip-after2", `${clip2}%`);
+    this.style.setProperty("--ba-clip-after3", `${clip3}%`);
   }, { duration: 0.6, easing: [0.85, 0, 0.15, 1] });
 };
 if (!window.customElements.get("before-after")) {

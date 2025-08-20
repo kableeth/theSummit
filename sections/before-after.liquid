@@ -2,6 +2,9 @@
   #shopify-section-{{ section.id }} {
     --before-after-initial-cursor-position: {{ section.settings.cursor_initial_position }}%;
     --before-after-cursor-background: {{ section.settings.cursor_background.rgb }};
+    --ba-clip-after1: 100%;
+    --ba-clip-after2: 100%;
+    --ba-clip-after3: 100%;
   }
 </style>
 
@@ -18,7 +21,11 @@
           {%- render 'banner', content: error_message, status: 'error', text_alignment: 'center' -%}
         {%- endif -%}
 
-        <before-after class="before-after before-after--{{ section.settings.cursor_direction }}" {% if section.settings.cursor_direction == 'vertical' %}vertical{% endif %}>
+        {%- assign after1_count = section.blocks | where: 'type', 'after' | size -%}
+        {%- assign after2_count = section.blocks | where: 'type', 'after_2' | size -%}
+        {%- assign after3_count = section.blocks | where: 'type', 'after_3' | size -%}
+        {%- assign total_after_layers = after1_count | plus: after2_count | plus: after3_count -%}
+        <before-after class="before-after before-after--{{ section.settings.cursor_direction }}{% if total_after_layers > 1 %} before-after--multi{% endif %}" {% if section.settings.cursor_direction == 'vertical' %}vertical{% endif %} data-after-count="{{ total_after_layers }}">
           {%- comment -%}
           ----------------------------------------------------------------------------------------------------------------
           BEFORE AFTER IMAGES
@@ -29,6 +36,15 @@
             {%- if block.type == 'before' -%}
               {%- assign container_class = 'before-after__before-image' -%}
               {%- assign image_class = 'w-full' -%}
+            {%- elsif block.type == 'after' -%}
+              {%- assign container_class = 'before-after__after-image before-after__after-image--1' -%}
+              {%- assign image_class = 'image-background' -%}
+            {%- elsif block.type == 'after_2' -%}
+              {%- assign container_class = 'before-after__after-image before-after__after-image--2' -%}
+              {%- assign image_class = 'image-background' -%}
+            {%- elsif block.type == 'after_3' -%}
+              {%- assign container_class = 'before-after__after-image before-after__after-image--3' -%}
+              {%- assign image_class = 'image-background' -%}
             {%- else -%}
               {%- assign container_class = 'before-after__after-image' -%}
               {%- assign image_class = 'image-background' -%}
@@ -238,6 +254,128 @@
     {
       "type": "after",
       "name": "t:sections.before_after.blocks.after.name",
+      "limit": 1,
+      "settings": [
+        {
+          "type": "color_scheme",
+          "id": "color_scheme",
+          "label": "t:global.colors.scheme",
+          "default": "scheme-4"
+        },
+        {
+          "type": "image_picker",
+          "id": "image",
+          "label": "t:global.image.image",
+          "info": "t:sections.before_after.blocks.after.image_info"
+        },
+        {
+          "type": "image_picker",
+          "id": "mobile_image",
+          "label": "t:global.image.mobile_image",
+          "info": "t:sections.before_after.blocks.after.image_info"
+        },
+        {
+          "type": "inline_richtext",
+          "id": "text",
+          "label": "t:global.text.text",
+          "default": "After"
+        },
+        {
+          "type": "text",
+          "id": "link_text",
+          "label": "t:global.text.button_text"
+        },
+        {
+          "type": "url",
+          "id": "link_url",
+          "label": "t:global.text.button_link"
+        },
+        {
+          "type": "select",
+          "id": "link_style",
+          "label": "t:global.text.button_style",
+          "options": [
+            {
+              "value": "outline",
+              "label": "t:global.text.link_style_options.outline"
+            },
+            {
+              "value": "solid",
+              "label": "t:global.text.link_style_options.solid"
+            },
+            {
+              "value": "link",
+              "label": "t:global.text.link_style_options.link"
+            }
+          ],
+          "default": "link"
+        }
+      ]
+    },
+    {
+      "type": "after_2",
+      "name": "After (2)",
+      "limit": 1,
+      "settings": [
+        {
+          "type": "color_scheme",
+          "id": "color_scheme",
+          "label": "t:global.colors.scheme",
+          "default": "scheme-4"
+        },
+        {
+          "type": "image_picker",
+          "id": "image",
+          "label": "t:global.image.image",
+          "info": "t:sections.before_after.blocks.after.image_info"
+        },
+        {
+          "type": "image_picker",
+          "id": "mobile_image",
+          "label": "t:global.image.mobile_image",
+          "info": "t:sections.before_after.blocks.after.image_info"
+        },
+        {
+          "type": "inline_richtext",
+          "id": "text",
+          "label": "t:global.text.text",
+          "default": "After"
+        },
+        {
+          "type": "text",
+          "id": "link_text",
+          "label": "t:global.text.button_text"
+        },
+        {
+          "type": "url",
+          "id": "link_url",
+          "label": "t:global.text.button_link"
+        },
+        {
+          "type": "select",
+          "id": "link_style",
+          "label": "t:global.text.button_style",
+          "options": [
+            {
+              "value": "outline",
+              "label": "t:global.text.link_style_options.outline"
+            },
+            {
+              "value": "solid",
+              "label": "t:global.text.link_style_options.solid"
+            },
+            {
+              "value": "link",
+              "label": "t:global.text.link_style_options.link"
+            }
+          ],
+          "default": "link"
+        }
+      ]
+    },
+    {
+      "type": "after_3",
+      "name": "After (3)",
       "limit": 1,
       "settings": [
         {
