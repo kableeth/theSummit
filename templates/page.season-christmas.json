@@ -18,47 +18,529 @@
         "page_width": "xs"
       }
     },
-    "image_with_text_j3j4H4": {
-      "type": "image-with-text",
+    "slideshow": {
+      "type": "slideshow",
       "blocks": {
-        "subheading_pDdejU": {
-          "type": "subheading",
+        "slide-1": {
+          "type": "image",
           "settings": {
-            "text": "Subheading"
-          }
-        },
-        "heading_PL4yji": {
-          "type": "heading",
-          "settings": {
-            "text": "Image with text",
-            "heading_tag": "h1"
-          }
-        },
-        "richtext_8fA836": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "image": "shopify://shop_images/header-fall.jpg",
+            "mobile_image": "shopify://shop_images/header-fall.jpg",
+            "subheading": "",
+            "title": "<strong>Fall Season at The Summit</strong>",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "content_max_width": 600,
+            "button_1_text": "BRINGING THE BEST OF EVERY SEASON SINCE 1978",
+            "button_1_link": "shopify://pages/fall-season",
+            "button_1_style": "outline",
+            "button_1_background": "#ffffff",
+            "button_1_text_color": "#000000",
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_style": "outline",
+            "button_2_background": "#ffffff",
+            "button_2_text_color": "#000000",
+            "background": "",
+            "background_opacity": 40,
+            "text_color": "#ffffff",
+            "border_color": "",
+            "gradient_overlay": "linear-gradient(180deg, rgba(54, 54, 54, 0.2), rgba(4, 4, 4, 0.65) 100%)"
           }
         }
       },
       "block_order": [
-        "subheading_pDdejU",
-        "heading_PL4yji",
-        "richtext_8fA836"
+        "slide-1"
       ],
-      "name": "t:sections.image_with_text.presets.image_with_text.name",
+      "settings": {
+        "allow_transparent_header": true,
+        "show_next_section_button": true,
+        "media_size": "sm",
+        "show_initial_transition": false,
+        "autoplay": true,
+        "autoplay_pause_on_video": true,
+        "cycle_speed": 5,
+        "background": "#000000",
+        "controls_color": "#ffffff",
+        "show_on_desktop": true,
+        "show_on_mobile": true
+      }
+    },
+    "multiple_media_with_text_fGJ6mk": {
+      "type": "multiple-media-with-text",
+      "blocks": {
+        "video_7cQTxX": {
+          "type": "video",
+          "settings": {
+            "video": "shopify://files/videos/Fall Season Drone.mp4",
+            "rotation": 0
+          }
+        },
+        "image_M7RY7x": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/406525F1-A378-4053-B341-78AC97C2A2C8.jpg",
+            "rotation": -15
+          }
+        }
+      },
+      "block_order": [
+        "video_7cQTxX",
+        "image_M7RY7x"
+      ],
+      "name": "t:sections.multiple_media_with_text.presets.multiple_media_with_text.name",
+      "settings": {
+        "color_scheme": "",
+        "reveal_on_scroll": true,
+        "separate_section_with_border": true,
+        "media_position_desktop": "before_text",
+        "media_position_mobile": "before_text",
+        "media_layout": "overlap",
+        "media_alignment": "center",
+        "media_alignment_offset": 0,
+        "media_mobile_alignment_offset": 0,
+        "text_alignment": "center",
+        "subheading": "with The Summit",
+        "title": "Celebrate Fall",
+        "content": "<p>Oh how we love Fall in Missouri....</p><p>As the summer winds down & the crisp weather moves in, The Summit begins to build the fall experience at the Kirkwood Farmers' Market.</p><p>While the market continues to accommodate our <strong>great</strong> <strong>produce</strong> and <strong>local foods</strong>, an added <strong>150 + kinds of candy and treats</strong>, as well as a great selection of <strong>seasonal décor</strong> round out the under our roof's selections.</p><p>The Summit fills the rest of the market with all things Fresh Midwest Fall, like pumpkins, mums, pansies and more.</p><p>Treat yourself to a fun hour or a two... perusing the more than <strong>30 kinds of pumpkins</strong>, hundreds of <strong>treats</strong>, as well as all the accruements to <strong>deck your halls</strong> for fall (not to mention your front porch).</p>",
+        "button_1_text": "",
+        "button_1_link": "",
+        "button_1_style": "solid",
+        "button_2_text": "",
+        "button_2_link": "",
+        "button_2_style": "solid"
+      }
+    },
+    "countdown_cYNFpL": {
+      "type": "countdown",
+      "name": "t:sections.countdown_timer.presets.countdown_timer.name",
+      "settings": {
+        "color_scheme": "scheme-4",
+        "separate_section_with_border": true,
+        "image": "shopify://shop_images/D87B951F-A4CF-42F1-ABDA-E6B858C8E6A4.jpg",
+        "image_size": "sm",
+        "subheading": "<strong>Kid's Fun Zone</strong> & <strong>The Great Pumpkin Patch</strong> Starts Soon!",
+        "title": "<strong>Fall Season Kickoff!  🎃 Sep 27th, 2025🍂</strong>",
+        "content": "<p>Mark your calendar and bring the whole family. From hay bales to pumpkins and play zones to photo ops—fall at The Summit is where memories are made!</p>",
+        "button_link": "shopify://pages/fall-season",
+        "button_text": "Follow On Social Media For Updates",
+        "expiration_date": "2025-09-27",
+        "expiration_behavior": "hide",
+        "timer_position": "end",
+        "animate_number": true,
+        "flip_background": "",
+        "flip_background_opacity": 50,
+        "flip_text_color": "",
+        "overlay_color": "#000000",
+        "overlay_opacity": 40
+      }
+    },
+    "rich_text_md8Yca": {
+      "type": "rich-text",
+      "blocks": {
+        "button_jtftYH": {
+          "type": "button",
+          "settings": {
+            "style": "solid",
+            "text": "Instagram",
+            "url": "",
+            "background": "",
+            "text_color": ""
+          }
+        },
+        "button_tLAXNc": {
+          "type": "button",
+          "settings": {
+            "style": "outline",
+            "text": "Facebook",
+            "url": "",
+            "background": "",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "button_jtftYH",
+        "button_tLAXNc"
+      ],
+      "name": "t:sections.rich_text.presets.rich_text.name",
       "settings": {
         "color_scheme": "",
         "separate_section_with_border": true,
-        "reveal_on_scroll": true,
-        "image_position": "start",
         "content_width": "sm",
-        "remove_vertical_spacing": true
+        "text_position": "center",
+        "remove_vertical_spacing": false,
+        "show_on_desktop": true,
+        "show_on_mobile": true
+      }
+    },
+    "media_grid_34CEgj": {
+      "type": "media-grid",
+      "blocks": {
+        "image_aeQyNw": {
+          "type": "image",
+          "settings": {
+            "color_scheme": "",
+            "image": "shopify://shop_images/166C24AC-2972-484C-AAF2-480347EAD668_179f666a-1d65-400a-bac2-957a9754e24c.jpg",
+            "column_count": "6",
+            "row_count": 3,
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "place-self-center text-center",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "image_WF4cTC": {
+          "type": "image",
+          "settings": {
+            "color_scheme": "",
+            "image": "shopify://shop_images/941311C5-EE6F-4202-9F40-E5D589018FAE_8d28d982-59f4-4247-91b8-3696ba49fd09.jpg",
+            "column_count": "3",
+            "row_count": 3,
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "place-self-center text-center",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "image_xamyQT": {
+          "type": "image",
+          "settings": {
+            "color_scheme": "scheme-4",
+            "image": "shopify://shop_images/9CFBA866-6B82-420B-8E1E-F44E988906AA_82e09aac-8156-4d43-b5f1-1f5b9638685b.jpg",
+            "column_count": "3",
+            "row_count": 2,
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "place-self-center text-center",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "image_JU3afc": {
+          "type": "image",
+          "settings": {
+            "color_scheme": "scheme-4",
+            "image": "shopify://shop_images/8B4AEEE5-6F7C-413C-B1F0-703CF6BBF308_ee540cd9-9425-4f90-8303-56fb277105cc.jpg",
+            "column_count": "3",
+            "row_count": 2,
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "place-self-center text-center",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "image_yrbcf4": {
+          "type": "image",
+          "settings": {
+            "color_scheme": "",
+            "image": "shopify://shop_images/695754AA-39D0-478E-A352-C0AD9E635F30.jpg",
+            "column_count": "3",
+            "row_count": 2,
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "place-self-center text-center",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "image_EGyJm8": {
+          "type": "image",
+          "settings": {
+            "color_scheme": "",
+            "image": "shopify://shop_images/D87B951F-A4CF-42F1-ABDA-E6B858C8E6A4_ec38b7cd-5725-444f-91fa-e3d711652bc2.jpg",
+            "column_count": "6",
+            "row_count": 2,
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "place-self-center text-center",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "image_T3Bwfg": {
+          "type": "image",
+          "settings": {
+            "color_scheme": "",
+            "image": "shopify://shop_images/3FBF875B-51A9-4B28-B539-C82BBA32983D_a7f502fa-5e59-4bff-b7b5-1f390bb88bae.jpg",
+            "column_count": "3",
+            "row_count": 1,
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "place-self-center text-center",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_aeQyNw",
+        "image_WF4cTC",
+        "image_xamyQT",
+        "image_JU3afc",
+        "image_yrbcf4",
+        "image_EGyJm8",
+        "image_T3Bwfg"
+      ],
+      "name": "Fall Season Media Grid",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": false,
+        "desktop_row_height": 140,
+        "mobile_row_height": 150,
+        "section_width": "sm",
+        "spacing": "xs",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "show_on_desktop": true,
+        "show_on_mobile": false
+      }
+    },
+    "before-after": {
+      "type": "before-after",
+      "blocks": {
+        "before": {
+          "type": "before",
+          "settings": {
+            "color_scheme": "",
+            "image": "shopify://shop_images/SPRING-3.png",
+            "text": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link"
+          }
+        },
+        "after": {
+          "type": "after",
+          "settings": {
+            "color_scheme": "",
+            "image": "shopify://shop_images/FALL.png",
+            "text": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "before",
+        "after"
+      ],
+      "disabled": true,
+      "settings": {
+        "color_scheme": "scheme-1",
+        "separate_section_with_border": false,
+        "subheading": "Same Market, Different Vibes, Every Season.",
+        "title": "",
+        "content": "",
+        "cursor_direction": "horizontal",
+        "cursor_initial_position": 50,
+        "cursor_background": "#e32c2b",
+        "cursor_arrows_color": "#f6f8f8"
+      }
+    },
+    "slideshow_xBrznX": {
+      "type": "slideshow",
+      "blocks": {
+        "image_brWtcE": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/166C24AC-2972-484C-AAF2-480347EAD668_179f666a-1d65-400a-bac2-957a9754e24c.jpg",
+            "mobile_image": "shopify://shop_images/166C24AC-2972-484C-AAF2-480347EAD668_179f666a-1d65-400a-bac2-957a9754e24c.jpg",
+            "subheading": "",
+            "title": "",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "content_max_width": 780,
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_1_style": "solid",
+            "button_1_background": "#ffffff",
+            "button_1_text_color": "#000000",
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_style": "outline",
+            "button_2_background": "#ffffff",
+            "button_2_text_color": "#000000",
+            "background": "",
+            "background_opacity": 50,
+            "text_color": "#ffffff",
+            "border_color": "",
+            "gradient_overlay": "linear-gradient(180deg, rgba(54, 54, 54, 0.2), rgba(4, 4, 4, 0.65) 100%)"
+          }
+        },
+        "image_YajVjA": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/9CFBA866-6B82-420B-8E1E-F44E988906AA_82e09aac-8156-4d43-b5f1-1f5b9638685b.jpg",
+            "mobile_image": "shopify://shop_images/9CFBA866-6B82-420B-8E1E-F44E988906AA_82e09aac-8156-4d43-b5f1-1f5b9638685b.jpg",
+            "subheading": "",
+            "title": "",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "content_max_width": 780,
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_1_style": "solid",
+            "button_1_background": "#ffffff",
+            "button_1_text_color": "#000000",
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_style": "outline",
+            "button_2_background": "#ffffff",
+            "button_2_text_color": "#000000",
+            "background": "",
+            "background_opacity": 50,
+            "text_color": "#ffffff",
+            "border_color": "",
+            "gradient_overlay": "linear-gradient(180deg, rgba(54, 54, 54, 0.2), rgba(4, 4, 4, 0.65) 100%)"
+          }
+        },
+        "image_jTircU": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/8B4AEEE5-6F7C-413C-B1F0-703CF6BBF308_ee540cd9-9425-4f90-8303-56fb277105cc.jpg",
+            "mobile_image": "shopify://shop_images/8B4AEEE5-6F7C-413C-B1F0-703CF6BBF308_ee540cd9-9425-4f90-8303-56fb277105cc.jpg",
+            "subheading": "",
+            "title": "",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "content_max_width": 780,
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_1_style": "solid",
+            "button_1_background": "#ffffff",
+            "button_1_text_color": "#000000",
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_style": "outline",
+            "button_2_background": "#ffffff",
+            "button_2_text_color": "#000000",
+            "background": "",
+            "background_opacity": 50,
+            "text_color": "#ffffff",
+            "border_color": "",
+            "gradient_overlay": "linear-gradient(180deg, rgba(54, 54, 54, 0.2), rgba(4, 4, 4, 0.65) 100%)"
+          }
+        },
+        "image_dxCxEH": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/695754AA-39D0-478E-A352-C0AD9E635F30.jpg",
+            "mobile_image": "shopify://shop_images/695754AA-39D0-478E-A352-C0AD9E635F30.jpg",
+            "subheading": "",
+            "title": "",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "content_max_width": 780,
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_1_style": "solid",
+            "button_1_background": "#ffffff",
+            "button_1_text_color": "#000000",
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_style": "outline",
+            "button_2_background": "#ffffff",
+            "button_2_text_color": "#000000",
+            "background": "",
+            "background_opacity": 50,
+            "text_color": "#ffffff",
+            "border_color": "",
+            "gradient_overlay": "linear-gradient(180deg, rgba(54, 54, 54, 0.2), rgba(4, 4, 4, 0.65) 100%)"
+          }
+        },
+        "image_qMEP6J": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/D87B951F-A4CF-42F1-ABDA-E6B858C8E6A4_ec38b7cd-5725-444f-91fa-e3d711652bc2.jpg",
+            "mobile_image": "shopify://shop_images/D87B951F-A4CF-42F1-ABDA-E6B858C8E6A4_ec38b7cd-5725-444f-91fa-e3d711652bc2.jpg",
+            "subheading": "",
+            "title": "",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "content_max_width": 780,
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_1_style": "solid",
+            "button_1_background": "#ffffff",
+            "button_1_text_color": "#000000",
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_style": "outline",
+            "button_2_background": "#ffffff",
+            "button_2_text_color": "#000000",
+            "background": "",
+            "background_opacity": 50,
+            "text_color": "#ffffff",
+            "border_color": "",
+            "gradient_overlay": "linear-gradient(180deg, rgba(54, 54, 54, 0.2), rgba(4, 4, 4, 0.65) 100%)"
+          }
+        }
+      },
+      "block_order": [
+        "image_brWtcE",
+        "image_YajVjA",
+        "image_jTircU",
+        "image_dxCxEH",
+        "image_qMEP6J"
+      ],
+      "name": "t:sections.slideshow.presets.slideshow.name",
+      "settings": {
+        "allow_transparent_header": true,
+        "show_next_section_button": true,
+        "media_size": "sm",
+        "show_initial_transition": false,
+        "autoplay": true,
+        "autoplay_pause_on_video": true,
+        "cycle_speed": 4,
+        "background": "#000000",
+        "controls_color": "#ffffff",
+        "show_on_desktop": false,
+        "show_on_mobile": true
       }
     }
   },
   "order": [
     "main",
-    "image_with_text_j3j4H4"
+    "slideshow",
+    "multiple_media_with_text_fGJ6mk",
+    "countdown_cYNFpL",
+    "rich_text_md8Yca",
+    "media_grid_34CEgj",
+    "before-after",
+    "slideshow_xBrznX"
   ]
 }
