@@ -18,43 +18,41 @@
         "page_width": "xs"
       }
     },
-    "image_with_text_j3j4H4": {
-      "type": "image-with-text",
+    "rich_text_UXKnbt": {
+      "type": "rich-text",
       "blocks": {
-        "subheading_pDdejU": {
+        "subheading_PG8DAd": {
           "type": "subheading",
           "settings": {
-            "text": "The Summit All Seasons Market"
+            "text": "Subheading"
           }
         },
-        "heading_PL4yji": {
+        "heading_nF9MXB": {
           "type": "heading",
           "settings": {
-            "text": "<strong>Now Hiring</strong>",
+            "text": "Heading",
             "heading_tag": "h1"
           }
         },
-        "richtext_8fA836": {
+        "richtext_jPfiYc": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Are you passionate about seasonal experiences and working in a fun, dynamic environment? Join our team at The Summit All Seasons Market, a beloved tradition in Kirkwood Farmers' Market since 1978. We're looking for friendly, energetic individuals who are excited to help create memorable experiences for our customers, young and old!</p><p>If you enjoy working with people, have a love for fresh, local products, and want to be part of a friendly, fun-loving team, we'd love to meet you!</p><p></p><p><strong>How to Apply:</strong></p><p>Email your resume to <a href=\"mailto:zach@thesummitkirkwood.com\" title=\"mailto:contact@thesummitkirkwood.com\">contact@thesummitkirkwood.com</a></p><p></p><p>Join us and be part of something magical—season after season!</p>"
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
           }
         }
       },
       "block_order": [
-        "subheading_pDdejU",
-        "heading_PL4yji",
-        "richtext_8fA836"
+        "subheading_PG8DAd",
+        "heading_nF9MXB",
+        "richtext_jPfiYc"
       ],
-      "name": "t:sections.image_with_text.presets.image_with_text.name",
+      "name": "t:sections.rich_text.presets.rich_text.name",
       "settings": {
         "color_scheme": "",
         "separate_section_with_border": true,
-        "image": "shopify://shop_images/C1D8281E-B05E-4484-8360-6432C27E6837.jpg",
-        "reveal_on_scroll": true,
-        "image_position": "start",
         "content_width": "sm",
-        "remove_vertical_spacing": true,
+        "text_position": "center",
+        "remove_vertical_spacing": false,
         "show_on_desktop": true,
         "show_on_mobile": true
       }
@@ -62,6 +60,6 @@
   },
   "order": [
     "main",
-    "image_with_text_j3j4H4"
+    "rich_text_UXKnbt"
   ]
 }
