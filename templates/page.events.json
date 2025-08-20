@@ -197,9 +197,9 @@
         "button_1_text": "Details TBA 2026",
         "button_1_link": "",
         "button_1_style": "solid",
-        "button_2_text": "",
-        "button_2_link": "",
-        "button_2_style": "solid"
+        "button_2_text": "More Info",
+        "button_2_link": "https://www.downtownkirkwood.com/events/peach-festival/",
+        "button_2_style": "link"
       }
     },
     "newsletter_99MUHa": {
