@@ -290,28 +290,6 @@
     "footer": {
       "type": "footer",
       "blocks": {
-        "image_ahDKVm": {
-          "type": "image",
-          "settings": {
-            "image_width": 150,
-            "link": ""
-          }
-        },
-        "image_GRJCh6": {
-          "type": "image",
-          "settings": {
-            "image_width": 150,
-            "link": ""
-          }
-        },
-        "image_pMjrwU": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/the_summit_logo_with_padding_0410bc0f-f01c-4adf-86b7-290b60bd79ca.png",
-            "image_width": 250,
-            "link": ""
-          }
-        },
         "links": {
           "type": "links",
           "settings": {
@@ -327,14 +305,20 @@
             "content": "<p><a href=\"https://maps.app.goo.gl/EAhEuW4EDxhrkBdm7\" target=\"_blank\" title=\"https://maps.app.goo.gl/EAhEuW4EDxhrkBdm7\">150 E Argonne Dr, Kirkwood, MO 63122</a></p><p>Bringing the best of every season since 1978. The Summit is your one-stop shop in Kirkwood Missouri for a unique seasonal shopping experience.</p>",
             "enable_follow_on_shop": true
           }
+        },
+        "image_pMjrwU": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/the_summit_logo_with_padding_0410bc0f-f01c-4adf-86b7-290b60bd79ca.png",
+            "image_width": 250,
+            "link": ""
+          }
         }
       },
       "block_order": [
-        "image_ahDKVm",
-        "image_GRJCh6",
-        "image_pMjrwU",
         "links",
-        "text"
+        "text",
+        "image_pMjrwU"
       ],
       "settings": {
         "color_scheme": "scheme-1",
