@@ -11,7 +11,6 @@
   "sections": {
     "main": {
       "type": "main-page",
-      "disabled": true,
       "settings": {
         "color_scheme": "",
         "show_title": true,
@@ -24,20 +23,20 @@
         "subheading_PG8DAd": {
           "type": "subheading",
           "settings": {
-            "text": "Subheading"
+            "text": "2025"
           }
         },
         "heading_nF9MXB": {
           "type": "heading",
           "settings": {
-            "text": "Heading",
+            "text": "<strong>Kid's Fall Fun Zone Info</strong>",
             "heading_tag": "h1"
           }
         },
         "richtext_jPfiYc": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "content": "<p><em><strong>Get Ready for a Fun-filled Fall Season!</strong></em></p><p><em><strong>Join Us Sept. 27th  ~ October 31st  </strong></em></p><ol><li>Monday - Thursday 9 am - 6 pm </li><li>Friday   9 am - 8 pm   </li><li>Saturdays & Sundays 9 am - 6 pm</li></ol>"
           }
         }
       },
