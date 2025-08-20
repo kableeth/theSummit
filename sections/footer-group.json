@@ -290,6 +290,26 @@
         "overlay_opacity": 43
       }
     },
+    "1755665089dab1124c": {
+      "type": "apps",
+      "blocks": {
+        "k_shoppable_image_hotspot_app_embeded_JK9tmn": {
+          "type": "shopify://apps/k-shoppable-image-hotspot/blocks/app-embeded/5994dcb2-8918-42d3-bc99-30165d760b89",
+          "settings": {
+            "popup_embedded_id": "hotspot-id-37"
+          }
+        }
+      },
+      "block_order": [
+        "k_shoppable_image_hotspot_app_embeded_JK9tmn"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false
+      }
+    },
     "footer": {
       "type": "footer",
       "blocks": {
@@ -340,6 +360,7 @@
     "slideshow_744GEQ",
     "scrolling_content_iGAeV6",
     "newsletter",
+    "1755665089dab1124c",
     "footer"
   ]
 }
