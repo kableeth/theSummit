@@ -104,6 +104,9 @@
         "image_FLXLht",
         "image_BeVLth"
       ],
+      "custom_css": [
+        ".scrolling-content__image > img {max-width: 4em;}"
+      ],
       "settings": {
         "separate_section_with_border": true,
         "scrolling_speed": 0.3,
@@ -112,8 +115,8 @@
         "text_font": "heading",
         "text_font_size_mobile": 40,
         "text_font_size_desktop": 72,
-        "section_vertical_spacing_mobile": 40,
-        "section_vertical_spacing_desktop": 60,
+        "section_vertical_spacing_mobile": 10,
+        "section_vertical_spacing_desktop": 10,
         "item_horizontal_spacing_mobile": 80,
         "item_horizontal_spacing_desktop": 120,
         "background": "",
