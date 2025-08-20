@@ -377,8 +377,8 @@
         "image_brWtcE": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/166C24AC-2972-484C-AAF2-480347EAD668_179f666a-1d65-400a-bac2-957a9754e24c.jpg",
-            "mobile_image": "shopify://shop_images/166C24AC-2972-484C-AAF2-480347EAD668_179f666a-1d65-400a-bac2-957a9754e24c.jpg",
+            "image": "shopify://shop_images/Enorm-Gallery74682-PHOTO-2021-11-15-17-42-58-1639754758-61bcac06f2a2a.webp",
+            "mobile_image": "shopify://shop_images/Enorm-Gallery74682-PHOTO-2021-11-15-17-42-58-1639754758-61bcac06f2a2a.webp",
             "subheading": "",
             "title": "",
             "mobile_text_position": "place-self-center text-center",
@@ -404,8 +404,8 @@
         "image_YajVjA": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/9CFBA866-6B82-420B-8E1E-F44E988906AA_82e09aac-8156-4d43-b5f1-1f5b9638685b.jpg",
-            "mobile_image": "shopify://shop_images/9CFBA866-6B82-420B-8E1E-F44E988906AA_82e09aac-8156-4d43-b5f1-1f5b9638685b.jpg",
+            "image": "shopify://shop_images/Enorm-Gallery74682-2015-11-24-21-17-33-1636148532-6185a534d08a6.webp",
+            "mobile_image": "shopify://shop_images/Enorm-Gallery74682-2015-11-24-21-17-33-1636148532-6185a534d08a6.webp",
             "subheading": "",
             "title": "",
             "mobile_text_position": "place-self-center text-center",
@@ -431,8 +431,8 @@
         "image_jTircU": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/8B4AEEE5-6F7C-413C-B1F0-703CF6BBF308_ee540cd9-9425-4f90-8303-56fb277105cc.jpg",
-            "mobile_image": "shopify://shop_images/8B4AEEE5-6F7C-413C-B1F0-703CF6BBF308_ee540cd9-9425-4f90-8303-56fb277105cc.jpg",
+            "image": "shopify://shop_images/Enorm-Gallery74682-PHOTO-2021-11-15-17-51-01-1639754781-61bcac1d9f186.webp",
+            "mobile_image": "shopify://shop_images/Enorm-Gallery74682-PHOTO-2021-11-15-17-51-01-1639754781-61bcac1d9f186.webp",
             "subheading": "",
             "title": "",
             "mobile_text_position": "place-self-center text-center",
@@ -458,8 +458,8 @@
         "image_dxCxEH": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/695754AA-39D0-478E-A352-C0AD9E635F30.jpg",
-            "mobile_image": "shopify://shop_images/695754AA-39D0-478E-A352-C0AD9E635F30.jpg",
+            "image": "shopify://shop_images/Enorm-Gallery74682-2020-11-15-14-33-24-1636152101-6185b3252ff63.jpg",
+            "mobile_image": "shopify://shop_images/Enorm-Gallery74682-2020-11-15-14-33-24-1636152101-6185b3252ff63.jpg",
             "subheading": "",
             "title": "",
             "mobile_text_position": "place-self-center text-center",
@@ -485,8 +485,8 @@
         "image_qMEP6J": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/D87B951F-A4CF-42F1-ABDA-E6B858C8E6A4_ec38b7cd-5725-444f-91fa-e3d711652bc2.jpg",
-            "mobile_image": "shopify://shop_images/D87B951F-A4CF-42F1-ABDA-E6B858C8E6A4_ec38b7cd-5725-444f-91fa-e3d711652bc2.jpg",
+            "image": "shopify://shop_images/image_e44c60a3-27bd-44a7-8ea5-086a56e68d1a.png",
+            "mobile_image": "shopify://shop_images/image_e44c60a3-27bd-44a7-8ea5-086a56e68d1a.png",
             "subheading": "",
             "title": "",
             "mobile_text_position": "place-self-center text-center",
@@ -528,7 +528,7 @@
         "cycle_speed": 4,
         "background": "#000000",
         "controls_color": "#ffffff",
-        "show_on_desktop": false,
+        "show_on_desktop": true,
         "show_on_mobile": true
       }
     }
