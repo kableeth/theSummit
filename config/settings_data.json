@@ -85,6 +85,13 @@
           "circle_button_icon": "#f6f8f8"
         }
       }
+    },
+    "blocks": {
+      "pagefly-page-builder": {
+        "type": "shopify://apps/pagefly-page-builder/blocks/app-embed/83e179f7-59a0-4589-8c66-c0dddf959200",
+        "disabled": false,
+        "settings": {}
+      }
     }
   },
   "presets": {

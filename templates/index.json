@@ -1031,6 +1031,10 @@
         "show_on_desktop": true,
         "show_on_mobile": true
       }
+    },
+    "pagefly-home": {
+      "type": "pagefly-home",
+      "settings": {}
     }
   },
   "order": [
@@ -1051,6 +1055,7 @@
     "before-after",
     "rich_text_KxRnAf",
     "countdown_cYNFpL",
-    "rich_text_xX7hLG"
+    "rich_text_xX7hLG",
+    "pagefly-home"
   ]
 }
