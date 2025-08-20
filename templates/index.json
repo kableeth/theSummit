@@ -911,7 +911,7 @@
           "settings": {
             "color_scheme": "",
             "image": "shopify://shop_images/SPRING-3.png",
-            "text": "",
+            "text": "From Summer",
             "link_text": "",
             "link_url": "",
             "link_style": "link"
@@ -922,18 +922,7 @@
           "settings": {
             "color_scheme": "",
             "image": "shopify://shop_images/FALL.png",
-            "text": "",
-            "link_text": "",
-            "link_url": "",
-            "link_style": "link"
-          }
-        },
-        "after_2_WHtmf4": {
-          "type": "after_2",
-          "settings": {
-            "color_scheme": "scheme-4",
-            "image": "shopify://shop_images/SPRING-5.png",
-            "text": "After",
+            "text": "To Fall",
             "link_text": "",
             "link_url": "",
             "link_style": "link"
@@ -942,8 +931,7 @@
       },
       "block_order": [
         "before",
-        "after",
-        "after_2_WHtmf4"
+        "after"
       ],
       "settings": {
         "color_scheme": "scheme-1",
@@ -955,6 +943,30 @@
         "cursor_initial_position": 50,
         "cursor_background": "#e32c2b",
         "cursor_arrows_color": "#f6f8f8"
+      }
+    },
+    "rich_text_KxRnAf": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_gAHChA": {
+          "type": "subheading",
+          "settings": {
+            "text": "WE GOT IT ALL!"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_gAHChA"
+      ],
+      "name": "t:sections.rich_text.presets.rich_text.name",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "content_width": "sm",
+        "text_position": "center",
+        "remove_vertical_spacing": false,
+        "show_on_desktop": true,
+        "show_on_mobile": true
       }
     },
     "countdown_cYNFpL": {
@@ -1037,6 +1049,7 @@
     "rich_text_AKcGBb",
     "image-with-text-scroll",
     "before-after",
+    "rich_text_KxRnAf",
     "countdown_cYNFpL",
     "rich_text_xX7hLG"
   ]
