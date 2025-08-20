@@ -438,6 +438,7 @@
         "image_cFUQT9",
         "image_nLdfKp"
       ],
+      "disabled": true,
       "name": "t:sections.multiple_media_with_text.presets.multiple_media_with_text.name",
       "settings": {
         "color_scheme": "",
