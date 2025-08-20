@@ -927,11 +927,23 @@
             "link_url": "",
             "link_style": "link"
           }
+        },
+        "after_2_WHtmf4": {
+          "type": "after_2",
+          "settings": {
+            "color_scheme": "scheme-4",
+            "image": "shopify://shop_images/SPRING-5.png",
+            "text": "After",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link"
+          }
         }
       },
       "block_order": [
         "before",
-        "after"
+        "after",
+        "after_2_WHtmf4"
       ],
       "settings": {
         "color_scheme": "scheme-1",
