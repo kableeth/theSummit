@@ -3873,26 +3873,6 @@ product-rerender {
   clip-path: inset(0 var(--before-after-cursor-position, 0%) 0 0);
 }
 
-/* Support multiple sequential after layers (up to 3). Each layer uses its own clip var */
-.before-after--multi.before-after--horizontal .before-after__after-image.before-after__after-image--1 {
-  clip-path: inset(0 0 0 var(--ba-clip-after1, 100%));
-}
-.before-after--multi.before-after--horizontal .before-after__after-image.before-after__after-image--2 {
-  clip-path: inset(0 0 0 var(--ba-clip-after2, 100%));
-}
-.before-after--multi.before-after--horizontal .before-after__after-image.before-after__after-image--3 {
-  clip-path: inset(0 0 0 var(--ba-clip-after3, 100%));
-}
-[dir="rtl"] :is(.before-after--multi.before-after--horizontal .before-after__after-image.before-after__after-image--1) {
-  clip-path: inset(0 var(--ba-clip-after1, 100%) 0 0);
-}
-[dir="rtl"] :is(.before-after--multi.before-after--horizontal .before-after__after-image.before-after__after-image--2) {
-  clip-path: inset(0 var(--ba-clip-after2, 100%) 0 0);
-}
-[dir="rtl"] :is(.before-after--multi.before-after--horizontal .before-after__after-image.before-after__after-image--3) {
-  clip-path: inset(0 var(--ba-clip-after3, 100%) 0 0);
-}
-
 .before-after--horizontal .before-after__before-image .before-after__content-wrapper {
   justify-items: start;
   inset-block-end: var(--before-after-content-inset-block);
@@ -3924,17 +3904,6 @@ product-rerender {
 
 .before-after--vertical .before-after__after-image {
   clip-path: inset(var(--before-after-cursor-position, 0%) 0 0 0);
-}
-
-/* Vertical support for multiple sequential after layers */
-.before-after--multi.before-after--vertical .before-after__after-image.before-after__after-image--1 {
-  clip-path: inset(var(--ba-clip-after1, 100%) 0 0 0);
-}
-.before-after--multi.before-after--vertical .before-after__after-image.before-after__after-image--2 {
-  clip-path: inset(var(--ba-clip-after2, 100%) 0 0 0);
-}
-.before-after--multi.before-after--vertical .before-after__after-image.before-after__after-image--3 {
-  clip-path: inset(var(--ba-clip-after3, 100%) 0 0 0);
 }
 
 .before-after--vertical .before-after__before-image .before-after__content-wrapper {
