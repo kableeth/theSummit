@@ -16,49 +16,9 @@
         "show_title": true,
         "page_width": "xs"
       }
-    },
-    "rich_text_UXKnbt": {
-      "type": "rich-text",
-      "blocks": {
-        "subheading_PG8DAd": {
-          "type": "subheading",
-          "settings": {
-            "text": "2025"
-          }
-        },
-        "heading_nF9MXB": {
-          "type": "heading",
-          "settings": {
-            "text": "<strong>Kid's Fall Fun Zone Info</strong>",
-            "heading_tag": "h1"
-          }
-        },
-        "richtext_jPfiYc": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p><em><strong>Get Ready for a Fun-filled Fall Season!</strong></em></p><p><em><strong>Join Us Sept. 27th  ~ October 31st  </strong></em></p><ol><li>Monday - Thursday 9 am - 6 pm </li><li>Friday   9 am - 8 pm   </li><li>Saturdays & Sundays 9 am - 6 pm</li></ol>"
-          }
-        }
-      },
-      "block_order": [
-        "subheading_PG8DAd",
-        "heading_nF9MXB",
-        "richtext_jPfiYc"
-      ],
-      "name": "t:sections.rich_text.presets.rich_text.name",
-      "settings": {
-        "color_scheme": "",
-        "separate_section_with_border": true,
-        "content_width": "sm",
-        "text_position": "center",
-        "remove_vertical_spacing": false,
-        "show_on_desktop": true,
-        "show_on_mobile": true
-      }
     }
   },
   "order": [
-    "main",
-    "rich_text_UXKnbt"
+    "main"
   ]
 }
