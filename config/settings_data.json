@@ -29,6 +29,18 @@
     "text_font_size_desktop": 16,
     "button_letter_spacing": 18,
     "content_for_index": [],
+    "blocks": {
+      "pagefly-page-builder": {
+        "type": "shopify://apps/pagefly-page-builder/blocks/app-embed/83e179f7-59a0-4589-8c66-c0dddf959200",
+        "disabled": false,
+        "settings": {}
+      },
+      "8894331228533076561": {
+        "type": "shopify://apps/k-shoppable-image-hotspot/blocks/app-extension/5994dcb2-8918-42d3-bc99-30165d760b89",
+        "disabled": false,
+        "settings": {}
+      }
+    },
     "color_schemes": {
       "scheme-1": {
         "settings": {
@@ -84,13 +96,6 @@
           "circle_button_background": "#f99d2a",
           "circle_button_icon": "#f6f8f8"
         }
-      }
-    },
-    "blocks": {
-      "pagefly-page-builder": {
-        "type": "shopify://apps/pagefly-page-builder/blocks/app-embed/83e179f7-59a0-4589-8c66-c0dddf959200",
-        "disabled": false,
-        "settings": {}
       }
     }
   },
