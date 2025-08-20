@@ -15,7 +15,7 @@
         "slide-1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/header-summer_f0e2728d-ae23-42e9-96fd-d72f032903d7.jpg",
+            "image": "shopify://shop_images/header-summer.jpg",
             "mobile_image": "shopify://shop_images/header-summer.jpg",
             "subheading": "",
             "title": "<strong>Welcome to The Summit</strong>",
@@ -64,11 +64,38 @@
             "border_color": "",
             "gradient_overlay": "linear-gradient(180deg, rgba(54, 54, 54, 0.2), rgba(4, 4, 4, 0.65) 100%)"
           }
+        },
+        "image_NKbYeR": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/header-fall.jpg",
+            "subheading": "",
+            "title": "Welcome to The Summit",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "content_max_width": 440,
+            "button_1_text": "BRINGING THE BEST OF EVERY SEASON SINCE 1978",
+            "button_1_link": "",
+            "button_1_style": "outline",
+            "button_1_background": "#ffffff",
+            "button_1_text_color": "#000000",
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_style": "outline",
+            "button_2_background": "#ffffff",
+            "button_2_text_color": "#000000",
+            "background": "",
+            "background_opacity": 50,
+            "text_color": "#ffffff",
+            "border_color": "",
+            "gradient_overlay": "linear-gradient(180deg, rgba(54, 54, 54, 0.2), rgba(4, 4, 4, 0.65) 100%)"
+          }
         }
       },
       "block_order": [
         "slide-1",
-        "image_KjpFEw"
+        "image_KjpFEw",
+        "image_NKbYeR"
       ],
       "settings": {
         "allow_transparent_header": true,
