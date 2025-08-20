@@ -17,8 +17,8 @@
           "settings": {
             "video": "shopify://files/videos/Fall Season Drone.mp4",
             "allow_sound": true,
-            "subheading": "",
-            "title": "",
+            "subheading": "Details",
+            "title": "Kids Fall Fun Zone",
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
             "content_max_width": 780,
@@ -47,7 +47,7 @@
       "settings": {
         "allow_transparent_header": true,
         "show_next_section_button": true,
-        "media_size": "auto",
+        "media_size": "sm",
         "show_initial_transition": false,
         "autoplay": true,
         "autoplay_pause_on_video": true,
